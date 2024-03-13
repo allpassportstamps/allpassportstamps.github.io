@@ -5,10 +5,10 @@ date: 2019-09-11 00:00:00 +0000
 description: Trip to Germany
 img: germany/wurzburg_station.JPEG
 fig-caption:
-tags: [Germany]
+tags: [Germany, Europe]
 ---
 
-![Germany Flag]({{site.baseurl}}/assets/img/flags/4x3/de.svg){:height="36px" width="36px"} Germany \| Country 4 \| 7 days
+![Germany Flag]({{site.baseurl}}/assets/img/flags/4x3/de.svg){:height="36px" width="36px"} Germany \| Country 4 \| 7 days \| 
 
 >As I am writing this post in 2024, I realized that this trip was the beginning of my love for adventure. I was young and took many things for granted... What I would give up to go back in time and tell myself to treasure this time and this youth. 
 
