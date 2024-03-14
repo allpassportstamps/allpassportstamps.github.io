@@ -16,7 +16,7 @@ I kicked off 2020 with the assumption that everyone in Mexico eats burritos and 
 
 ## Hostel World 
 
-I stayed in a dorm and quickly made quite a few friends. There are quite a few personalities:
+I stayed in a dorm and quickly made quite a few friends.
 * Australians - they are everywhere!
 * Digital nomad from Denver (little did I know that everyone would be working remotely very soon)
 * American who wanted to relocate for a year
@@ -38,7 +38,7 @@ The capital is busy, full of traffic and hustle. I was so surprised to learn tha
 
 ![school]({{site.baseurl}}/assets/img/mexico/school.JPEG){:width="50%"}
 
-I visited the Basilica de Guadalupe, and learned more about Mexican localized flavor of Catholicism. 
+I visited the Basilica de Guadalupe, and learned more about the Latin localized flavor of Catholicism. 
 
 ![guadalupe]({{site.baseurl}}/assets/img/mexico/guadalupe.JPEG){:width="50%"}
 
@@ -56,7 +56,7 @@ A German tourist said to me that Al Pastor is the same as Shawarma. I am good wi
 
 ## Aztec and Teotihuacan 
 
-I did a day tour to their pyramids. After taking tequila shots, I couldn't believe that I had no more energy to climb the pyramids. 
+I did a day tour to the pyramids. After taking tequila shots, I couldn't believe that I had no more energy left to climb. Regardless, I made my way up slowly. 
 
 ![teotihuacan]({{site.baseurl}}/assets/img/mexico/teotihuacan.JPEG){:width="50%"}![aztec]({{site.baseurl}}/assets/img/mexico/aztec.JPEG){:width="50%"}
 
