@@ -5,12 +5,10 @@ date: 2022-05-31 00:00:00 +0000
 description: Trip to El Salvador
 img: el_salvador/sal_beach.jpeg
 fig-caption:
-tags: [Central America, Europe]
+tags: [El Salvador, Central America]
 ---
 
-![El Salvador Flag]({{site.baseurl}}/assets/img/flags/4x3/sv.svg){:height="36px" width="36px"} Ecuador \| Country 8 \| 4 day \| 
-
-I was cautious, given El Salvador's murder capital reputation. 
+![El Salvador Flag]({{site.baseurl}}/assets/img/flags/4x3/sv.svg){:height="36px" width="36px"} El Salvador \| Country 8 \| 4 day \| 
 
 I arrived at San Salvador late in the evening. After a good night sleep, I went and checked out their town square and museums. 
 
@@ -22,24 +20,23 @@ Central America was once united as the Federal Republic of Central America, and 
 
 ### Bitcoin Only? 
 
-El Salvador has been using the US dollar.
+El Salvador's currency is the US dollar.
 
->It's so interesting to see $1 sim cards being sold on the streets, where as I am used to $20-$50 ones in the US.  
+>Of course, everything is cheaper - for instance, a sim card is $1. 
 
-This changed when President Nayib Bukele pushed the country towards a monetary system consisting of Bitcoin. 
+President Nayib Bukele and the government has also introduced Bitcoin as an official currency. 
 
 ![president]({{site.baseurl}}/assets/img/el_salvador/president.jpeg){:width="50%"}![bitcoin]({{site.baseurl}}/assets/img/el_salvador/bitcoin.jpeg){:width="28%"}
 
+*Campaign poster from Downtown San Salvador \| McDonalds accept Bitcoin payment!*
 
-*Campaign poster from Downtown San Salvador \| McDonalds accept Bitcoin!*
-
-Although it's not used much by the locals, I was very impressed by how widely accepted Bitcoin is by bigger corporations. 
+Although it's not used much by the locals, I am impressed by the adoption and futuristic vision. 
 
 ### Bitcoin Beach
 
-I visited the beautiful beaches of El Salvador facing the Pacific - El Tunco then El Zonte. 
+I visited the beautiful beaches of El Salvador facing the Pacific - El Tunco and El Zonte. 
 
-El Tunco is a much bigger and popular beach. There is a large pier and a busy market. It's a mix of industrials, vacations and surfers!  
+El Tunco is much bigger and more popular with the locals . There is a large pier and a busy market. It's a blend of industrials, vacations and surfers!  
 
 ![hand fishing]({{site.baseurl}}/assets/img/el_salvador/hand_fishing.jpeg){:width="50%"}![bitcoin_beach2]({{site.baseurl}}/assets/img/el_salvador/bitcoin_beach2
 .jpeg){:width="50%"}
@@ -49,12 +46,13 @@ About 20 mins by car, there is El Zonte, better known to tourists as Bitcoin bea
 
 All the shops do accept Bitcoin through the government payment app. Of course, the shops and resorts are higher end and there are mostly tourists there. 
 
-![bitoin_beach]({{site.baseurl}}/assets/img/el_salvador/bitoin_beach.jpeg){:width="50%"}![bitcoin_beach3]({{site.baseurl}}/assets/img/el_salvador/bitcoin_beach3
-.jpeg){:width="28%"}
+![bitoin_beach]({{site.baseurl}}/assets/img/el_salvador/bitoin_beach.jpeg){:width="50%"}![bitcoin_beach3]({{site.baseurl}}/assets/img/el_salvador/bitcoin_beach3.jpeg){:width="28%"}
 
 ### Pupusas
 
-There is something so fresh about seeing fresh pupusas made on the streets. The cheese and fillings blend so perfectly. 
+It's their national dish. 
+
+Fresh pupusas are made everywhere on the streets. The cheese and fillings are blended in front of your eyes into a steamy bun of goodness. 
 
 ![pupusa_streetfood]({{site.baseurl}}/assets/img/el_salvador/pupusa_streetfood.jpeg){:width="50%"}![downtown_market]({{site.baseurl}}/assets/img/el_salvador/downtown_market.jpeg){:width="50%"}
 

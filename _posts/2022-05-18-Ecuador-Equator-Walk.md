@@ -5,7 +5,7 @@ date: 2022-05-18 00:00:00 +0000
 description: Trip to Ecuador
 img: ecuador/quito.jpeg
 fig-caption:
-tags: [South America, Europe]
+tags: [Ecuador, South America]
 ---
 
 ![Ecuador Flag]({{site.baseurl}}/assets/img/flags/4x3/ec.svg){:height="36px" width="36px"} Ecuador \| Country 7 \| 4 day \| 
@@ -61,7 +61,7 @@ Chifa, like Chaulafan, seems like the perfect fusion between Chinese and Ecuador
 
 No, I did not. Given its popularity as a clothing brand, I was naturally curious. I wasn't fit enough to join the hostel climbers who wanted to submit. 
 
-However, I did take the cable car with a couple of folks from the hostel to the near mountain. 
+However, I did take the cable car with a couple of folks from the hostel to the other mountain near Quito. 
 
 ![climb]({{site.baseurl}}/assets/img/ecuador/climb.jpeg){:width="50%"}![overlook]({{site.baseurl}}/assets/img/ecuador/overlook.jpeg){:width="50%"}
 
@@ -71,7 +71,7 @@ The nightlife was something interesting. I will just leave it at that.
 
 ### Otavalo
 
-Otavalo is in the Andean highlands, and I went with a tour group to visit. A crafts person shared with the bus their textiles and sang a traditional song for us. 
+Otavalo is in the Andean highlands, and I visited with a tour group. A crafts person taught us about their textiles and sang a traditional song for us. 
 
 The market had quite a few crafts and I was glad to see the indigenous groups in Ecuador thriving. 
 
