@@ -5,18 +5,18 @@ date: 2022-07-03 00:00:00 +0000
 description: Trip to Colombia
 img: colombia/juan_valdez2.jpeg
 fig-caption:
-tags: [Colombia, Central America]
+tags: [Colombia, South America]
 ---
 
 ![Colombia Flag]({{site.baseurl}}/assets/img/flags/4x3/co.svg){:height="36px" width="36px"} Colombia \| Country 10 \| 6 day \| 
 
 I spent 6 days across Medellín and Bogota.
 
-My friend Luis from college is from Colombia, and I have heard so much about the country over the years.  I'd personally explain the cities like Los Angeles versus New York - the paisas versus the suits.
+My friend Luis from college is from Colombia, and I have heard so much about the country over the years.  I'd personally explain the two cities as the Los Angeles and New York of America, a different culture for sure.
 
 ### Medellin
 
-I first visited Medellin and arrived at the hostel. As the borders are slowly opening up, Colombia was a popular destination. There were quite a few slow travelers, including a Canadian expat girl who can't stay in Qingdao, China, anymore because of the COVID situation. 
+I first visited Medellin and arrived at the hostel. As the borders are slowly opening up, Colombia was a popular destination. There were quite a few slow travelers, including a Canadian expat girl who couldn't stay in Qingdao, China, anymore because of the COVID situation. 
 
 Medellin is known as the city of eternal spring, with paisas, the Colombians, who are famous for their openness and cheerfulness. 
 

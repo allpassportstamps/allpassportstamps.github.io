@@ -5,7 +5,7 @@ date: 2022-08-05 00:00:00 +0000
 description: Trip to Belize
 img: belize/caye.jpg
 fig-caption:
-tags: [Belize, Central Ameerica]
+tags: [Belize, Central America]
 ---
 
 ![Belize Flag]({{site.baseurl}}/assets/img/flags/4x3/bz.svg){:height="36px" width="36px"} Belize \| Country 11 \| 4 day \| 
@@ -62,7 +62,7 @@ I vividly remember receiving news during this time that one of the cryptocurrenc
 
 Belize City is definitely rougher, where safety can be a concern at night. 
 
-I came across this gigantic green crab that climbed into the sewer during the rain. Belize City had these deep and wide sewers along the roads to prevent flooding. I understood why after googling "belize city flood". 
+I came across this gigantic green crab that climbed into the sewer during the rain. Belize City has these deep and wide sewers along the roads to prevent flooding. I understood why after googling "belize city flood". 
 
 The hotel that I stayed at was great. The owner was not present, but there were signs everywhere about investing in real estate in Belize City, Belmopan or the islands. 
 
@@ -86,6 +86,6 @@ I also traveled to San Pedro. Just so many beautiful white sand beaches and clou
 
 San Pedro is also just so narrow - I figure 2-3 blocks in width at most. I came across these shops, some were Chinese. 
 
-Overall, Belize just seemed incredible - a little pocket of familiarity in Central America. 
+Overall, Belize is just seemed incredible - a little pocket of American familiarity in Central America. 
 
 I said my goodbyes, and I will really miss Belize. 
