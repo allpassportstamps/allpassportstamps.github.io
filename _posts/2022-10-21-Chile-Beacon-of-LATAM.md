@@ -10,7 +10,7 @@ tags: [Chile, South America]
 
 ![Chile Flag]({{site.baseurl}}/assets/img/flags/4x3/cl.svg){:height="36px" width="36px"} Chile \| Country 13 \| 8 day \| 
 
->Don't worry about the picture. It's not a violent protest. Just everyone celebrating a local soccer team's latest win on a Sunday night.
+>It's not a violent protest. Just everyone celebrating a local soccer team's latest win on a Sunday night.
 
 I arrived in Santiago, having connected through Mexico. I would be spending the next week and a half in this wonderful South American country. 
 
@@ -99,10 +99,10 @@ It is a port city, known for:
 
 ![valparaiso_mural2]({{site.baseurl}}/assets/img/chile/valparaiso_mural2.jpeg){:width="50%"}![valparaiso_mural1]({{site.baseurl}}/assets/img/chile/valparaiso_mural1.jpeg){:width="50%"}
 
-I had a 2 day short stay and went back to Santiago to get back home. 
-
-I have caught a terrible "cold" at the end of my trip. So I can say that I am fortunate that it didn't affect my trip at all. 
-
 I will always remember this. 
 
 ![valparaiso]({{site.baseurl}}/assets/img/chile/valparaiso.jpeg){:width="50%"}
+
+I unfortunately had caught a terrible "cold" at the end of my trip.
+
+I stayed in Valparaiso for two days and returned to Santiago to get home. 
