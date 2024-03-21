@@ -32,7 +32,7 @@ I just can't get enough of the beef patties. All the memories of my childhood sn
 
 ### Montego Bay
 
-I checked into my hotel within walking distance of downtown. It's almost a resort with a pool and large venue. A wedding a hosted at the hotel a few days later with 50+ people and it was quite an experience for me to watch from afar. 
+I checked into my hotel within walking distance of downtown. It's almost a resort with a pool and large venue. A wedding was hosted at the hotel a few days later with 50+ people and it was quite an experience for me to watch from afar. 
 
 ![rainbow]({{site.baseurl}}/assets/img/jamaica/rainbow.jpeg){:width="50%"}![cornwall]({{site.baseurl}}/assets/img/jamaica/cornwall.jpeg){:width="50%"}
 
@@ -50,7 +50,7 @@ There are a few structures from the old days as well.
 
 ![cannon]({{site.baseurl}}/assets/img/jamaica/canon.jpeg){:width="50%"}![tower]({{site.baseurl}}/assets/img/jamaica/tower.jpeg){:width="50%"}
 
-I strolled through the main beach called Harmony Beach. It was a Christmas paradise. I am sure that the beaches are much busier during cruise season. 
+I strolled through the main beach called Harmony Beach. It was a Christmas paradise. I am sure that the beaches are much busier during cruise ship season. 
 
 ![harmony]({{site.baseurl}}/assets/img/jamaica/harmony.jpeg){:width="50%"}![harmony2]({{site.baseurl}}/assets/img/jamaica/harmony2.jpeg){:width="50%"}
 
@@ -66,7 +66,7 @@ Jerk chicken is of course famous for its smoky and fragrant taste. This peanut p
 
 ![holiday_food]({{site.baseurl}}/assets/img/jamaica/holiday_food.jpeg){:width="28%"}![sugar_cane]({{site.baseurl}}/assets/img/jamaica/sugar_cane.jpeg){:width="28%"}
 
-This fried dough is called a "festival," and it's sweet with a taste of cinnamon. Sugar canes are also very popular in the heat.
+This fried dough is called a "festival," and it's sweet with some cinnamon flavors. Sugar canes are also very popular in the island heat.
 
 ### The Hip Strip
 
@@ -76,7 +76,7 @@ Alongside Starbucks and many mom and pop shops, there is a beach called Doctor's
 
 ![bolt]({{site.baseurl}}/assets/img/jamaica/bolt.jpeg){:width="50%"}![athletes]({{site.baseurl}}/assets/img/jamaica/athletes.jpeg){:width="50%"}
 
-I visited Bolt's restaurant and museum. Funnily enough, I saw on the news a few days prior that he was close to being broke because of a recent scandal involving the largest Jamaican financial institution. 
+I visited Bolt's restaurant and museum. Funnily enough, I saw on the news a few days prior that Mr Bolt was close to being broke because of a recent scandal involving the largest Jamaican financial institution. 
 
 ![marley]({{site.baseurl}}/assets/img/jamaica/marley.jpeg){:width="28%"}![goat]({{site.baseurl}}/assets/img/jamaica/goat.jpeg){:width="50%"}
 
@@ -88,7 +88,7 @@ I spent two days touring the local side of Jamaica.
 
 ![bookstore]({{site.baseurl}}/assets/img/jamaica/bookstore.jpeg){:width="50%"}![cutting]({{site.baseurl}}/assets/img/jamaica/cutting.jpeg){:width="50%"}
 
-As you can imagine, a lot of books and jobs are dedicated to the hospitality and hotel industry. 
+A lot of books and jobs are dedicated to the hospitality and hotel industry. 
 
 ![breakfast2]({{site.baseurl}}/assets/img/jamaica/breakfast2.jpeg){:width="50%"}![breakfast]({{site.baseurl}}/assets/img/jamaica/breakfast.jpeg){:width="50%"}
 
