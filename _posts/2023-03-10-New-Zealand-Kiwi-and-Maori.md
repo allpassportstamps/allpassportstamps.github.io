@@ -14,14 +14,14 @@ I wish I had planned my trip better to also include a visit to South Island. To 
 
 Some aspects of the New Zealand trip that I find really unique:
 * Like other parts of Oceania, some very unique animals that have de-evolved due to the geography
-* Very progressive in many ways, such as women's rights, environmental protections and relationship with the natives
 * It is so similar to Canada, as both countries were formerly British colonies
+* Very progressive in many ways, such as women's rights, environmental protections and relationship with the natives
 * Nature!
 * Where Kiwi polish came from for shoe shine
 
 ### Auckland
 
-The first few days of my month long sabbatical was a bit rough, and I was so glad to be in New Zealand and embrace familiarity. 
+The first few days of my month long sabbatical were a bit rough, and I was so glad to be in New Zealand and embrace familiarity. 
 
 I checked into the Cordis hotel for one night, and enjoyed the views and amenities. 
 
