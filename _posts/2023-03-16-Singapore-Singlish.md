@@ -92,7 +92,7 @@ Buildings in SG place a strong emphasis on green design, and rightly so.
 
 ![green]({{site.baseurl}}/assets/img/singapore/green.jpeg){:width="28%"}![green2]({{site.baseurl}}/assets/img/singapore/green2.jpeg){:width="50%"}
 
-The night before my flight, I walked Orchid road, the upscale shopping center of SG. 
+The night before my flight, I walked Orchard road, the upscale shopping center of SG. 
 
 ![convenience2]({{site.baseurl}}/assets/img/singapore/convenience2.jpeg){:width="50%"}![convenience]({{site.baseurl}}/assets/img/singapore/convenience.jpeg){:width="50%"}
 
