@@ -8,7 +8,7 @@ fig-caption:
 tags: [Malaysia, Asia]
 ---
 
-![Malaysia Flag]({{site.baseurl}}/assets/img/flags/4x3/my.svg){:height="36px" width="36px"} Malaysia \| Country 21 \| 24 day \| 
+![Malaysia Flag]({{site.baseurl}}/assets/img/flags/4x3/my.svg){:height="36px" width="36px"} Malaysia \| Country 21 \| 4 day \| 
 
 Having grown up watching so much Youtube by Malaysian Youtubers, it's surreal to be in the country and finally connect the dots on so many cultural references, both good and bad. 
 
