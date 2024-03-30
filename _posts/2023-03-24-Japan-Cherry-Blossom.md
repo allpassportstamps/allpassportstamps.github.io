@@ -116,17 +116,17 @@ Osaka is much more easy going than Tokyo.
 
 I went on a day trip to Nara and a separate day trip to Kobe. 
 
-Nara is of course famous for the bowing deer. They are everywhere and very aggressive. The vendors all sell the rice crackers, and the deer are polite and persistent. 
+Nara is of course famous for the bowing deer. They are everywhere and very aggressive. The vendors all sell the rice crackers. The deer are polite but persistent. 
 
 ![nara]({{site.baseurl}}/assets/img/japan/nara.jpeg){:width="50%"}![nara2]({{site.baseurl}}/assets/img/japan/nara2.jpeg){:width="50%"}
 
-Kobe is famous for its wagyu, and I waited more than 1.5 hours at a restaurant to experience it. The beef melts inside your mouth - like drinking down melted cheese. 
+Kobe is famous for its wagyu. I waited more than 1.5 hours at a restaurant for lunch to experience it. The beef just melts as soon as it comes inside your mouth, like drinking down melted cheese. 
 
 ![kobe]({{site.baseurl}}/assets/img/japan/kobe.jpeg){:width="50%"}![kobe2]({{site.baseurl}}/assets/img/japan/kobe2.jpeg){:width="50%"}
 
 ![kobe3]({{site.baseurl}}/assets/img/japan/kobe3.jpeg){:width="50%"}
 
-I had a very very close call, getting lost in Osaka, for my bus to Tokyo. Fortunately, I made it :) 
+I had a very very close call, getting lost in Osaka, arriving to my bus to Tokyo. Fortunately, I made it :) 
 
 There's still so much of Japan left for me to explore, and I'm certain I'll be back!
 
