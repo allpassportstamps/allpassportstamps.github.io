@@ -6,7 +6,7 @@ description: Trip to Tunisia
 img: tunisia/cafe.jpeg 
 fig-caption:
 tags: [Tunisia, Africa] 
-published: false
+# published: false
 
 ---
 
