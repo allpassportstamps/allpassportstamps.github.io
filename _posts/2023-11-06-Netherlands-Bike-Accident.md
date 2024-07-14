@@ -5,7 +5,7 @@ date: 2023-11-06 00:00:00 +0000
 description: Trip to Netherlands
 img: netherlands/bike.jpeg
 fig-caption:
-tags: [Netherlands, Europe]
+tags: [Europe]
 ---
 
 ![Netherlands Flag]({{site.baseurl}}/assets/img/flags/4x3/nl.svg){:height="36px" width="36px"} Netherlands \| Country 23 \| 1 day \|

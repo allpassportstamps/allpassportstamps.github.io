@@ -5,7 +5,7 @@ date: 2022-05-31 00:00:00 +0000
 description: Trip to El Salvador
 img: el_salvador/sal_beach.jpeg
 fig-caption:
-tags: [El Salvador, Central America]
+tags: [North America]
 ---
 
 ![El Salvador Flag]({{site.baseurl}}/assets/img/flags/4x3/sv.svg){:height="36px" width="36px"} El Salvador \| Country 8 \| 4 day \| 

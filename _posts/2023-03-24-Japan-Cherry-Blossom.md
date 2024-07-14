@@ -5,7 +5,7 @@ date: 2023-03-24 00:00:00 +0000
 description: Trip to Japan
 img: japan/japan_cover.jpeg
 fig-caption:
-tags: [japan, Asia]
+tags: [Asia]
 ---
 
 ![Japan Flag]({{site.baseurl}}/assets/img/flags/4x3/jp.svg){:height="36px" width="36px"} Japan \| Country 22 \| 7 day \|

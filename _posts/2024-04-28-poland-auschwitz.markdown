@@ -5,7 +5,7 @@ date: 2024-04-28 00:00:00 +0000
 description: Trip to Poland
 img: poland/auschwitz.jpeg 
 fig-caption:
-tags: [Poland, Europe] 
+tags: [Europe] 
 # published: false
 
 ---

@@ -5,7 +5,7 @@ date: 2019-11-24 00:00:00 +0000
 description: Trip to Taiwan
 img: taiwan/taiwan2.png
 fig-caption:
-tags: [Taiwan, Asia]
+tags: [Asia]
 ---
 
 ![Taiwan Flag]({{site.baseurl}}/assets/img/flags/4x3/tw.svg){:height="36px" width="36px"} Taiwan \| Not a UN recognized country \| 8 days \| 

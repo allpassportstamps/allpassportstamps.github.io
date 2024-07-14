@@ -5,7 +5,7 @@ date: 2023-03-07 00:00:00 +0000
 description: Trip to Vanuatu
 img: vanuatu/truck.jpeg
 fig-caption:
-tags: [Vanuatu, Oceania]
+tags: [Oceania]
 ---
 
 ![Vanuatu Flag]({{site.baseurl}}/assets/img/flags/4x3/vu.svg){:height="36px" width="36px"} Vanuatu \| Country 18 \| 2 day \| 

@@ -5,7 +5,7 @@ date: 2022-05-18 00:00:00 +0000
 description: Trip to Ecuador
 img: ecuador/quito.jpeg
 fig-caption:
-tags: [Ecuador, South America]
+tags: [South America]
 ---
 
 ![Ecuador Flag]({{site.baseurl}}/assets/img/flags/4x3/ec.svg){:height="36px" width="36px"} Ecuador \| Country 7 \| 4 day \| 

@@ -5,7 +5,7 @@ date: 2024-02-06 00:00:00 +0000
 description: Trip to Tunisia
 img: tunisia/cafe.jpeg 
 fig-caption:
-tags: [Tunisia, Africa] 
+tags: [Africa] 
 # published: false
 
 ---

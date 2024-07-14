@@ -5,7 +5,7 @@ date: 2023-11-07 00:00:00 +0000
 description: Trip to Serbia
 img: serbia/djokovic4.jpeg
 fig-caption:
-tags: [Serbia, Europe]
+tags: [Europe]
 ---
 
 ![Serbia Flag]({{site.baseurl}}/assets/img/flags/4x3/rs.svg){:height="36px" width="36px"} Serbia \| Country 24 \| 5 day \|

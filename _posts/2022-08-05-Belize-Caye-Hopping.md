@@ -5,7 +5,7 @@ date: 2022-08-05 00:00:00 +0000
 description: Trip to Belize
 img: belize/caye.jpg
 fig-caption:
-tags: [Belize, Central America]
+tags: [North America]
 ---
 
 ![Belize Flag]({{site.baseurl}}/assets/img/flags/4x3/bz.svg){:height="36px" width="36px"} Belize \| Country 11 \| 4 day \| 

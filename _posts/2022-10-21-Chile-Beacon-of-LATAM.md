@@ -5,7 +5,7 @@ date: 2022-10-21 00:00:00 +0000
 description: Trip to Chile
 img: chile/soccer_celebration2.png
 fig-caption:
-tags: [Chile, South America]
+tags: [South America]
 ---
 
 ![Chile Flag]({{site.baseurl}}/assets/img/flags/4x3/cl.svg){:height="36px" width="36px"} Chile \| Country 13 \| 8 day \| 

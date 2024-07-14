@@ -5,7 +5,7 @@ date: 2020-02-28 00:00:00 +0000
 description: Trip to UK
 img: uk/tower.JPEG
 fig-caption:
-tags: [UK, Europe]
+tags: [Europe]
 ---
 
 ![UK Flag]({{site.baseurl}}/assets/img/flags/4x3/gb.svg){:height="36px" width="36px"} UK \| Country 6 \| 1 day \| 

@@ -5,7 +5,7 @@ date: 2022-12-07 00:00:00 +0000
 description: Trip to Guyana
 img: guyana/street2.jpeg
 fig-caption:
-tags: [Guyana, South America]
+tags: [South America]
 ---
 
 ![Guyana Flag]({{site.baseurl}}/assets/img/flags/4x3/gy.svg){:height="36px" width="36px"} Guyana \| Country 15 \| 4 day \| 

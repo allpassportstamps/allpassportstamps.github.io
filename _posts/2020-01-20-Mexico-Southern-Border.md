@@ -5,7 +5,7 @@ date: 2020-01-20 00:00:00 +0000
 description: Trip to Mexico
 img: mexico/teotihuacan_2.JPEG
 fig-caption:
-tags: [Mexico, North America]
+tags: [North America]
 ---
 
 ![Mexico Flag]({{site.baseurl}}/assets/img/flags/4x3/mx.svg){:height="36px" width="36px"} Mexico \| Country 5 \| 7 days \| 

@@ -5,7 +5,7 @@ date: 2022-06-30 00:00:00 +0000
 description: Trip to Panama
 img: panama/canal_1.jpeg
 fig-caption:
-tags: [Panama, Central America]
+tags: [North America]
 ---
 
 ![Panama Flag]({{site.baseurl}}/assets/img/flags/4x3/pa.svg){:height="36px" width="36px"} Panama \| Country 9 \| 3 day \| 

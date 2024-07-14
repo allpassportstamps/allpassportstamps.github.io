@@ -5,7 +5,7 @@ date: 2022-11-21 00:00:00 +0000
 description: Trip to Denmark
 img: denmark/mermaid2.jpeg
 fig-caption:
-tags: [Denmark, Europe]
+tags: [Europe]
 ---
 
 ![Denmark Flag]({{site.baseurl}}/assets/img/flags/4x3/dk.svg){:height="36px" width="36px"} Denmark \| Country 14 \| 5 day \| 

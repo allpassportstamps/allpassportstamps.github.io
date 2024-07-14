@@ -5,7 +5,7 @@ date: 2022-09-18 00:00:00 +0000
 description: Trip to Grenada
 img: grenada/coconuts.jpg
 fig-caption:
-tags: [Grenada, Caribbean]
+tags: [North America]
 ---
 
 ![Grenada Flag]({{site.baseurl}}/assets/img/flags/4x3/gd.svg){:height="36px" width="36px"} Grenada \| Country 12 \| 4 day \| 

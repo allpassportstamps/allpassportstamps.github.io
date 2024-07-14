@@ -5,7 +5,7 @@ date: 2023-03-02 00:00:00 +0000
 description: Trip to Fiji
 img: fiji/water.jpeg
 fig-caption:
-tags: [Fiji, Oceania]
+tags: [Oceania]
 ---
 
 ![Fiji Flag]({{site.baseurl}}/assets/img/flags/4x3/fj.svg){:height="36px" width="36px"} Fiji \| Country 17 \| 4 day \| 

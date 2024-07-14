@@ -5,7 +5,7 @@ date: 2024-07-10 00:00:00 +0000
 description: Trip to Honduras
 img: honduras/copan1.jpeg 
 fig-caption:
-tags: [Honduras, Central America] 
+tags: [North America] 
 # published: false
 
 ---

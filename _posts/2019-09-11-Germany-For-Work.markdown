@@ -5,7 +5,7 @@ date: 2019-09-11 00:00:00 +0000
 description: Trip to Germany
 img: germany/wurzburg_station.JPEG
 fig-caption:
-tags: [Germany, Europe]
+tags: [Europe]
 ---
 
 ![Germany Flag]({{site.baseurl}}/assets/img/flags/4x3/de.svg){:height="36px" width="36px"} Germany \| Country 4 \| 7 days \| 

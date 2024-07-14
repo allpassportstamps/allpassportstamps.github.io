@@ -5,7 +5,7 @@ date: 2023-03-10 00:00:00 +0000
 description: Trip to New Zealand
 img: new_zealand/kiwi_chocolate.jpeg
 fig-caption:
-tags: [New Zealand, Oceania]
+tags: [Oceania]
 ---
 
 ![New Zealand Flag]({{site.baseurl}}/assets/img/flags/4x3/nz.svg){:height="36px" width="36px"} New Zealand \| Country 19 \| 7 day \| 

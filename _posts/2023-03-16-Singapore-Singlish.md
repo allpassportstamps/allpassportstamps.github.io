@@ -5,7 +5,7 @@ date: 2023-03-16 00:00:00 +0000
 description: Trip to Singapore
 img: singapore/marina4.jpeg
 fig-caption:
-tags: [Singapore, Asia]
+tags: [Asia]
 ---
 
 ![Singapore Flag]({{site.baseurl}}/assets/img/flags/4x3/sg.svg){:height="36px" width="36px"} Singapore \| Country 20 \| 2 day \| 

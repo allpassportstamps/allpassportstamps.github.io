@@ -5,7 +5,7 @@ date: 2022-12-27 00:00:00 +0000
 description: Trip to Jamaica
 img: jamaica/jamaican_patty.jpeg
 fig-caption:
-tags: [Jamaica, Caribbean]
+tags: [North America]
 ---
 
 ![JM Flag]({{site.baseurl}}/assets/img/flags/4x3/jm.svg){:height="36px" width="36px"} Jamaica \| Country 16 \| 5 day \| 

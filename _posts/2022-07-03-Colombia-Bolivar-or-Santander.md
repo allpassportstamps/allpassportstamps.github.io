@@ -5,7 +5,7 @@ date: 2022-07-03 00:00:00 +0000
 description: Trip to Colombia
 img: colombia/juan_valdez2.jpeg
 fig-caption:
-tags: [Colombia, South America]
+tags: [South America]
 ---
 
 ![Colombia Flag]({{site.baseurl}}/assets/img/flags/4x3/co.svg){:height="36px" width="36px"} Colombia \| Country 10 \| 6 day \| 

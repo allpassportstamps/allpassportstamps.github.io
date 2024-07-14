@@ -5,7 +5,7 @@ date: 2023-03-20 00:00:00 +0000
 description: Trip to Malaysia
 img: malaysia/city_center.jpeg
 fig-caption:
-tags: [Malaysia, Asia]
+tags: [Asia]
 ---
 
 ![Malaysia Flag]({{site.baseurl}}/assets/img/flags/4x3/my.svg){:height="36px" width="36px"} Malaysia \| Country 21 \| 4 day \| 
