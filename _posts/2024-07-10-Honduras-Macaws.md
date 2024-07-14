@@ -12,14 +12,15 @@ tags: [Honduras, Central America]
 
 ![Honduras Flag]({{site.baseurl}}/assets/img/flags/4x3/hn.svg){:height="36px" width="36px"} Honduras \| Country 27 \| 3 day \|
 
-Honduras has a bad reputation in the media. From the gangs to the poverty, I was careful. However, I quickly learned that I am overly cautious and that it's like any other Latin country capital. 
+Honduras has a bad reputation in the media from the gangs and the poverty. I quickly learned that the people are wonderful and that it's just like any Latin country. 
 
 Some aspects of my Honduras trip that I find really unique:
 
-* Baleadas is a delicious combination of tortilla, beans and fillings. The locals call taquitos "tacos" here.
+* Baleadas is a delicious combination of tortilla, beans and fillings; the locals call taquitos "tacos" here.
 * Rain storm took out the power at my hostel, and we had no lights nor internet for a night. 
-* HN has a Caribbean climate with pouring rain during the non-summer seasons. I saw quite a bit of purple lightnings. 
-* A small portion of Honduras has Mayan ruins on the border with Guatemala.
+* HN has a Caribbean climate with pouring rain during the non-summer seasons. I saw quite a bit of lightnings. And of course, hurricanes are common.
+* A small portion of Honduras has the Mayan ruins, located near the border with Guatemala.
+* The 5 stars in the Hondurean flags represent the nations of Central America - the middle being Honduras, as it touches all others.
 
 ### San Pedro Sula 
 
@@ -137,6 +138,7 @@ The food here is amazing - I figure that I will end this post with Kerim and me 
 ![breakfast]({{site.baseurl}}/assets/img/honduras/breakfast.jpeg){:width="50%"}
 
 On my bucket list for next time are:
+* Yoro, Honduras - where it rains fish
 * Omoa (Carrib side Spanish fort)
 * Utila (wonderful island, but much more popular with the locals than Roatan)
 * Tela (beach town and the gateway to the ferries)
