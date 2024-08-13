@@ -66,7 +66,7 @@ Kerim and I went into the museum and walked down this beautiful green path to th
 
 The ruins were originally painted in red. However, after approximately 1500 years, this trading post has eroded.
 
-Two structures are stadium bleacher-like, and surprisingly, even a compartment inside. 
+There are two large structures like stadium bleachers. People can sit and trade. And surprisingly, you can go inside the structures, where there are corridors shielded from the heat and downpour. 
 
 ![el_punte1]({{site.baseurl}}/assets/img/honduras/el_punte1.jpeg){:width="50%"}![el_punte2]({{site.baseurl}}/assets/img/honduras/el_punte2.jpeg){:width="28%"}
 
