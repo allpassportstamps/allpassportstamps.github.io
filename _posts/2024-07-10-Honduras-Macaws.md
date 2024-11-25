@@ -12,7 +12,7 @@ tags: [North America]
 
 ![Honduras Flag]({{site.baseurl}}/assets/img/flags/4x3/hn.svg){:height="36px" width="36px"} Honduras \| Country 27 \| 3 day \|
 
-Honduras has a bad reputation in the media from the gangs and the poverty. I quickly learned that the people are wonderful and that it's just like any Latin country. 
+Despite Honduras's challenging reputation in the media, I discovered a country rich in history, natural beauty, and wonderful people. Like many Latin American nations, it offers unique experiences that go far beyond the headlines.
 
 Some aspects of my Honduras trip that I find really unique:
 
@@ -39,7 +39,7 @@ The downtown is typical; there is the church, the city hall and a big market.
 
 I spent about a whole day exploring SPS. Like any capital, it has affluent gated areas as well as ghettos.
 
-### Copan Ruinas Roadtrip
+### Journey to the Mayan World: Copan Ruinas Roadtrip
 
 My guide Kerim and I left bright and early at 5 am to visit Copan, the famed Mayan ruin.
 
@@ -106,13 +106,9 @@ Japanese archaeologists have led the excavation, where broken pieces of stone am
 
 *Excavation in action*
 
-### The food! (Baleadas) 
+### A Taste of Honduras
 
-I started out not liking the baleadas.
-
-That quickly changed.
-
-Baleadas are to Honduras what pupusas are to El Salvador. It is the national dish, made from tortilla, beans, cheese, and fillings (e.g., chicken). It is so very tasty. 
+No trip to Honduras would be complete without experiencing its incredible cuisine. The star of Honduran food culture is undoubtedly the baleada - a dish that won me over despite initial hesitation. Introduced by German and Palestinian immigrants after WWII, it has become the country's beloved national dish.
 
 ![beleadas_1]({{site.baseurl}}/assets/img/honduras/beleadas_1.jpeg){:width="50%"}![beleadas_2]({{site.baseurl}}/assets/img/honduras/beleadas_2.jpeg){:width="50%"}
 *Note: the baleadas are made popular by the German / Palestine immigrants after WWII who came - although not native, it is quite popular here*
@@ -137,9 +133,10 @@ The food here is amazing - I figure that I will end this post with Kerim and me 
 
 ![breakfast]({{site.baseurl}}/assets/img/honduras/breakfast.jpeg){:width="50%"}
 
-On my bucket list for next time are:
-* Yoro, Honduras - where it rains fish
-* Omoa (Carrib side Spanish fort)
-* Utila (wonderful island, but much more popular with the locals than Roatan)
-* Tela (beach town and the gateway to the ferries)
-* I probably won't go deeper into the jungle because of the risk of malaria.
+### Looking Ahead: Future Adventures
+
+Honduras has so much more to offer than I could experience in just three days. For future visits, I've noted several promising destinations:
+* Yoro - famous for its mysterious "fish rain" phenomenon
+* Omoa - home to an impressive Spanish colonial fort
+* Utila - a local-favorite island paradise
+* Tela - gateway to beautiful Caribbean beaches
