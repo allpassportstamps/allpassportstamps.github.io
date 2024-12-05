@@ -18,7 +18,7 @@ Some aspects of my Qatar trip that I find really unique:
 
 * The country only has around 50 years of modern history. Previously a British protectorate, Qatar discovered oil and transformed. 
 * Qataris are a minority in their own country, as most of the population is made up of expatriates working in the country.
-* The national animal is the Oryx, same logo as Qatar Airways. 
+* The national animal is the Arabian desert Oryx, same logo as Qatar Airways. 
 * Taxis or metro here are very affordable because of the abundant oil. Subway tickets cost only around 60 cents. 
 
 ### Arriving in Doha 
