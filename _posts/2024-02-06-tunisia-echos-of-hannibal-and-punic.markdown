@@ -94,7 +94,7 @@ We heard that Kairouan gets to 40 degrees and higher in the summer. Despite the 
 
 ![food5]({{site.baseurl}}/assets/img/tunisia/food5.jpeg){:width="50%"}![water]({{site.baseurl}}/assets/img/tunisia/water.jpeg){:width="50%"}
 
-For lunch, the group enjoyed a traditional dish served with bread, followed by a visit to the historic water tank facility.
+For lunch, the group enjoyed a traditional dish served with bread, followed by a visit to the historic water tank facility. (Not shown in the pictures, but harissa is a Tunisian chili paste that is very popular here)
 
 ![door2]({{site.baseurl}}/assets/img/tunisia/door2.jpeg){:width="28%"}![bread]({{site.baseurl}}/assets/img/tunisia/bread.jpeg){:width="50%"}
 *Look at the bread!*

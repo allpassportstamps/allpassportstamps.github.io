@@ -194,7 +194,7 @@ Though the initial mood was tense, I quickly made some friends (including the mu
 
 The kids asked me many questions, and I asked so many questions in return. They usually wake up at around 6 to go to church, and then go to school. After school, they'd complete chores and dinner and go to bed early. 
 
-Some questions that the little angels asked me: Do people at where you live go to church? (I was such a dummy and said that only 20-30%... haha, which prompted the follow up question: why do you not believe in God?); Does China have a king?; Do you play netball? (a version of basket ball); How many brothers and sisters do you have? (I had to explain China's One Child Policy, and the program director was turning her head...)
+Some questions that the little angels asked me: Do people at where you live go to church? (I was such a dummy and said that only 20-30%... haha, which prompted the follow up question: why do you not believe in God?); Does China have a king?; Do you play netball? (a version of basket ball [short video example](https://www.facebook.com/watch/?v=603726641350348)); How many brothers and sisters do you have? (I had to explain China's One Child Policy, and the program director was turning her head...)
 
 I felt so bad when I accidentally ask them "What is your favorite city in Zambia"? There was silence because they have only been in one region where we were staying at. 
 
