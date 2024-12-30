@@ -1,5 +1,5 @@
 ---
-title: Barbados Rhiana and Lalala Long
+title: Barbados Rhianna and Lalala Long
 layout: post
 date: 2024-12-23 00:00:00 +0000
 description: Trip to Barbados
@@ -104,7 +104,7 @@ For a better experience, [this is a good stream of the parade](https://www.youtu
 
 Of course, we also visited the famous Rhianna's Drive, where we saw Rhianna's childhood home. It was a really crowded street, and cars really couldn't squeeze through. 
 
-![rhiana]({{site.baseurl}}/assets/img/barbados/rhiana.jpeg){:width="50%"}![rhiana_house]({{site.baseurl}}/assets/img/barbados/rhiana_house.jpeg){:width="50%"}
+![rhianna]({{site.baseurl}}/assets/img/barbados/rhiana.jpeg){:width="50%"}![rhianna_house]({{site.baseurl}}/assets/img/barbados/rhiana_house.jpeg){:width="50%"}
 
 We also passed by Mount Gay Rum Distillery, the most famous and oldest on the island. Barbados, being the birthplace of rum, made this very special. We learned about how rum was made from molasses, which came from the sugar cane plantations. 
 
