@@ -39,8 +39,6 @@ The harbor was bustling with activity - massive cruise ships (up to three at a t
 
 What struck us most about St. John was its sharp contrast between tourist and local areas. The divide between Redcliffe Quay/Heritage Quay and the public market couldn't be more distinct - luxury boutiques selling Louis Vuitton and Longchamp on one side, local farmers selling cassava on the other.
 
-St John is very distinctly divided between the American / European tourism areas (Redcliffe Quay, Heritage Quay) and the local areas (public market). The difference is so stark, because it's the difference between highend shops selling LV and Longchamp and farmers who are selling cassavas. 
-
 ![stjohn]({{site.baseurl}}/assets/img/antigua_barbuda/stjohn.jpeg){:width="50%"}![cruise]({{site.baseurl}}/assets/img/antigua_barbuda/cruise.jpeg){:width="50%"}
 
 Before leaving St. John for the night, we had some local delicacy called Funge, which is a corn and okra puree, that is a staple in Antigua. 
@@ -79,7 +77,7 @@ We saw the fort, the historic soldiers' barracks, and the view of the island fro
 
 ![shirley_heights3]({{site.baseurl}}/assets/img/antigua_barbuda/shirley_heights3.jpeg){:width="50%"}![shirley_heights2]({{site.baseurl}}/assets/img/antigua_barbuda/shirley_heights2.jpeg){:width="50%"}
 
-At the visitor center, we also watched a documentary called Reflection of the Sun. It's a story of Antigua and Barbuda, how their history mirrors their country flag, having the sun and the sea. 
+At the visitor center, we also watched a documentary called Reflection of the Sun. It's a story of Antigua and Barbuda, how their history mirrors their country flag, the sun and the sea. 
 
 ![shirley_heights]({{site.baseurl}}/assets/img/antigua_barbuda/shirley_heights.jpeg){:width="50%"}
 
