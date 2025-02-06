@@ -29,7 +29,7 @@ Our plans hit a snag right from the start. Despite having a reservation with Bud
 
 Left without wheels, we had to pivot to taxis and tours. While this made our trip more expensive and less flexible, it led to some unexpected adventures.
 
-Our first taxi ride (operating on fixed rates when originating from the airprot) took us to our Airbnb in St. George before heading to St. John, the capital. 
+Our first taxi ride (operating on fixed rates when originating from the airport) took us to our Airbnb in St. George before heading to St. John, the capital. 
 
 ![taxi]({{site.baseurl}}/assets/img/antigua_barbuda/taxi.jpeg){:width="28%"}![bird]({{site.baseurl}}/assets/img/antigua_barbuda/bird.jpeg){:width="50%"}
 
@@ -37,7 +37,7 @@ In St. John, we visited the VC Bird Sr. monument, honoring the country's first p
 
 The harbor was bustling with activity - massive cruise ships (up to three at a time) towered over the waterfront, while crowds of people and street vendors filled the streets below. We had arrived during peak tourism season, which runs from December to April during the dry season. True to its name, we didn't see a single drop of rain during our stay.
 
-What struck us most about St. John was its sharp contrast between tourist and local areas. The divide between Redcliffe Quay/Heritage Quay and the public market couldn't be more distinct - luxury boutiques selling Louis Vuitton and Longchamp on one side, local farmers selling cassava on the other.
+What struck us most about St. John was its sharp contrast between tourist and local areas. The divide between Redcliffe Quay/Heritage Quay and the public market couldn't be more distinct - luxury boutiques selling Longchamp on one side, local farmers selling cassava on the other.
 
 ![stjohn]({{site.baseurl}}/assets/img/antigua_barbuda/stjohn.jpeg){:width="50%"}![cruise]({{site.baseurl}}/assets/img/antigua_barbuda/cruise.jpeg){:width="50%"}
 
@@ -128,7 +128,7 @@ It was his day off, and he was enjoying some downtime before heading to a holida
 
 Later, we explored the area near Sandals resort, one of the Caribbean's major hotel chains, for some souvenir shopping. I found a perfect Rasta Man figure that captured the spirit of the local Rastafari culture. The One Love (Rasta) influence is so strong here that you might momentarily mistake Antigua for Jamaica.
 
-*[Note: Rastafari, the newest Abrahamic religion, maintains a strong presence in Antigua. Emerging from the reverence of the 1940s Ethiopian king, its core principles emphasize anti-colonialism and self-sustainability, with dreadlocks being a common cultural expression.]*
+>Rastafari, the newest Abrahamic religion, maintains a strong presence in Antigua. Emerging from the reverence of the 1940s Ethiopian king, its core principles emphasize anti-colonialism and self-sustainability, with dreadlocks being a common cultural expression.
 
 Our beach-hopping continued to Runaway Beach and Fort James Beach, where we stopped at a beach bar for some delicious fish cakes as the sun began to set.
 
