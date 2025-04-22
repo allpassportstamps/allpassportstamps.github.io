@@ -107,8 +107,8 @@ I had a very uncomfortable and aggressive encounter with an individual that I wo
 
 ![sweets]({{site.baseurl}}/assets/img/denmark/sweets.jpeg){:width="50%"}![aarhus3]({{site.baseurl}}/assets/img/denmark/aarhus3.jpeg){:width="50%"}
 
-![protest]({{site.baseurl}}/assets/img/denmark/protest.jpeg){:width="50%"}
+<!-- ![protest]({{site.baseurl}}/assets/img/denmark/protest.jpeg){:width="50%"} -->
 
-This protest happened in November 2022, and I wouldn't have guessed that less than a year later in September 2023, the world would change. 
+<!-- This protest happened in November 2022, and I wouldn't have guessed that less than a year later in September 2023, the world would change.  -->
 
 I had such a fantastic trip to Denmark, and hope to be back to Scandanavia soon! 

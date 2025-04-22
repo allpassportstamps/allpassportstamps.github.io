@@ -108,10 +108,10 @@ Japanese archaeologists have led the excavation, where broken pieces of stone am
 
 ### A Taste of Honduras
 
-No trip to Honduras would be complete without experiencing its incredible cuisine. The star of Honduran food culture is undoubtedly the baleada - a dish that won me over despite initial hesitation. Introduced by German and Palestinian immigrants after WWII, it has become the country's beloved national dish.
+No trip to Honduras would be complete without experiencing its incredible cuisine. The star of Honduran food culture is undoubtedly the baleada - a dish that won me over despite initial hesitation. Introduced by German and P_e immigrants after WWII, it has become the country's beloved national dish.
 
 ![beleadas_1]({{site.baseurl}}/assets/img/honduras/beleadas_1.jpeg){:width="50%"}![beleadas_2]({{site.baseurl}}/assets/img/honduras/beleadas_2.jpeg){:width="50%"}
-*Note: the baleadas are made popular by the German / Palestine immigrants after WWII who came - although not native, it is quite popular here*
+*Note: the baleadas are made popular by the German / P_e immigrants after WWII who came - although not native, it is quite popular here*
 
 Perhaps the second most popular dish is Pollo con Tajadas.
 

@@ -154,6 +154,7 @@ I hope Abdul and I will have the opportunity to meet again soon.
 
 I spent the last day of my trip traveling back to Tunis. I had some fantastic chicken couscous and drank some mint tea. 
 
-![couscous]({{site.baseurl}}/assets/img/tunisia/couscous.jpeg){:width="28%"}![wall]({{site.baseurl}}/assets/img/tunisia/wall.jpeg){:width="50%"}
+![couscous]({{site.baseurl}}/assets/img/tunisia/couscous.jpeg){:width="28%"}
+<!-- ![wall]({{site.baseurl}}/assets/img/tunisia/wall.jpeg){:width="50%"} -->
 
 *The global conflict is happening and of course Tunisians support their own.*
