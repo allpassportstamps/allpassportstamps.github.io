@@ -17,8 +17,9 @@ Some aspects of my Czech Republic trip that I found really unique:
 * Formerly areas of Bohemia, Moravia, and Silesia, then many centuries under the Austro-Hungarian Empire, before succeeding as Czechoslovakia in 1918.
 * One of the "Big 6" hockey countries; hockey is a point of political pride, like the 1998 Winter Olympics win over Russia in Nagano, Japan. A year prior to my visit in 2024, Czechs won the IIHF World Championship. 
 * There's a large Vietnamese community; in the 1970s, Communist Vietnam sent many students to learn from European Communist countries. After the war, to repay the debt for aiding Vietnam, many indentured workers were sent to work in Czechoslovakia.
-* "Good day" is "Dobrý den" in Czech; Czech marionettes are famous (only behind Italians), and I am so happy to have one as a souvenir; Uses the Czech Koruna as currency despite being in the EU.
-* I was surprised by how much I enjoyed Czech food, like the goulash with bread dumplings, the duck with sauerkraut, the pork knuckle etc.
+* "Good day" is "Dobrý den" in Czech; Czech marionettes are famous (second only to Italian ones), and I am so happy to have one as a souvenir; Uses the Czech Koruna as currency despite being in the EU.
+* I was surprised by how much I enjoyed Czech food, like the goulash with bread dumplings, the duck with sauerkraut, and the pork knuckle.
+* Because of all the religious conflicts, present-day Czechs are about 70% atheist, some even filling in Pastafarian as their religion.
 
 ### Arriving in Prague
 
@@ -27,6 +28,8 @@ Some aspects of my Czech Republic trip that I found really unique:
 Arriving at the airport on Friday evening, I was pleasantly surprised by an Uber machine at the airport, and many black Uber cars painted with the word "Airport."
 
 I decided to take the bus. After transferring, I hopped on the tram to get to the city center. Almost immediately after we got on, the ticket checkers came in, and an Arabic couple got caught without a valid ticket, which led to heated arguments for the next five stations.
+
+Imagine my culture shock when I visited a McDonald's and the bathroom had a gate, which could be unlocked by credit card, or visiting KFC and seeing poke and boba on the menu. 
 
 *Prague is zoned by numbers instead of neighborhoods. The zones 1–22 spiral out from the city center, Praha 1 (just like how Paris is zoned).*
 
@@ -56,34 +59,48 @@ I then visited the military museum. I learned about the Czechoslovak Legion's st
 
 I spent a lot of time soaking in details of how Czechoslovakia prepared for WWII with very advanced tanks and machinery, but ultimately surrendered the Sudetenland and became a protectorate of the Third Reich in 1938 with almost no resistance.
 
+### Czech Marionettes
+
+Czechs are famous for their marionettes. Just watch this [marionette show](https://www.youtube.com/watch?v=-S2lzA3WP0o&ab_channel=CityDiscovery) of Mozart's famous Don Giovanni. 
+
+The puppets are so life-like, telling unique stories. 
+
+![marionettes1]({{site.baseurl}}/assets/img/czech_republic/marionettes1.jpeg){:width="50%"}![marionettes2]({{site.baseurl}}/assets/img/czech_republic/marionettes2.jpeg){:width="50%"}
+
+![marionettes3]({{site.baseurl}}/assets/img/czech_republic/marionettes3.jpeg){:width="50%"}![marionettes4]({{site.baseurl}}/assets/img/czech_republic/marionettes4.jpeg){:width="50%"}
+
+I am so happy to visit the Czech Marionettes store, which I had watched prior to visiting Prague by watching [Youtube](https://www.youtube.com/@czechmarionettes).
+
+I got a marionette for myself themed after a man drinking Pilsen beer, and got Ms. Q a soldier marionette with a sword. 
+
 ### Day 2: Trip to Cesky Krumlov
 
 ![ck]({{site.baseurl}}/assets/img/czech_republic/ck.jpeg){:width="50%"}![ck3]({{site.baseurl}}/assets/img/czech_republic/ck3.jpeg){:width="50%"}
 *The beauty and wow-factor when seeing that beautiful little town for the first time*
 
-On my second day, I am visiting the Southern famous town of Cesky Krumlov by 3 hours of tour bus. 
+On my second day, I visited the Southern famous town of Cesky Krumlov by 3-hour tour bus. 
 
 We started the tour on top of the CK castle, with an amazing view of the town. 
 
 ![ck4]({{site.baseurl}}/assets/img/czech_republic/ck4.jpeg){:width="50%"}![ck2]({{site.baseurl}}/assets/img/czech_republic/ck2.jpeg){:width="50%"}
 
-We toured the historic Krumlov Castle, learning about the families that built and ruled include the Rosenberg and Schwarzenberg. 
+We toured the historic Krumlov Castle, learning about the families that built and ruled including the Rosenberg and Schwarzenberg. 
 
-We saw the amazing Baroque and renaissance decorations, and the painted in decorations on the stoccos. 
+We saw the amazing Baroque and renaissance decorations, and the painted decorations on the stuccos. 
 
 ![castle_tour]({{site.baseurl}}/assets/img/czech_republic/castle_tour.jpeg){:width="50%"}![castle_tour2]({{site.baseurl}}/assets/img/czech_republic/castle_tour2.jpeg){:width="50%"}
 *As a tradition, the Rosenbergs have kept 3 bears at the castle by the gates.*
 
 CK is such a beautiful town with little shops and kayaks on the river, about 3 rings of roads with a main center square. 
 
-CK used to be 80%+ ethnically German speaking. So in 1938, the Nazis were actually welcomed. However, after WW2, they were expelled as part of the greater de-Germanization of Czechoslovakia. 
+CK used to be 80%+ ethnically German speaking. So in 1938, the Nazis were actually welcomed. However, after WWII, they were expelled as part of the greater de-Germanization of Czechoslovakia. 
 
 ![ck_history]({{site.baseurl}}/assets/img/czech_republic/ck_history.jpeg){:width="50%"}![snack_bohemia]({{site.baseurl}}/assets/img/czech_republic/snack_bohemia.jpeg){:width="28%"}
 
-After walking cross the rivers and the towns, and visiting the many Bohemian styled shops, I sat down and ate lunch serving historical Behemian food.
+After walking across the rivers and the towns, and visiting the many Bohemian styled shops, I sat down and ate lunch serving historical Bohemian food.
 
 ![ck_lunch]({{site.baseurl}}/assets/img/czech_republic/ck_lunch.jpeg){:width="50%"}![ck_lunch2]({{site.baseurl}}/assets/img/czech_republic/ck_lunch2.jpeg){:width="50%"}
-*You can see the layers and layers of walls and building materials, and the history hidden in these crammed quaters*
+*You can see the layers and layers of walls and building materials, and the history hidden in these crammed quarters*
 
 With sadness, I said goodbye along with the tour bus from Cesky Krumlov.
 
@@ -93,7 +110,7 @@ With sadness, I said goodbye along with the tour bus from Cesky Krumlov.
 
 I spent the third day learning about Prague's main attractions. The name "Bohemia" originates from the word "Boh," which meant "home of the cow people" in Roman times. 
 
-We attended the Astronomical Clock show and learned about the history of Charles University. Our guide enthusiastically explained how education is free and excellent (if you take classes in Czech rather than German). We also learned about how Mozart premiered many operas in Prague, including Don Giovanni.
+We attended the Astronomical Clock show and learned about the history of Charles University. Our guide enthusiastically explained how education is free and excellent (if you take classes in Czech rather than German). We also learned about how Mozart premiered many operas in Prague, including Don Giovanni ([statue](https://www.google.com/search?q=mozart+don+giovanni+statue+prague+theatre)).
 
 ![astronomical]({{site.baseurl}}/assets/img/czech_republic/astronomical.jpeg){:width="28%"}![square]({{site.baseurl}}/assets/img/czech_republic/square.jpeg){:width="50%"}
 
@@ -121,6 +138,10 @@ My first stop was the Sedlec Ossuary, also known as the Bone Church. The church 
 ![sedlec_ossuary4]({{site.baseurl}}/assets/img/czech_republic/sedlec_ossuary4.jpeg){:width="50%"}![sedlec_ossuary2]({{site.baseurl}}/assets/img/czech_republic/sedlec_ossuary2.jpeg){:width="28%"}
 
 The theme of the Ossuary is **Memento Mori** - remember that you too will die. At the lower level, there are beautiful decorations with four pyramids of skulls. The Schwarzenberg coat of arms was also recreated using human bones. There are so many intricate details that are both beautiful and haunting at the same time. 
+
+![coat_of_arms]({{site.baseurl}}/assets/img/czech_republic/coat_of_arms.JPG){:width="50%"}
+
+*Thank you Ms. Q for giving me this picture of the Schwarzenberg coat of arms from 2016. In present day 2025, pictures are not allowed*
 
 I then took the town bus to visit the famous St. Barbara's Church. The church itself is grand, decorated in a beautiful Gothic style. 
 
@@ -165,28 +186,64 @@ St. Vitus Cathedral is grand and full of life. The details on the twin towers ar
 
 There were three historically famous incidents of defenestration (throwing people out of windows) for religious reasons - first with Jan Hus, then during the Thirty Years' War - all related to the conflict between Catholicism and the Reformation. I loved learning about this history in depth.
 
-I enjoyed exploring the surrounding Lesser Town, which is serene but more colorful. 
+I enjoyed exploring the surrounding Lesser Town, which is serene but more colorful. (And as a frequent shopper, the shops are more unique!)
 
 ![day5_view]({{site.baseurl}}/assets/img/czech_republic/day5_view.jpeg){:width="50%"}![day5_lunch]({{site.baseurl}}/assets/img/czech_republic/day5_lunch.jpeg){:width="50%"}
 
 ### Day 6: Communist History
 
+Going on the Communist History walking tour, I learned a great deal about the ethnic and geopolitical history of Czechoslovakia. 
 
+![day6]({{site.baseurl}}/assets/img/czech_republic/day6.jpeg){:width="50%"}
+
+The tour began with the complex history of German-Czech relations. Germans were once an integral part of Czech and Bohemia during the Austro-Hungarian Empire. However, Czech nationalism grew, leading to tensions with the German minority.
+
+In the 1930s, Czechoslovakia was highly industrialized, ranking among the top 10 countries in the world in GDP per capita. Most of this industry was concentrated in the Sudetenland region.
+
+By 1935, the German minority party had become the most popular in the country, though it wasn't in control due to the coalition government. Many Sudetenland Germans strongly desired to join the Third Reich and reunite with Germany.
+
+The 1938 Munich Agreement proved disastrous for Czechoslovakia. Not only was the country excluded from the conference, but it also lost the Sudetenland - its industrial heartland. Despite having defense agreements with France and Western allies, Czechoslovakia received no support when Germany invaded. The situation worsened when the Czechoslovak president suffered a heart attack and ordered the army to stand down, despite having a substantial military force. Hitler soon arrived at Prague Castle, and Czechoslovakia became a German protectorate.
+
+The tour then moved to the Jewish Quarter, where we learned about the Terezín concentration camp, located about an hour from Prague. This camp held Jews from various countries, including Denmark. When the Red Cross visited, the Nazis transformed Terezín into a propaganda showpiece, even making a film to portray it as a "spa concentration camp."
+
+([More information](https://www.pamatnik-terezin.cz/small-fortress))
+
+In the main square, we discussed the WWII liberation efforts. According to the agreements, 90% of Czechoslovakia was to be liberated by the Red Army, with only 10% by American forces. Many Nazis attempted to surrender to the Americans in Pilsen. However, during the May 1945 Prague Uprising, a minor clash occurred when Praguers blocked the soldiers' passage. Many Nazis ultimately survived by escaping through Prague.
+
+After WWII, the Czechs took revenge on the German population. Over 90% of Germans were expelled, with many ethnic Germans being marked with swastikas. In 1997, Germany and Czechoslovakia signed a peace agreement, renouncing any territorial claims and committing to move forward. The formerly German areas were repopulated primarily by poorer Czechs and Slovaks.
+
+![krtek]({{site.baseurl}}/assets/img/czech_republic/krtek.jpeg){:width="50%"}
+
+*Krtek, the beloved little mole cartoon*
+
+Communism took hold in 1948, followed by severe persecutions in the 1950s. Despite being a Communist state, Czechoslovakia remained one of the wealthiest in the Eastern Bloc due to its industrial base. The Communist regime did bring some positive changes, including universal healthcare, education, social insurance, housing, and women's rights. Notably, in the 1960s, Czechoslovakia introduced a three-year maternity leave policy that continues to this day. Even now, 25% of Czechs still live in Communist-era housing.
+
+The 1960s also saw the Prague Spring, when Czechoslovakia attempted to liberalize with Western-style policies, including freedom of speech. However, in 1968, Warsaw Pact armies invaded, with five armies occupying the country. The president was demoted to a factory line worker as punishment.
+
+![velvet_rev]({{site.baseurl}}/assets/img/czech_republic/velvet_rev.jpeg){:width="50%"}
+
+Finally, in 1989, the Velvet Revolution brought an end to Communism. After a brutal crackdown on student protests, the people took to the streets in peaceful demonstrations, ultimately leading to the fall of the Communist regime.
+
+![vysehrad]({{site.baseurl}}/assets/img/czech_republic/vysehrad.jpeg){:width="28%"}![vysehrad2]({{site.baseurl}}/assets/img/czech_republic/vysehrad2.jpeg){:width="50%"}
+
+I spent that afternoon visiting Vysehrad, another historical castle. The scenery of the Vltava river and Prague skyline was fantastic.
+
+![vysehrad3]({{site.baseurl}}/assets/img/czech_republic/vysehrad3.jpeg){:width="50%"}![day6_dinner]({{site.baseurl}}/assets/img/czech_republic/day6_dinner.jpeg){:width="50%"}
 
 ### Day 7: Last day
 
-### Quirks of Prague
+On my last day, I walked up to the Grotta Umělá jeskyně and enjoyed the amazing garden and decorations.
 
-* Many WCs here cost money. The ones in McDonald's has a bathroom gate, which can be unlocked by credit card ; KFC here has poke and rice bowls along with Boba. 
+![day7]({{site.baseurl}}/assets/img/czech_republic/day7.jpeg){:width="50%"}![day7_walk]({{site.baseurl}}/assets/img/czech_republic/day7_walk.jpeg){:width="50%"}
 
-https://www.youtube.com/watch?v=-S2lzA3WP0o&ab_channel=CityDiscovery Don Giovanni Marionette show 
+I spent the early afternoon at the Airport mall, before taking a country road to my hotel. 
 
-Germans used to be part of Czech and Bohemia from the A-H empire; Czechs had a nationalistic movement and wanted to suppress the Germans in this country, 1935 Germans had a minority party and it was the most powerful; 3rd Reich wanted to have Sudetenland the German parts of CS
-CS had agreements with France and the Western alliance if it got invaded that they'd have to invade Germany, but the allies did nothing; the President of CS had a heart attack and told the army to stand down, despite having a large amount of army; Hitler came to Prague castle and CS became a protectorate
-Terezen in CS had Czech's concentration camp about 1 hr from Prague, had jews including Danish jews, Red Cross visited and showed Terezin as a spa concentration camp, they even made a movie to promote propaganda 
-90 percent of CS had to be liberated by Red Army, 10% by Americans, many Nazis wanted to surrender to Americans in Pilsen; 1945 May prague uprising, there was a minor clash because the Praguers didn't let the soldiers through, but many Nazis survived by passing through Prague here  
-After WWII, Czechs took revenge, and the Germans were expelled, over 90% ; ethnic Germans from CS were painted swastikas; Germany and CS 1997 had a peace agreement that they will never reclaim land, and to move forward; these areas especially formerly German were populated by poor Czechs and Slovaks 
-Communism rose in 1948; strong persecutions in 1950s; however CS was one of the richest Communist countries; 5 positives of Communism: health care, education, social insurance, housing and Women's rights; 1960s introduced 3 years of maternity leave, still exists to present day; 25 pct of Czech still living in Communist housing; 
-in 1960s, CS opened country up to western policy, with freedom of speech and all, called Prague Spring, 1968 Warsaw pact armies invaded CS, 5 armies, country president then was demoted to factory line worker; 
-1989 Velvet Revolution, after beat down of students, people took to the streets and protested peacefully, finally ending Communism in this country
-Last day staying at this Restaurant-Inn in the attic; where it's literally the roof and i can open the roof window; pilot themed as the Inn is close to the airport too; small town with almost no one here but locals drinking; in the night, i can see the planes in the sky from the ceiling window 
+My last night was spent at this pilot-themed airport restaurant-inn. My room was literally in the attic, and I could open the roof window to peer at the surroundings. 
+
+![lodge]({{site.baseurl}}/assets/img/czech_republic/lodge.jpeg){:width="50%"}![lodge2]({{site.baseurl}}/assets/img/czech_republic/lodge2.jpeg){:width="50%"}
+
+I really enjoyed dinner later that evening, people-watching the small town locals drinking some Pilsner Urquell. 
+
+![lodge3]({{site.baseurl}}/assets/img/czech_republic/lodge3.jpeg){:width="50%"}![day7_view]({{site.baseurl}}/assets/img/czech_republic/day7_view.jpeg){:width="50%"}
+
+What a wonderful week in the Czech Republic!
