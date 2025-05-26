@@ -14,6 +14,7 @@ Placeholder
 
 * This country has a trouble past with the USA. It was overthrown and governed by the USA in the early 1900s because it tried to build a canal to rival the Panama canal.
 * The present government FSLN is named after Augusto Sandino, a matryr who was killed for trying to gain independence from the US. It has many pros, such as the beautiful roads in contrast with the ones from Honduras, but also has cons like the authoritharian tendencies such as 2018. 
+* Crime here is lower than its neighbors by a lot. Looking at you Hondruas, El Salvador...
 
 
 ### Managua Airport
@@ -124,6 +125,38 @@ I continued the day on my own, walking to the parks and churchs, and went to a c
 
 ![horse]({{site.baseurl}}/assets/img/nicaragua/horse.jpeg){:width="50%"}![cigar_factory]({{site.baseurl}}/assets/img/nicaragua/cigar_factory.jpeg){:width="50%"}
 *Horses are everywhere in the city as a means of transportation, I don't think I had seen this sight since my 2022 Guyana trip.*
+
+In the afternoon, I got myself a haircut ($200 Cordobas), picked up a Tona shirt with a Gueguense mask on the sleeves. 
+
+Then I waited patiently to learn the secrets of Chocolate making from the museum. 
+
+![national_bird]({{site.baseurl}}/assets/img/nicaragua/national_bird.jpeg){:width="50%"}![gueguense]({{site.baseurl}}/assets/img/nicaragua/gueguense.jpeg){:width="50%"}
+*Some cultural tidbits from the Museum decor, featuring the national bird (shared w/ El Salvador) and the El Gueguense masks*
+
+Antony was my teacher and he made the 2 hours go fast. He was very interactive, and we spoke about his time in Germany and Costa Rica. 
+
+We started from picking up the Cocoa fruit from the mini plantation, and talked about the fermentation process for the seeds to go from white to dark brown
+
+![cocoa0]({{site.baseurl}}/assets/img/nicaragua/cocoa0.jpeg){:width="50%"}![cocoa1]({{site.baseurl}}/assets/img/nicaragua/cocoa1.jpeg){:width="28%"}
+*Because we are past the optimal season to harvest, the seeds are actually sprouting already inside.*
+
+We then started roasting the seeds, where they made noises like popcorn. 
+
+![cocoa3]({{site.baseurl}}/assets/img/nicaragua/cocoa3.jpeg){:width="28%"}![cocoa4]({{site.baseurl}}/assets/img/nicaragua/cocoa4.jpeg){:width="50%"}
+
+After cooling off a bit, we peeled the cocoa beans, and took the core to the mortar and pestle to grind the cocoa beans into cocoa nibs. 
+
+![cocoa5]({{site.baseurl}}/assets/img/nicaragua/cocoa5.jpeg){:width="50%"}![cocoa6]({{site.baseurl}}/assets/img/nicaragua/cocoa6.jpeg){:width="50%"}
+
+We adjusted the mixtures with water and milk, and after filtering a few times, we got ourselves some basic cocoa drinks. Because of the time that it takes to make chocolates, we did a timeskip into the next steps. 
+
+![cocoa7]({{site.baseurl}}/assets/img/nicaragua/cocoa7.jpeg){:width="50%"}![cocoa8]({{site.baseurl}}/assets/img/nicaragua/cocoa8.jpeg){:width="28%"}
+
+Because of the limited storage, I skipped the pictures about spreading out the chocolate paste mixture, and mixing them over and over again, horizontally and vertically. 
+
+The final result was a mold of chocolate liquid that went into the refrigerator. 
+
+
 
 
 
