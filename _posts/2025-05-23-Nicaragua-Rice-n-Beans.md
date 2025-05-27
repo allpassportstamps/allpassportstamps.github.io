@@ -122,7 +122,7 @@ True to his word, we grabbed the most delicious Vigorón, an amazing combination
 
 We walked some old streets. There was a building on a street formerly nicknamed "yo-yo street" as it was once part of the red-light district. He mentioned that one of the houses there was still original clay and wood, with no steel bars or foundation. He hoped the house would remain original for the rest of his (he was 42) lifetime.
 
-As fate would have it, the night after my tour with Enrique, I stumbled upon a YouTube video about the Masaya volcano from three years prior, and there he was!
+As fate would have it, the night after my tour with Enrique, I stumbled upon a [YouTube video](https://youtu.be/dtsM61zBf-M?si=uDRQkkyM24smT2lI&t=749) about the Masaya volcano from three years prior, and there he was!
 
 ![vigaron]({{site.baseurl}}/assets/img/nicaragua/vigaron.jpeg){:width="65%"}![vigaron2]({{site.baseurl}}/assets/img/nicaragua/vigaron2.jpeg){:width="23%"}
 
