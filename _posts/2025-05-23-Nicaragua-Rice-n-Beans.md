@@ -259,8 +259,16 @@ With this, my second-to-last day in Nicaragua was drawing to a beautiful 'sunset
 
 ![granada_night]({{site.baseurl}}/assets/img/nicaragua/granada_night.jpeg){:width="50%"} 
 
+### Goodbye Nicaragua
 
-<!-- 
-Getting a haircut for 200 cordobas ($6) and souvenir shopping for Güegüense masks (UNESCO heritage)
- -->
+On my last morning, I walked the square and markets for the last time.
 
+The sun was blazing, and I cooled myself down with this wonderful drink in a bag of ice.
+
+![drink]({{site.baseurl}}/assets/img/nicaragua/drink.jpeg){:width="50%"}![baho3]({{site.baseurl}}/assets/img/nicaragua/baho3.jpeg){:width="50%"}
+
+After circling the markets, all their sections of meat, fish, and vegetables, I ate my last baho (the one that Enrique showed me).
+
+I finally said my goodbyes to beautiful Granada. Nicaragua, so different from what I expected, in so many wonderful ways.  
+
+![granada_last]({{site.baseurl}}/assets/img/nicaragua/granada_last.jpeg){:width="75%"}
