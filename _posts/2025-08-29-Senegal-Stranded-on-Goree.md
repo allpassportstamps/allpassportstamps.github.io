@@ -15,8 +15,8 @@ This was my first country in West Africa, and all my travels had prepared me poo
 * As many have warned, West Africa is expensive, harsh and rough for travelers. Fortunately, Senegal is one of the safest countries in the region.
 * French and Wolof are the main languages of the region. Senegal was the capital of French West Africa, and it has maintained close ties with France.
 * Islam is the dominant religion, particularly the Sufi Mouride Brotherhood popularized by Amadou Bamba of Touba. His image is everywhere in this country—on cars, on buses, etc.
-* Goree Island was a major hub of the transatlantic slave trade many centuries ago, as it was a convenient port to the New World from West Africa.
-* For breakfast, the locals like to eat a French baguette with meat and fries inside. And Muslim tea was everywhere. 
+* Gorée Island is a symbolic site of the transatlantic slave trade. While not the region’s largest embarkation point, it was one of several West African ports linked to the trade.
+* For breakfast, the locals like to eat a French baguette with meat and fries inside. And attaya (Senegalese mint tea) was everywhere. 
 
 ![bamba]({{site.baseurl}}/assets/img/senegal/bamba.jpeg){:width="28%"}
 
@@ -43,9 +43,9 @@ Very close to the Mosque is the towering African Renaissance monument. You can s
 ![african_renaissance]({{site.baseurl}}/assets/img/senegal/african_renaissance.jpeg){:width="50%"}![view]({{site.baseurl}}/assets/img/senegal/view.jpeg){:width="50%"}
 *The monument is a man, woman and child pointing towards the future; there are many steps to get to the monument*
 
-This is a symbol of Africa's rise in the 21st century, designed by an African architect but built by the North Koreans.
+This is a symbol of Africa's rise in the 21st century, designed by Senegalese architect Pierre Goudiaby Atepa and built by North Korea’s Mansudae Overseas Projects.
 
-After waiting a bit and taking in the view of Dakar and the ocean, we went up to the top of the African Renaissance monument through a narrow elevator to the 15th floor. 
+After waiting a bit and taking in the view of Dakar and the ocean, we went up inside the African Renaissance Monument via a narrow elevator to an upper viewing level. 
 
 ![head]({{site.baseurl}}/assets/img/senegal/head.jpeg){:width="50%"}![top]({{site.baseurl}}/assets/img/senegal/top.jpeg){:width="50%"}
 
@@ -53,20 +53,20 @@ At the very top of the statue, we were inside the man's head, and could see the 
 
 On the bottom three floors, we saw many African countries' traditional masks and symbols, given to the monument when it was completed in 2010.
 
-I then went with Becaye to the fish market, and bought a Muslim tea from a walking vendor. After the fish market, we also visited the art village for some light souvenir shopping.
+I then went with Becaye to the fish market and bought an attaya from a walking vendor. After the fish market, we also visited the art village for some light souvenir shopping.
 
 ![fish_market]({{site.baseurl}}/assets/img/senegal/fish_market.jpeg){:width="50%"}![thieboudienne]({{site.baseurl}}/assets/img/senegal/thieboudienne.jpeg){:width="50%"}
 *Thieboudienne in Wolof means fish and rice.*
 
 After spending a while to exchange my USD payment for XOF (they were unhappy with the newer $20 USD bills), we went to have lunch with, of course, the national dish, Thieboudienne.
 
-It is composed of Jollof rice, fish, yuca, African eggplant and more. You can taste the mixture of sweet and savory, balancing the spices and the fish. Along with the Thieboudienne, we drank the baobab drink, which comes from the fruits of the baobab trees here.
+It is composed of spiced rice (ceebu jën—the ancestor of jollof rice), fish, cassava, African eggplant (garden egg) and more. You can taste the mixture of sweet and savory, balancing the spices and the fish. Along with the Thieboudienne, we drank the baobab drink, which comes from the fruits of the baobab trees here.
 
 We arrived at the Dakar port to try to get to Goree Island. Unfortunately, Becaye didn't know the ferry schedule, and we couldn't make it this time due to my next flight. 
 
 We drove back to the airport for my flight to The Gambia as it started to rain. My first impression of Senegal was fantastic! 
 
-### Coming back to Dakar, staying in Oukam
+### Coming back to Dakar, staying in Ouakam
 
 The good impression was, unfortunately, very quickly wiped away as I came back to Dakar two days later. 
 
@@ -74,9 +74,9 @@ At around 2 a.m., a driver and I agreed on the price to get to Dakar. However, a
 
 This was crazy stressful in the pitch-black early morning, being extorted for more money by a stranger. I insisted that we go back to the airport, and he finally agreed. 
 
-Fortunately I had a much better experience with a different driver. After a very long ride, I called my poor Airbnb host, who had his brother sleep at the unit, and he gave me the keys at around 4:30 a.m. 
+Fortunately, I had a much better experience with a different driver. After a very long ride, I called my poor Airbnb host, who had his brother sleep at the unit, and he gave me the keys at around 4:30 a.m. 
 
-### Day 2: Goree troubles and Getting Orange phone plan
+### Day 2: Gorée troubles and getting an Orange phone plan
 
 ![apartment]({{site.baseurl}}/assets/img/senegal/apartment.jpeg){:width="50%"}
 
@@ -88,7 +88,7 @@ Close by to the plaza is the Place du Souvenir Africain, celebrating African lea
 
 ![africa]({{site.baseurl}}/assets/img/senegal/africa.jpeg){:width="50%"}![place_du_souvenir_africain]({{site.baseurl}}/assets/img/senegal/place_du_souvenir_africain.jpeg){:width="50%"}
 
-I then visited the Dakar port again, to finally visit Goree Island. 
+I then visited the Dakar port again to finally visit Gorée Island. 
 
 At the ferry ticket office, I heard someone yelling repeatedly, "Where is ticket?" I bumped into a fellow Chinese traveler, Leo, who had been to 130+ countries and is very experienced. Leo is from Hong Kong but living in New York, and currently traveling his way south. 
 
@@ -101,13 +101,13 @@ We buddied up and explored the island together.
 
 *There are many goats and cats on the island*
 
-Goree Island is the most famous island and westward departure point for slaves for the New World. It's a small and mostly abandoned island with about 1,000 inhabitants working in local tourism. 
+Gorée Island is a famous memorial site of the transatlantic slave trade. It’s a small island with about 1,000 inhabitants working largely in local tourism. It was one of the first UNESCO world heritage sites actually.
 
 I estimate that rim to rim is about a 30-minute walk. We walked up to the famous House of Slaves, but it was unfortunately closed. 
 
 ![house_of_slaves]({{site.baseurl}}/assets/img/senegal/house_of_slaves.jpeg){:width="50%"}![beach]({{site.baseurl}}/assets/img/senegal/beach.jpeg){:width="50%"}
 
-We also visited the fort, which had a museum about the slave trade here on the island from the 1600s to the 1800s. There were so many countries and traders here on Goree, all heading to the New World. 
+We also visited the fort, which had a museum about the slave trade here from the 1600s to the 1800s. There were so many countries and traders involved around Gorée, all heading to the New World. 
 
 ![fort]({{site.baseurl}}/assets/img/senegal/fort.jpeg){:width="50%"}![fort1]({{site.baseurl}}/assets/img/senegal/fort1.jpeg){:width="50%"}
 
@@ -125,7 +125,7 @@ For the next few hours, the boat slowly disembarked; people and cargo were unloa
 
 ![flipped]({{site.baseurl}}/assets/img/senegal/flipped.jpeg){:width="50%"}![wait]({{site.baseurl}}/assets/img/senegal/wait.jpeg){:width="50%"}
 
-Three times this evening, there was this pattern that everyone rushed to the port in the rain, only to be turned back because the boat was not ready. It turned out that the boat had issues of its own. 
+Three times that evening, everyone rushed to the port in the rain, only to be turned back because the boat wasn’t ready. It turned out that the boat had issues of its own. 
 
 At around 9 p.m., in the dark, we finally boarded the boat as the rain drizzled. The lines and people pushing in the lines were crazy. So many people speaking languages that we barely understood, pushing, rushing, skin-to-skin. 
 
@@ -145,7 +145,7 @@ Leo's last quote to me: niceness is weakness in West Africa.
 
 ### Life in Dakar
 
-From Tuesday to Friday, I walked the streets of Dakar, breathing in the hustle and bustle, and experiencing what life was like in West Africa. 
+From Tuesday to Friday, I walked the streets of Dakar—breathing in the hustle and bustle and experiencing what life was like in West Africa. 
 
 ![downtown]({{site.baseurl}}/assets/img/senegal/downtown.jpeg){:width="50%"}![downtown2]({{site.baseurl}}/assets/img/senegal/downtown2.jpeg){:width="28%"}
 
@@ -154,9 +154,9 @@ Dakar is actually a lot like Manhattan, with a core downtown area, but many subu
 I visited the biggest market, Sandaga Market, and saw many shops selling everything. 
 
 ![grand_mosque]({{site.baseurl}}/assets/img/senegal/grand_mosque.jpeg){:width="50%"}![african_museum]({{site.baseurl}}/assets/img/senegal/african_museum.jpeg){:width="28%"}
-*Left: Grand mosque; Right: African museum*
+*Left: Great Mosque of Dakar; Right: Museum of Black Civilisations*
 
-In the African museum, I learned about Cheikh Anta Diop, who had come up with Afrocentric work while he was doing his dissertation in France. He had studied the languages of West Africans and proposed that the ancient Egyptians were connected to West Africans. This implied that the whole human population had come from Africa.  
+At the Museum of Black Civilisations, I learned about Cheikh Anta Diop, whose Afrocentric scholarship—developed during his years in France—argued for strong links between ancient Egyptian civilization and West Africa. The broader “Out of Africa” story of human origins is now widely supported by modern genetics.  
 
 The museum also had an exhibit dedicated to Faye, the country's newest president since 2024. 
 
@@ -164,7 +164,7 @@ I also visited quite a few beach places in the outskirts of Dakar.
 
 ![ngor]({{site.baseurl}}/assets/img/senegal/ngor.jpeg){:width="50%"}
 
-Ngor is an island about five minutes away from the northern shore of Dakar. I bought a ticket at the beach and took a small boat there and back.
+Ngor is an island about five minutes from the northern shore of Dakar. I bought a ticket at the beach and took a small boat there and back.
 
 ![ngor_walk]({{site.baseurl}}/assets/img/senegal/ngor_walk.jpeg){:width="50%"}![resort_ngor]({{site.baseurl}}/assets/img/senegal/resort_ngor.jpeg){:width="50%"}
 
@@ -174,7 +174,7 @@ Right next to Ngor, I also visited the Almadies, where many expats and the wealt
 
 ![almadies]({{site.baseurl}}/assets/img/senegal/almadies.jpeg){:width="50%"}
 
-One fascinating fact is that Dakar has a (limited) train system built by the French that is exactly like the ones in Europe. After a hot day outside in the traffic, I was so relieved to rest and take a ride on the train.
+One fascinating fact is Dakar’s TER (Train Express Régional), a modern regional express system built with French partners. After a hot day in traffic, I was so relieved to rest and take a ride on the train.
 
 ![dakar_gates]({{site.baseurl}}/assets/img/senegal/dakar_gates.jpeg){:width="50%"}![train]({{site.baseurl}}/assets/img/senegal/train.jpeg){:width="50%"}
 
@@ -192,17 +192,17 @@ Throughout my time here, I had frequented this restaurant by my apartment. I alw
 
 *African eggplant*
 
-### Bandia Reserve and Lake Somone
+### Bandia Reserve and Somone Lagoon
 
-On Saturday, my last day, I visited the Bandia Reserve (pronounced with the 'ja' sound). It is much closer to Saly (a beach city away from Dakar) and the airport. 
+On Saturday, my last day, I visited the Bandia Reserve (pronounced with the “ja” sound). It’s much closer to Saly (a beach city outside Dakar) and the airport. 
 
-Mr. Fallou, our driver, picked me up from Oukam bus station, and we joined the organizer at Bandia Park. 
+Mr. Fallou, our driver, picked me up from Ouakam bus station, and we joined the organizer at Bandia Park. 
 
 While we waited in the parking lot for more visitors, a monkey walked up to a Spanish tourist and grabbed his bag. The audacity!
 
 ![bandia_baobab]({{site.baseurl}}/assets/img/senegal/bandia_baobab.jpeg){:width="50%"}![safari]({{site.baseurl}}/assets/img/senegal/safari.jpeg){:width="50%"}
 
-The safari started, and right away, we saw many giraffes roaming the reserve. I learned that the giraffe walks one side at a time (left-left, right-right) just like the camel, unlike dogs, cats and others that walk left-right-left-right. 
+The safari started, and right away we saw many giraffes roaming the reserve. I learned that giraffes “pace,” moving both legs on one side together (left–left, right–right), like camels—unlike dogs, cats, and others that alternate left–right. 
 
 ![friends]({{site.baseurl}}/assets/img/senegal/friends.jpeg){:width="28%"}![antelope]({{site.baseurl}}/assets/img/senegal/antelope.jpeg){:width="50%"}
 *Right: Antelopes*
@@ -217,14 +217,14 @@ We saw so many herbivores (and only herbivores in this reserve), like wild boars
 
 At one point, we also saw that the car in front of us had been stuck in the mud, and they had to be rescued. 
 
-Our final stop in the reserve is the "cemetery baobab." There are 120+ sets of bones that are buried within the tree, and the tree is 1,000+ years old.
+Our final stop in the reserve is the “cemetery baobab.” Dozens of sets of bones are buried within the tree, which is said to be over 1,000 years old.
 
 ![cemetary]({{site.baseurl}}/assets/img/senegal/cemetary.jpeg){:width="50%"}![bandia_sign]({{site.baseurl}}/assets/img/senegal/bandia_sign.jpeg){:width="50%"}
 *Right: Mr. Fallou who drove me for the game day, as well as the airport transfers the next day*
 
-Our next stop is Lake Somone, situated right by Saly and part of the Mbour area. 
+Our next stop is the Somone Lagoon, situated by Saly and part of the Mbour area. 
 
-It is a beautiful lagoon that is right by the Atlantic Ocean. In fact, the beach that separates the two is only about a 2-minute walk. But boy, the hot sand was burning my feet, and I had to wear my shoes for cover. 
+It’s a beautiful lagoon right by the Atlantic Ocean. In fact, the beach that separates the two is only about a two-minute walk. But the hot sand was burning my feet, and I had to wear my shoes for cover. 
 
 ![somone]({{site.baseurl}}/assets/img/senegal/somone.jpeg){:width="50%"}![crabs]({{site.baseurl}}/assets/img/senegal/crabs.jpeg){:width="50%"}
 *Right: Thousands of tiny crabs crawling on an uninhabited island in the lake*
@@ -235,7 +235,7 @@ At one point, we accidentally ran into the mangroves. The boat driver stopped, m
 
 ![mangrove]({{site.baseurl}}/assets/img/senegal/mangrove.jpeg){:width="50%"}![oyster_farm]({{site.baseurl}}/assets/img/senegal/oyster_farm.jpeg){:width="50%"}
 
-Our tour guide told us all about the impressive houses by the shores and complained that the European (French) people who owned the homes should give back wealth to the country.
+Our tour guide told us about the impressive houses by the shores and lamented that some European (often French) owners should give more back to the country.
 
 The ocean breeze and mangroves made me forget about work, which has been giving me a lot of pressure lately. It was so beautiful, serene.
 
