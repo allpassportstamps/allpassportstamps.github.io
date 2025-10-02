@@ -3,18 +3,67 @@
     <ul>
       {% if paginator.previous_page %}
         {% if paginator.previous_page == 1 %}
-        <p><a class="newer-posts" href="{{ site.baseurl }}/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i></a></p>
+        <li><a class="newer-posts" href="{{ site.baseurl }}/" title="Previous Page"><i class="fa fa-long-arrow-left" aria-hidden="true"></i></a></li>
         {% else %}
-        <p><a class="newer-posts" href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i></a></p>
+        <li><a class="newer-posts" href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/" title="Previous Page"><i class="fa fa-long-arrow-left" aria-hidden="true"></i></a></li>
         {% endif %}
+      {% else %}
+        <li><span class="newer-posts disabled"><i class="fa fa-long-arrow-left" aria-hidden="true"></i></span></li>
       {% endif %}
 
       {% if paginator.total_pages > 1 %}
-      <p><span class="page-number">Page {{paginator.page}} of {{paginator.total_pages}}</span></p>
+        {% assign pages_to_show = 5 %}
+        {% assign half_pages = pages_to_show | divided_by: 2 %}
+        
+        {% if paginator.page <= half_pages %}
+          {% assign start_page = 1 %}
+          {% assign end_page = pages_to_show %}
+          {% if end_page > paginator.total_pages %}
+            {% assign end_page = paginator.total_pages %}
+          {% endif %}
+        {% elsif paginator.page >= paginator.total_pages | minus: half_pages %}
+          {% assign start_page = paginator.total_pages | minus: pages_to_show | plus: 1 %}
+          {% if start_page < 1 %}
+            {% assign start_page = 1 %}
+          {% endif %}
+          {% assign end_page = paginator.total_pages %}
+        {% else %}
+          {% assign start_page = paginator.page | minus: half_pages %}
+          {% assign end_page = paginator.page | plus: half_pages %}
+          {% if end_page > paginator.total_pages %}
+            {% assign end_page = paginator.total_pages %}
+          {% endif %}
+        {% endif %}
+
+        {% if start_page > 1 %}
+          <li><a href="{{ site.baseurl }}/" class="page-number">1</a></li>
+          {% if start_page > 2 %}
+            <li><span class="page-number">...</span></li>
+          {% endif %}
+        {% endif %}
+
+        {% for page_num in (start_page..end_page) %}
+          {% if page_num == paginator.page %}
+            <li><span class="page-number current">{{ page_num }}</span></li>
+          {% elsif page_num == 1 %}
+            <li><a href="{{ site.baseurl }}/" class="page-number">{{ page_num }}</a></li>
+          {% else %}
+            <li><a href="{{ site.baseurl }}/page/{{ page_num }}/" class="page-number">{{ page_num }}</a></li>
+          {% endif %}
+        {% endfor %}
+
+        {% if end_page < paginator.total_pages %}
+          {% if end_page < paginator.total_pages | minus: 1 %}
+            <li><span class="page-number">...</span></li>
+          {% endif %}
+          <li><a href="{{ site.baseurl }}/page/{{ paginator.total_pages }}/" class="page-number">{{ paginator.total_pages }}</a></li>
+        {% endif %}
       {% endif %}
       
       {% if paginator.next_page %}
-      <p><a class="older-posts" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></p>
+        <li><a class="older-posts" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/" title="Next Page"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></li>
+      {% else %}
+        <li><span class="older-posts disabled"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span></li>
       {% endif %}
     </ul>
   </nav>
