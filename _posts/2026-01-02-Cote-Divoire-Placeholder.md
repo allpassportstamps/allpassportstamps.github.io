@@ -3,7 +3,7 @@ layout: post
 title: Cote D'Ivoire Placeholder
 date: 2026-01-02 00:00:00 +0000
 description: Trip to Cote D'Ivoire
-img: cote_divoire/cover.jpeg
+img: cote_divoire/cover.png
 fig-caption: Cote D'Ivoire
 tags: [Africa]
 ---
@@ -12,9 +12,10 @@ tags: [Africa]
 
 Regrettably I am only in Ivory Coast for 3 days. I will definitely be back to explore the country more. 
 
-* Much more economically developed than other West African countries (2x higher GDP per capita than Benin), #1 exporter of cocoa in the world
-* History of relative stability (except the coop in 1999)
-* Higher Muslim population (40%) than Benin (15%), but lower than Senegal (95%). Folks dress significantly less West African (not the colorful clothes).
+* Much more economically developed than some West African countries (higher GDP per capita than Benin), the world's largest exporter of cocoa
+* Political history includes a coup in 1999, a 2002 rebellion/civil war, and the 2010–2011 post‑election crisis.
+* Muslim population around 40% (higher than Benin's roughly 25–30% but lower than Senegal's ~95%). Folks dress significantly less West African (not the colorful clothes).
+* Local delicacy called Attieke, which is fermented cassava that tastes a lot like rice.
 
 As I got off the plane, in the custom lines, I met a nice couple from IL, USA, who were Jehovah's Witnesses and went to a conference in Togo, then traveled to Benin and will be continuing their journey in Cote d'Ivoire. 
 
@@ -78,7 +79,7 @@ We walked through the first hotels and a restaurant that everyone loves called L
 
 ![gb3]({{site.baseurl}}/assets/img/cote_divoire/gb3.jpeg){:width="50%"}![gb4]({{site.baseurl}}/assets/img/cote_divoire/gb4.jpeg){:width="50%"}
 
-> Syrians were brought here in the 1920s, to be the small shops and distributors. They played a similar role to the Lebanese folks in Cote d'Ivoire and French colonies. At this time, Syria and Lebanon were both Ottoman Empire. 
+> Syrian traders arrived in great numbers in the 1920s, playing roles similar to Lebanese communities elsewhere in French West Africa. At that time, Syria and Lebanon were under the French Mandate following the fall of the Ottoman Empire.
 
 ![gb5]({{site.baseurl}}/assets/img/cote_divoire/gb5.jpeg){:width="28%"}![gb6]({{site.baseurl}}/assets/img/cote_divoire/gb6.jpeg){:width="50%"}
 *Left: These are dancers' posts where people dance and share news? | Right: Africa Cup is ongoing.*
@@ -116,21 +117,49 @@ At around noon, we finally arrived in the capital, Yamoussoukro. This city was a
 
 ![foundation]({{site.baseurl}}/assets/img/cote_divoire/foundation.jpeg){:width="50%"}![senate]({{site.baseurl}}/assets/img/cote_divoire/senate.jpeg){:width="50%"}
 
-Our first stop was the first president's foundation. This is where the current senate meets. The upstairs is a museum that discribes Boigny Félix Houphouët (BFH)'s life. BFH can be summarized to be someone who was very pro-french and has close connections to the elites in France. BFH did help draft the bill to end forced labor in French West Africa in 1946.
+Our first stop was the first president's foundation. This complex hosts sessions of the Senate. The upstairs is a museum that describes Félix Houphouët‑Boigny (FHB)'s life. FHB can be summarized to be someone who was very pro‑French and had close connections to elites in France. FHB did help draft the bill to end forced labor in French West Africa in 1946.
 
 ![village]({{site.baseurl}}/assets/img/cote_divoire/village.jpeg){:width="28%"}![rda]({{site.baseurl}}/assets/img/cote_divoire/rda.jpeg){:width="28%"}
 
-> BFH was the chief of his tribe (the Baoule). He let his brother take the chief position, to go study medicine in France. He worked in French parliment and rose through the ranks, before the French allowed CI to be come independent in 1960. He was a one-party president built many grandiose structures.
+> FHB was the chief of his tribe (the Baoulé). He let his brother take the chief position to go study medicine in France. He worked in the French parliament and rose through the ranks, before the French allowed CI to become independent in 1960. He was a one‑party president who built many grandiose structures.
 
 As we drove to our next stop, we could see it from a far away. 
 
 ![basilica1]({{site.baseurl}}/assets/img/cote_divoire/basilica1.jpeg){:width="50%"}![basilica2]({{site.baseurl}}/assets/img/cote_divoire/basilica2.jpeg){:width="50%"}
 
-Merceline was super helpful and helped me not pay quite a few tourist trap fees. I am now standing in front of the biggest church in the world! *(by height and exterior size)*
+Merceline was super helpful and helped me not pay quite a few tourist trap fees. I am now standing in front of a site widely cited as the largest basilica in the world *(by area)*!
 
+![basilica3]({{site.baseurl}}/assets/img/cote_divoire/basilica3.jpeg){:width="50%"}![basilica4]({{site.baseurl}}/assets/img/cote_divoire/basilica4.jpeg){:width="50%"}
 
+The basilica was built in roughly three years (1985–1989) and was later consecrated in 1990, then gifted to the Vatican. During a time when CI was much poorer, the first president commissioned this structure, importing many materials from Europe. When someone asked the guide how much it cost, the guide noted that many art pieces were gifted, making an exact figure hard to pin down.
 
-Basilica only took 3 years to build and gifted to the Vatican; built by the first president 1986-1989 to finish; Pope came 1990; 120 meters, outside 158; Rome is 44 acre, here is 138 acre; it is both the tallest and the biggest; 7000 can sit, 11000 can stand; 
-today is Sunday and the 10am mass had already finished, guide told stories of the weight and construction, as well as how anyone can visit it
-Seeing the 1st president's crocodile lake; visiting the Hotel Des Parlimentaires, with the unique architecture; Merceline has never visited here before and started to ask me to take so many pictures of her; on the way back to ABJ, she mentioned that she wants to get out of CI and work hard for 1 year in another country to buy a house, since her parents died and there are many grand siblings
+There is AC for each seat, and a second level and crypt level which were unavailable for visitors. 
 
+![basilica5]({{site.baseurl}}/assets/img/cote_divoire/basilica5.jpeg){:width="50%"}![basilica6]({{site.baseurl}}/assets/img/cote_divoire/basilica6.jpeg){:width="28%"}
+
+When the structure was finished, Pope John Paul II came in 1990. The basilica rises to 158 m including the cross and is often cited as the largest basilica by area, although its interior capacity is smaller than St. Peter's. It can accommodate about 7,000 seated and up to roughly 11,000 people standing. *I visited on a Sunday with 10am mass, and I'd say only a few hundred people came here.* The guide took us around the whole inside describing the intricacies of the structure.
+
+![basilica7]({{site.baseurl}}/assets/img/cote_divoire/basilica7.jpeg){:width="50%"}![crocodile]({{site.baseurl}}/assets/img/cote_divoire/crocodile.jpeg){:width="50%"}
+
+After the basilica, we went to see the first president FHB's crocodile lake. Merceline got us coconuts and we went to a restaurant to taste a local dish like kedjenou d'agouti (bushmeat stew). 
+
+![bushmeat]({{site.baseurl}}/assets/img/cote_divoire/bushmeat.jpeg){:width="50%"}![hotel_parlimentary]({{site.baseurl}}/assets/img/cote_divoire/hotel_parlimentary.jpeg){:width="50%"}
+*Right: The hotel has been renamed, with mostly tourists and diplomats having fun here.*
+
+We then visited the Hotel des Parlementaires. Merceline has never visited here before and started to ask me to take so many pictures of her (for her advertising). On the way back to ABJ, she mentioned that she wants to get out of CI and work hard for one year in another country to buy a house, since her parents died and there are many grand siblings. She has been a guide for one year and was looking to improve her life. 
+
+![fhb]({{site.baseurl}}/assets/img/cote_divoire/bfh.jpeg){:width="50%"}
+
+### Day 4: Vacation wrap up
+
+On the last day, it was a Monday in Abidjan, and the folks wearing suits and business clothes were everywhere in the plateau area. 
+
+![stpaul]({{site.baseurl}}/assets/img/cote_divoire/stpaul.jpeg){:width="50%"}![view]({{site.baseurl}}/assets/img/cote_divoire/view.jpeg){:width="28%"}
+
+I visited St Paul's cathedral and enjoyed the beautiful glass work.
+
+This wraps up my wonderful vacation during the holidays in Benin and Côte d'Ivoire. 
+
+![news]({{site.baseurl}}/assets/img/cote_divoire/news.jpeg){:width="28%"}![baguette]({{site.baseurl}}/assets/img/cote_divoire/baguette.jpeg){:width="28%"}
+
+*A bakery that I often visited called Delice De France.*
