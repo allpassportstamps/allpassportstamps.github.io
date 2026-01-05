@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cote D'Ivoire Placeholder
+title: Cote D'Ivoire Biggest Church in the World
 date: 2026-01-02 00:00:00 +0000
 description: Trip to Cote D'Ivoire
 img: cote_divoire/cover.png
