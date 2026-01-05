@@ -163,3 +163,21 @@ This wraps up my wonderful vacation during the holidays in Benin and Côte d'Ivo
 ![news]({{site.baseurl}}/assets/img/cote_divoire/news.jpeg){:width="28%"}![baguette]({{site.baseurl}}/assets/img/cote_divoire/baguette.jpeg){:width="28%"}
 
 *A bakery that I often visited called Delice De France.*
+
+### Bribery at the airport?
+
+As I entered ABJ, before picking up my Royal Air Maroc tickets, a police officer in a green uniform asked me to follow him.
+
+He led me to a back office where another officer was eating lunch. They asked where I was headed.
+
+> I had a really good impression of CI up to this point. No strangers being aggressive on the streets. Strong infrastructure. 
+
+Then he pointed at my carry‑on and asked for money, gesturing to his mouth and lunch and saying “à manger.” I couldn’t believe this was happening at an airport in a country I’d considered one of the more developed.
+
+I handed him a 100 CFA coin; he pointed to a 2,000 CFA note and repeated “à manger.”
+
+I told him I had nothing in my suitcase and wouldn’t be giving him more. He let me go.
+
+It instantly soured what had been a very positive impression of Côte d’Ivoire.
+
+*I can only imagine future challenges in more corrupt contries in the future...*
