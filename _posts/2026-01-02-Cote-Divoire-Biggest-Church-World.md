@@ -8,7 +8,7 @@ fig-caption: Cote D'Ivoire
 tags: [Africa]
 ---
 
-![Cote Divoire Flag]({{site.baseurl}}/assets/img/flags/4x3/ci.svg){:height="36px" width="36px"} Benin \| Country 41 \| 3 day \|
+![Cote Divoire Flag]({{site.baseurl}}/assets/img/flags/4x3/ci.svg){:height="36px" width="36px"} Côte d'Ivoire \| Country 41 \| 3 day \|
 
 Regrettably I am only in Ivory Coast for 3 days. I will definitely be back to explore the country more. 
 
@@ -17,7 +17,7 @@ Regrettably I am only in Ivory Coast for 3 days. I will definitely be back to ex
 * Muslim population around 40% (higher than Benin's roughly 25–30% but lower than Senegal's ~95%). Folks dress significantly less West African (not the colorful clothes).
 * Local delicacy called Attieke, which is fermented cassava that tastes a lot like rice.
 
-As I got off the plane, in the custom lines, I met a nice couple from IL, USA, who were Jehovah's Witnesses and went to a conference in Togo, then traveled to Benin and will be continuing their journey in Cote d'Ivoire. 
+As I got off the plane, in the custom lines, I met a nice couple from IL, USA, who were Jehovah's Witnesses and went to a conference in Togo, then traveled to Benin and will be continuing their journey in Côte d'Ivoire. 
 
 ![night]({{site.baseurl}}/assets/img/cote_divoire/night.jpeg){:width="28%"}
 
