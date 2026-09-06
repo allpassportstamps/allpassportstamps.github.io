@@ -25,7 +25,7 @@ Some aspects of my Poland trip that I find really unique:
 
 I arrived on a lazy Sunday afternoon. 
 
-![rynek]({{site.baseurl}}/assets/img/poland/rynek_square.jpeg){:width="50%"}![rynek2]({{site.baseurl}}/assets/img/poland/rynek2.jpeg){:width="50%"}
+{% include image.html src="poland/rynek_square.jpeg" alt="rynek" width="50%" loading="eager" %}{% include image.html src="poland/rynek2.jpeg" alt="rynek2" width="50%" loading="eager" %}
 *Rynek town square; Adam Mieczkowski - Poland's Shakespeare* 
 
 The famous Saint Mary Basilica was closed, and I joined a walking tour to the Jewish Quarter. 
@@ -34,29 +34,29 @@ King Kazimierz invited the Jewish to settle in Poland, and pre-WW2, Poland had h
 
 The Jewish people were forced to relocate to the ghetto and build their own prison walls with their own hands.
 
-![jewish_quarter]({{site.baseurl}}/assets/img/poland/jewish_quarter.jpeg){:width="50%"}![jewish_quarter_shop]({{site.baseurl}}/assets/img/poland/jewish_quarter_shop.jpeg){:width="28%"}
+{% include image.html src="poland/jewish_quarter.jpeg" alt="jewish_quarter" width="50%" %}{% include image.html src="poland/jewish_quarter_shop.jpeg" alt="jewish_quarter_shop" width="28%" %}
 
 When people moved from the ghetto to the concentration camp, they tried to bring chairs but had to leave them behind in this square (70 chairs facing Israel).
 
-![jewish_quarter_chairs]({{site.baseurl}}/assets/img/poland/jewish_quarter_chairs.jpeg){:width="50%"}
+{% include image.html src="poland/jewish_quarter_chairs.jpeg" alt="jewish_quarter_chairs" width="50%" %}
 
 After ending the tour, I tasted some fantastic pierogi and explored the adjacent town of Podgorski. The pierogi had potato and minced meat fillings. Despite being similar to dumplings, the taste is quite unique with the sour cream sauce. 
 
-![pierogi]({{site.baseurl}}/assets/img/poland/pierogi.jpeg){:width="50%"}![Podgorski_town]({{site.baseurl}}/assets/img/poland/Podgorski_town.jpeg){:width="50%"}
+{% include image.html src="poland/pierogi.jpeg" alt="pierogi" width="50%" %}{% include image.html src="poland/Podgorski_town.jpeg" alt="Podgorski_town" width="50%" %}
 
 The next day, I had some Zapiekanki (open face pizza sandwich spread) and explored the Wawel castle, where kings lived prior to relocating the capital to Warsaw. 
 
-![wawel]({{site.baseurl}}/assets/img/poland/wawel.jpeg){:width="50%"}![dragon]({{site.baseurl}}/assets/img/poland/dragon.jpeg){:width="28%"}
+{% include image.html src="poland/wawel.jpeg" alt="wawel" width="50%" %}{% include image.html src="poland/dragon.jpeg" alt="dragon" width="28%" %}
 
 Legends have it that the King practiced alchemy and accidentally burned down Wawel Castle. Hence, they had to relocate to Warsaw. The more practical version is that the Polish-Lithuanian Commonwealth parliament was in Warsaw, so the King wanted to relocate for political reasons.
 
 I also had an opportunity to learn about the communist periods of Poland, as well as the Solidarity movement under the Pope, as Poland had an overwhelming Catholic majority during that period.
 
-![pope]({{site.baseurl}}/assets/img/poland/pope.jpeg){:width="50%"}
+{% include image.html src="poland/pope.jpeg" alt="pope" width="50%" %}
 
 Poland is quickly growing as a tech hub because of various reasons, and I hope to work with many Central / Eastern European coworkers in the future. 
 
-![tech]({{site.baseurl}}/assets/img/poland/tech.jpeg){:width="50%"}
+{% include image.html src="poland/tech.jpeg" alt="tech" width="50%" %}
 
 *Zendesk in the background*
 
@@ -66,19 +66,19 @@ Of course, since it was my first time in Poland, I took the train to visit Ausch
 
 I will not be writing much about the experience here, but I remember the museum vividly.
 
-![auschwitz2]({{site.baseurl}}/assets/img/poland/auschwitz2.jpeg){:width="50%"}![auschwitz4]({{site.baseurl}}/assets/img/poland/auschwitz4.jpeg){:width="28%"}
+{% include image.html src="poland/auschwitz2.jpeg" alt="auschwitz2" width="50%" %}{% include image.html src="poland/auschwitz4.jpeg" alt="auschwitz4" width="28%" %}
 
 *You can still see the traces of Zyklon B stained to the walls, the lethal chemical for the gas chambers*
 
-![auschwitz3]({{site.baseurl}}/assets/img/poland/auschwitz3.jpeg){:width="50%"}
+{% include image.html src="poland/auschwitz3.jpeg" alt="auschwitz3" width="50%" %}
 
 *crematorium*
 
 Birkenau is much larger than Auschwitz, and is a short 10 minute drive away. 
 
-![birkenau]({{site.baseurl}}/assets/img/poland/birkenau.jpeg){:width="50%"}![birkenau4]({{site.baseurl}}/assets/img/poland/birkenau4.jpeg){:width="50%"}
+{% include image.html src="poland/birkenau.jpeg" alt="birkenau" width="50%" %}{% include image.html src="poland/birkenau4.jpeg" alt="birkenau4" width="50%" %}
 
-![birkenau2]({{site.baseurl}}/assets/img/poland/birkenau2.jpeg){:width="50%"}![birkenau3]({{site.baseurl}}/assets/img/poland/birkenau3.jpeg){:width="50%"}
+{% include image.html src="poland/birkenau2.jpeg" alt="birkenau2" width="50%" %}{% include image.html src="poland/birkenau3.jpeg" alt="birkenau3" width="50%" %}
 
 ### Warsaw 
 
@@ -86,32 +86,32 @@ I took a morning train from Krakow to Warsaw. It was very smooth and an opportun
 
 I had an opportunity to staying at Warsaw's hotel Bristol on points. It was an amazing historical hotel right beside the Presidential Palace. It wasn't destroyed during WW2 because the occupiers slept there. 
 
-![hotel_bristol]({{site.baseurl}}/assets/img/poland/hotel_bristol.jpeg){:width="50%"}![warsaw_tower]({{site.baseurl}}/assets/img/poland/warsaw_tower.jpeg){:width="50%"}
+{% include image.html src="poland/hotel_bristol.jpeg" alt="hotel_bristol" width="50%" %}{% include image.html src="poland/warsaw_tower.jpeg" alt="warsaw_tower" width="50%" %}
 *Hotel Bristol; Warsaw Tower*
 
 Warsaw has a beautiful Old Town Market Square. It's amazing to think that it was completely reconstructed in the 1950s.
 
-![warsaw_old_town]({{site.baseurl}}/assets/img/poland/warsaw_old_town.jpeg){:width="50%"}![warsaw_mermaid]({{site.baseurl}}/assets/img/poland/warsaw_mermaid.jpeg){:width="50%"}
+{% include image.html src="poland/warsaw_old_town.jpeg" alt="warsaw_old_town" width="50%" %}{% include image.html src="poland/warsaw_mermaid.jpeg" alt="warsaw_mermaid" width="50%" %}
 *Warsaw's Mermaid*
 
 The Warsaw Uprising was a significant event in 1944. The Polish suffered greatly because the Soviets chose not to support the uprising. 
 
-![warsaw_uprising]({{site.baseurl}}/assets/img/poland/warsaw_uprising.jpeg){:width="50%"}![warsaw_shop]({{site.baseurl}}/assets/img/poland/warsaw_shop.jpeg){:width="50%"}
+{% include image.html src="poland/warsaw_uprising.jpeg" alt="warsaw_uprising" width="50%" %}{% include image.html src="poland/warsaw_shop.jpeg" alt="warsaw_shop" width="50%" %}
 
 Chopin is, of course, world-famous for his music. His heart has been preserved in French alcohol for over 150 years. 
 
-![chopin]({{site.baseurl}}/assets/img/poland/chopin.jpeg){:width="50%"}![polish_ceramics]({{site.baseurl}}/assets/img/poland/polish_ceramics.jpeg){:width="50%"}
+{% include image.html src="poland/chopin.jpeg" alt="chopin" width="50%" %}{% include image.html src="poland/polish_ceramics.jpeg" alt="polish_ceramics" width="50%" %}
 
 My Poland trip was full of ups and downs. And last of all, how can I not mention the food? 
 
 Żurek, a fermented cabbage meat soup, was my favorite. The other soup is, of course, red borscht (sweet cabbage soup), and I loved the sarma which I had in Serbia in 2023.
 
-![zurek]({{site.baseurl}}/assets/img/poland/zurek.jpeg){:width="50%"}![sarma_red_borsch]({{site.baseurl}}/assets/img/poland/sarma_red_borsch.jpeg){:width="50%"}
+{% include image.html src="poland/zurek.jpeg" alt="zurek" width="50%" %}{% include image.html src="poland/sarma_red_borsch.jpeg" alt="sarma_red_borsch" width="50%" %}
 
 In terms of pastries, the unique pretzel and chimney cakes are both outstanding.
 
-![pretzel]({{site.baseurl}}/assets/img/poland/pretzel.jpeg){:width="50%"}![chimney_cake]({{site.baseurl}}/assets/img/poland/chimney_cake.jpeg){:width="28%"}
+{% include image.html src="poland/pretzel.jpeg" alt="pretzel" width="50%" %}{% include image.html src="poland/chimney_cake.jpeg" alt="chimney_cake" width="28%" %}
 
 I ended my trip with some pierogi with sour cream dip at the Westfield mall by the airport. I am so grateful for the opportunity to learn and experience Poland.
 
-![pierogi2]({{site.baseurl}}/assets/img/poland/pierogi2.jpeg){:width="50%"}
+{% include image.html src="poland/pierogi2.jpeg" alt="pierogi2" width="50%" %}

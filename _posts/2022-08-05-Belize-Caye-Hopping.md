@@ -20,7 +20,7 @@ Some aspects of Belize that I find really unique:
 * The Belize Dollar is 2:1 with the US Dollar 
 * So close to the Guatemala border
 
-![mural]({{site.baseurl}}/assets/img/belize/mural.jpg){:width="50%"}
+{% include image.html src="belize/mural.jpg" alt="mural" width="50%" loading="eager" %}
 
 I got out of the airport and breathed in the Caribbean humidity. It was raining a bit and I got into my rental car - a Suzuki that we don't see in developed countries. 
 
@@ -34,7 +34,7 @@ The city is fairly small, but with tons of people who were in the middle of thei
 
 I stopped for some delicious tostadas. They're similar to garnaches but firmer and crunchier. I had to do mental math to convert these prices from Belize Dollar (very affordable street food). 
 
-![belmopan]({{site.baseurl}}/assets/img/belize/belmopan.jpg){:width="50%"}![tostados]({{site.baseurl}}/assets/img/belize/tostados.jpg){:width="50%"}
+{% include image.html src="belize/belmopan.jpg" alt="belmopan" width="50%" loading="eager" %}{% include image.html src="belize/tostados.jpg" alt="tostados" width="50%" %}
 
 ### Xunantunich
 
@@ -42,17 +42,17 @@ I made a few interesting stops along the way, like San Ignacio which had a vibra
 
 I crossed the river via this vehicle bridge, where about 4 cars can fit at max. The only fact being that humans had to roll and pull the floats across the shores. The whole process took around 5 minutes for enough people to show up and another 2-3 minutes for the float to get across. 
 
-![road_to_xunantunich]({{site.baseurl}}/assets/img/belize/road_to_xunantunich.jpg){:width="50%"}
+{% include image.html src="belize/road_to_xunantunich.jpg" alt="road_to_xunantunich" width="50%" %}
 
 Xunantunich is a small Mayan ruin, much much smaller than Tikal where people usually continue on from Belize and cross to Guatemala to see. 
 
 I went to the musuem and climbed it. It's about 4-5 stories high and definitely a cool ruin. 
 
-![xunantunich]({{site.baseurl}}/assets/img/belize/xunantunich.jpg){:width="50%"}
+{% include image.html src="belize/xunantunich.jpg" alt="xunantunich" width="50%" %}
 
 On the way back from Xunantunich, I stopped by the Belize Zoo. Amongst all the various tropical animals, I was most fascinated by the tapir. What a wonderful creature! *I wish that I had mosquito spray...*
 
-![tapir]({{site.baseurl}}/assets/img/belize/tapir.jpg){:width="50%"}
+{% include image.html src="belize/tapir.jpg" alt="tapir" width="50%" %}
 
 ### Belize City 
 
@@ -76,11 +76,11 @@ After about an hour ride, I arrived at Caye Caulker.
 
 I had breakfast and ate a Fry jack. I'd describe it as a hollow, fried empanada.
 
-![fried_jack]({{site.baseurl}}/assets/img/belize/fried_jack.jpg){:width="50%"}
+{% include image.html src="belize/fried_jack.jpg" alt="fried_jack" width="50%" %}
 
 There are basically no cars on the island, and people took golf carts everywhere. I walked all the way from the station to "The Split", middle of two almost connected islands. 
 
-![caye_caulker]({{site.baseurl}}/assets/img/belize/caye_caulker.jpg){:width="50%"}
+{% include image.html src="belize/caye_caulker.jpg" alt="caye_caulker" width="50%" %}
 
 I also traveled to San Pedro. Just so many beautiful white sand beaches and cloudy and slightly rainy skies. 
 

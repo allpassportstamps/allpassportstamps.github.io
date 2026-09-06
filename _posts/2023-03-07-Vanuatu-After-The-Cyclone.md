@@ -37,42 +37,42 @@ Apparently, he has previously worked in Africa on foreign aid for 5+ years, and 
 
 ### Port Vila 
 
-![aftermath3]({{site.baseurl}}/assets/img/vanuatu/aftermath3.jpeg){:width="50%"}
+{% include image.html src="vanuatu/aftermath3.jpeg" alt="aftermath3" width="50%" loading="eager" %}
 
 It wasn't pretty. 
 
 Trees had no leaves. Road signs were down everywhere. And roads were constricted from fallen debris. 
 
-![aftermath]({{site.baseurl}}/assets/img/vanuatu/aftermath.jpeg){:width="50%"}![aftermath2]({{site.baseurl}}/assets/img/vanuatu/aftermath2.jpeg){:width="50%"}
+{% include image.html src="vanuatu/aftermath.jpeg" alt="aftermath" width="50%" loading="eager" %}{% include image.html src="vanuatu/aftermath2.jpeg" alt="aftermath2" width="50%" %}
 
 Inside the main supermarket, Au Bon Marche, many shelves were empty. No bread, no meat and barely some processed food. 
 
-![empty]({{site.baseurl}}/assets/img/vanuatu/empty.jpeg){:width="50%"}![twilight]({{site.baseurl}}/assets/img/vanuatu/twilight.jpeg){:width="50%"}
+{% include image.html src="vanuatu/empty.jpeg" alt="empty" width="50%" %}{% include image.html src="vanuatu/twilight.jpeg" alt="twilight" width="50%" %}
 
 Inside the hotel, I checked in and chatted with the lady manager who was running the show. She is from Australia and has been running this hotel for half a decade. She apologized multiple times that there were no towels, and I had no issues. 
 
 It was a great room, and it was totally fine that AC stopped working - I was just happy that there was electricity. 
 
-![hotel]({{site.baseurl}}/assets/img/vanuatu/hotel.jpeg){:width="50%"}![hotel2]({{site.baseurl}}/assets/img/vanuatu/hotel2.jpeg){:width="50%"}
+{% include image.html src="vanuatu/hotel.jpeg" alt="hotel" width="50%" %}{% include image.html src="vanuatu/hotel2.jpeg" alt="hotel2" width="50%" %}
 *I hope that they got the sign replaced eventually*
 
-![hotel3]({{site.baseurl}}/assets/img/vanuatu/hotel3.jpeg){:width="50%"}
+{% include image.html src="vanuatu/hotel3.jpeg" alt="hotel3" width="50%" %}
 
 *Their windows were clearly ready for the cyclone season*
 
 ### Around the capital
 
-![aide]({{site.baseurl}}/assets/img/vanuatu/aide.jpeg){:width="50%"}
+{% include image.html src="vanuatu/aide.jpeg" alt="aide" width="50%" %}
 
 *A lot of foreign aid government projects* 
 
 Downtown Port Vila is beautiful. You can see the beaches and resorts across the bay, and there are clearly many shopping activities during brighter times. 
 
-![port_villa2]({{site.baseurl}}/assets/img/vanuatu/port_villa2.jpeg){:width="50%"}![port_villa]({{site.baseurl}}/assets/img/vanuatu/port_villa.jpeg){:width="50%"}
+{% include image.html src="vanuatu/port_villa2.jpeg" alt="port_villa2" width="50%" %}{% include image.html src="vanuatu/port_villa.jpeg" alt="port_villa" width="50%" %}
 
 The restaurant that I really wanted to try was unfortunately closed. The specialty dish is the fruit bat (many online media about it).
 
-![bat_soup]({{site.baseurl}}/assets/img/vanuatu/bat_soup.jpeg){:width="50%"}
+{% include image.html src="vanuatu/bat_soup.jpeg" alt="bat_soup" width="50%" %}
 
 *L'Houstalet is a very famous restaurant where the French chef is well loved*
 
@@ -80,17 +80,17 @@ The main island supermarket is Au Bon Marche. It was founded by a Chinese person
 
 There are many foreign merchandise being sold, like machete knives..
 
-![bon_marche]({{site.baseurl}}/assets/img/vanuatu/bon_marche.jpeg){:width="50%"}![bon_marche_night]({{site.baseurl}}/assets/img/vanuatu/bon_marche_night.jpeg){:width="50%"}
+{% include image.html src="vanuatu/bon_marche.jpeg" alt="bon_marche" width="50%" %}{% include image.html src="vanuatu/bon_marche_night.jpeg" alt="bon_marche_night" width="50%" %}
 
 Everything is expensive on the island. Meals are around $15 usd. 
 
-![food]({{site.baseurl}}/assets/img/vanuatu/food.jpeg){:width="50%"}
+{% include image.html src="vanuatu/food.jpeg" alt="food" width="50%" %}
 
 Everywhere, people on the island were burning piles of leaves; workers were breaking down fallen trees, hauling away broken signs. You can see tons of roofs being held down and secured by heavy sandbags.  
 
 I also visited the Vanuatu National Museum. It was closed, but $5 extra with the workers doing renovations came in handy. 
 
-![museum]({{site.baseurl}}/assets/img/vanuatu/museum.jpeg){:width="50%"}![museum2]({{site.baseurl}}/assets/img/vanuatu/museum2.jpeg){:width="50%"}
+{% include image.html src="vanuatu/museum.jpeg" alt="museum" width="50%" %}{% include image.html src="vanuatu/museum2.jpeg" alt="museum2" width="50%" %}
 
 ### Blue Lagoon adventures 
 
@@ -102,7 +102,7 @@ After quite a few vans, a driver and his co-driver finally picked me up. We went
 
 Blue Lagoon has some really blue water. There were 2-3 other families around, while all the workers were cleaning up after the cyclone. 
 
-![bluehole]({{site.baseurl}}/assets/img/vanuatu/bluehole.jpeg){:width="50%"}![road_to_bluehole]({{site.baseurl}}/assets/img/vanuatu/road_to_bluehole.jpeg){:width="50%"}
+{% include image.html src="vanuatu/bluehole.jpeg" alt="bluehole" width="50%" %}{% include image.html src="vanuatu/road_to_bluehole.jpeg" alt="road_to_bluehole" width="50%" %}
 
 I stayed for about an hour and went back. 
 
@@ -114,7 +114,7 @@ After 30-40 mins, I was helped by this truck driving by. I couldn't understand t
 
 There were 8-10 women and children in the back. A few sweet kids spoke with me in English. 
 
-![truck2]({{site.baseurl}}/assets/img/vanuatu/truck2.jpeg){:width="50%"}![truck]({{site.baseurl}}/assets/img/vanuatu/truck.jpeg){:width="50%"}
+{% include image.html src="vanuatu/truck2.jpeg" alt="truck2" width="50%" %}{% include image.html src="vanuatu/truck.jpeg" alt="truck" width="50%" %}
 
 
 In these remote locations of the world, there exist the most beautiful people.

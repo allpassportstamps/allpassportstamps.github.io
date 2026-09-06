@@ -22,26 +22,26 @@ Medellin is known as the city of eternal spring, with paisas, the Colombians, wh
 
 I made my way across the city. The cable cars, or telefericos, are a fantastic way to travel across the hills. 
 
-![teleferico]({{site.baseurl}}/assets/img/colombia/teleferico.jpeg){:width="50%"}![station]({{site.baseurl}}/assets/img/colombia/station.jpeg){:width="50%"}
+{% include image.html src="colombia/teleferico.jpeg" alt="teleferico" width="50%" loading="eager" %}{% include image.html src="colombia/station.jpeg" alt="station" width="50%" loading="eager" %}
 
 I visited the touristy spots like Communa 13, a crowded tourist location known for the vibes and history of a once very dangerous neighborhood, as well as the Pablo Escobar sites that reminded me of the Netflix show Narcos. 
 
-![escobar]({{site.baseurl}}/assets/img/colombia/escobar.jpeg){:width="28%"}![escobar 2]({{site.baseurl}}/assets/img/colombia/escobar2.jpeg){:width="50%"}
+{% include image.html src="colombia/escobar.jpeg" alt="escobar" width="28%" %}{% include image.html src="colombia/escobar2.jpeg" alt="escobar 2" width="50%" %}
 
 The city had many interesting tidbits sprinkled throughout. 
 
-![catholicism]({{site.baseurl}}/assets/img/colombia/catholicism.jpeg){:width="28%"}![ape]({{site.baseurl}}/assets/img/colombia/ape.jpeg){:width="50%"}
+{% include image.html src="colombia/catholicism.jpeg" alt="catholicism" width="28%" %}{% include image.html src="colombia/ape.jpeg" alt="ape" width="50%" %}
 *Catholicism in a box from a suburb \| Mural of Bored Apes from the crypto boom*
 
 I absolutely love the Menu del Dia that's available in many restaurants - a stark contrast to the fast-food culture I am used to.
 
-![menu_del_dia4]({{site.baseurl}}/assets/img/colombia/menu_del_dia4.jpg){:width="57%"}![menu_del_dia2]({{site.baseurl}}/assets/img/colombia/menu_del_dia2.jpeg){:width="43%"}
+{% include image.html src="colombia/menu_del_dia4.jpg" alt="menu_del_dia4" width="57%" %}{% include image.html src="colombia/menu_del_dia2.jpeg" alt="menu_del_dia2" width="43%" %}
 
-![menu_del_dia1]({{site.baseurl}}/assets/img/colombia/menu_del_dia1.jpeg){:width="50%"}![menu_del_dia3]({{site.baseurl}}/assets/img/colombia/menu_del_dia3.jpeg){:width="50%"}
+{% include image.html src="colombia/menu_del_dia1.jpeg" alt="menu_del_dia1" width="50%" %}{% include image.html src="colombia/menu_del_dia3.jpeg" alt="menu_del_dia3" width="50%" %}
 
 I said my goodbyes to Medellin. 
 
-![city]({{site.baseurl}}/assets/img/colombia/city.jpeg){:width="50%"}
+{% include image.html src="colombia/city.jpeg" alt="city" width="50%" %}
 
 ### Bogota
 
@@ -51,9 +51,9 @@ A few fun facts about Bogotá:
 * Plaza Bolívar is a beautiful square
 * Botero, the sculptor, hails from here, something my former coworker Irfan is quite fond of
 
-![botero]({{site.baseurl}}/assets/img/colombia/botero.jpeg){:width="43%"}![bogota_dt]({{site.baseurl}}/assets/img/colombia/bogota_dt.jpg){:width="57%"}
+{% include image.html src="colombia/botero.jpeg" alt="botero" width="43%" %}{% include image.html src="colombia/bogota_dt.jpg" alt="bogota_dt" width="57%" %}
 
-![bogota_overlook]({{site.baseurl}}/assets/img/colombia/bogota_overlook.jpg){:width="57%"}
+{% include image.html src="colombia/bogota_overlook.jpg" alt="bogota_overlook" width="57%" %}
 
 *Bogota from the Monserrate mountain*
 
@@ -65,14 +65,14 @@ The two had differing ideologies, which made an impression on me. Bolivar is the
 #### Farc gurrila vs Paramilitary
 Both factions are making Colombia dangerous. This is a not a peaceful country, but the people are happy and live everyday lives. 
 
-![bogota]({{site.baseurl}}/assets/img/colombia/bogota.jpg){:width="50%"}![bogota_dt]({{site.baseurl}}/assets/img/colombia/unrest.jpg){:width="50%"}
+{% include image.html src="colombia/bogota.jpg" alt="bogota" width="50%" %}{% include image.html src="colombia/unrest.jpg" alt="bogota_dt" width="50%" %}
 
 I should also note that there was a protest while I was in town. Apparantly, there was a ban of 2 males riding on the same motorcycle, caused by the prevalence of robberies where one person snatches while the other drives. 
 
 As an ending note, I love the food in Colombia - the fritos, the coffee that's so famous and just the possibilities that exist here. 
 
-![frito1]({{site.baseurl}}/assets/img/colombia/frito1.jpeg){:width="50%"}![frito2]({{site.baseurl}}/assets/img/colombia/frito2.jpeg){:width="28%"}
+{% include image.html src="colombia/frito1.jpeg" alt="frito1" width="50%" %}{% include image.html src="colombia/frito2.jpeg" alt="frito2" width="28%" %}
 
-![juan_valdez]({{site.baseurl}}/assets/img/colombia/juan_valdez.jpeg){:width="50%"}
+{% include image.html src="colombia/juan_valdez.jpeg" alt="juan_valdez" width="50%" %}
 
 Goodbye Colombia. 

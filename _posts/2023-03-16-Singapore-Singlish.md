@@ -23,16 +23,16 @@ I arrived in SG in the morning. The SE Asia hot and humid weather is a constant.
 
 First things first, I went to the Maxwell Hawker that's about two minutes away. 
 
-![hawker]({{site.baseurl}}/assets/img/singapore/hawker.jpeg){:width="50%"}![hawker2]({{site.baseurl}}/assets/img/singapore/hawker2.jpeg){:width="50%"}
+{% include image.html src="singapore/hawker.jpeg" alt="hawker" width="50%" loading="eager" %}{% include image.html src="singapore/hawker2.jpeg" alt="hawker2" width="50%" loading="eager" %}
 
-![hawker3]({{site.baseurl}}/assets/img/singapore/hawker3.jpeg){:width="50%"}![hawker4]({{site.baseurl}}/assets/img/singapore/hawker4.jpeg){:width="50%"}
+{% include image.html src="singapore/hawker3.jpeg" alt="hawker3" width="50%" %}{% include image.html src="singapore/hawker4.jpeg" alt="hawker4" width="50%" %}
 *Tian Tian Hainanese Chicken - Michelin Star restaurant*
 
 The hawker center was less busy in the morning, allowing me to enjoy the Michelin-starred meal without a long wait. The restaurant name translates directly into "everyday ginger chicken". Needless to say the hainan chicken was fragrant. 
 
 Over the next two days, I mostly ate in hawker centers. They offer not only Chinese food but also Indian and Arab cuisines.
 
-![hawker5]({{site.baseurl}}/assets/img/singapore/hawker5.jpeg){:width="50%"}![hawker6]({{site.baseurl}}/assets/img/singapore/hawker6.jpeg){:width="50%"}
+{% include image.html src="singapore/hawker5.jpeg" alt="hawker5" width="50%" %}{% include image.html src="singapore/hawker6.jpeg" alt="hawker6" width="50%" %}
 
 What an experience having satay at midnight or laksa for dinner 😍
 
@@ -46,11 +46,11 @@ Perhaps modern China is the way that it is because of LKY's influence as well.
 
 The ethnic enclaves came from the Stamford Raffles (British official in the early 1800s) days. This creates this unique blend of neighborhoods so close to each other. 
 
-![mix]({{site.baseurl}}/assets/img/singapore/mix.jpeg){:width="28%"}![mix2]({{site.baseurl}}/assets/img/singapore/mix2.jpeg){:width="28%"}
+{% include image.html src="singapore/mix.jpeg" alt="mix" width="28%" %}{% include image.html src="singapore/mix2.jpeg" alt="mix2" width="28%" %}
 
 *Chinese and Indian (hindu)*
 
-![mix3]({{site.baseurl}}/assets/img/singapore/ mix3.jpeg){:width="50%"}![mix4]({{site.baseurl}}/assets/img/singapore/mix4.jpeg){:width="50%"}
+{% include image.html src="singapore/ mix3.jpeg" alt="mix3" width="50%" %}{% include image.html src="singapore/mix4.jpeg" alt="mix4" width="50%" %}
 
 *Arab quarters* 
 
@@ -62,21 +62,21 @@ This cultural mixture is precious. I wonder if this peace is only achievable due
 
 I visited the famous Housing Development Board "museum" that Singaporians have. Having seen blocks of government housing everywhere in the world and the usual stereotypes, I am very impressed. 
 
-![hdb]({{site.baseurl}}/assets/img/singapore/hdb.jpeg){:width="50%"}
+{% include image.html src="singapore/hdb.jpeg" alt="hdb" width="50%" %}
 
 I also visited the National University of Singapore. 
 
-![nus]({{site.baseurl}}/assets/img/singapore/nus.jpeg){:width="50%"}
+{% include image.html src="singapore/nus.jpeg" alt="nus" width="50%" %}
 
 I walked for a good 30 minutes to the nearest Ikea and had some Asian food in the Ikea cafeteria.
 
-![ikea]({{site.baseurl}}/assets/img/singapore/ikea.jpeg){:width="50%"}
+{% include image.html src="singapore/ikea.jpeg" alt="ikea" width="50%" %}
 
 *They also have the usual meatballs, of course*
 
 Life is busy, but good.  
 
-![newspaper]({{site.baseurl}}/assets/img/singapore/newspaper.jpeg){:width="50%"}
+{% include image.html src="singapore/newspaper.jpeg" alt="newspaper" width="50%" %}
 
 
 
@@ -84,25 +84,25 @@ Life is busy, but good.
 
 Marina Bay sands is so big and green. I decided to watch the sunset and observe this mega structure. 
 
-![marina]({{site.baseurl}}/assets/img/singapore/marina.jpeg){:width="50%"}![marina2]({{site.baseurl}}/assets/img/singapore/marina2.jpeg){:width="50%"}
+{% include image.html src="singapore/marina.jpeg" alt="marina" width="50%" %}{% include image.html src="singapore/marina2.jpeg" alt="marina2" width="50%" %}
 
-![marina3]({{site.baseurl}}/assets/img/singapore/marina3.jpeg){:width="50%"}
+{% include image.html src="singapore/marina3.jpeg" alt="marina3" width="50%" %}
 
 Buildings in SG place a strong emphasis on green design, and rightly so.
 
-![green]({{site.baseurl}}/assets/img/singapore/green.jpeg){:width="28%"}![green2]({{site.baseurl}}/assets/img/singapore/green2.jpeg){:width="50%"}
+{% include image.html src="singapore/green.jpeg" alt="green" width="28%" %}{% include image.html src="singapore/green2.jpeg" alt="green2" width="50%" %}
 
 The night before my flight, I walked Orchard road, the upscale shopping center of SG. 
 
-![convenience2]({{site.baseurl}}/assets/img/singapore/convenience2.jpeg){:width="50%"}![convenience]({{site.baseurl}}/assets/img/singapore/convenience.jpeg){:width="50%"}
+{% include image.html src="singapore/convenience2.jpeg" alt="convenience2" width="50%" %}{% include image.html src="singapore/convenience.jpeg" alt="convenience" width="50%" %}
 
 Being in SEA, the convenience stores are heaven, of course. 
 
 ### Saying Goodbye
 
-![changi2]({{site.baseurl}}/assets/img/singapore/changi2.jpeg){:width="28%"}![changi3]({{site.baseurl}}/assets/img/singapore/changi3.jpeg){:width="50%"}
+{% include image.html src="singapore/changi2.jpeg" alt="changi2" width="28%" %}{% include image.html src="singapore/changi3.jpeg" alt="changi3" width="50%" %}
 
-![changi]({{site.baseurl}}/assets/img/singapore/changi.jpeg){:width="28%"}
+{% include image.html src="singapore/changi.jpeg" alt="changi" width="28%" %}
 
 I spent quite a few hours at the Changi airport. It is an attraction in of itself. Unfortunately, I couldn't catch the Jewel with the falling water. 
 

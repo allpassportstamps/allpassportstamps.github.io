@@ -4,7 +4,9 @@ layout: main
 {% for post in paginator.posts %}
 <article class="post">
   {% if post.img %}
-    <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
+    {% assign thumbnail_loading = 'lazy' %}
+    {% if forloop.index <= 2 %}{% assign thumbnail_loading = 'eager' %}{% endif %}
+    <a class="post-thumbnail" href="{{post.url | relative_url}}" aria-label="{{ post.title | escape }}">{% include image.html src=post.img alt="" variant="thumbnail" loading=thumbnail_loading %}</a>
   {% else %}
   {% endif %}
   <div class="post-content">

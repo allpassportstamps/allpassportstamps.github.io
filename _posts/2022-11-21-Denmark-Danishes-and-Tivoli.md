@@ -21,35 +21,35 @@ Some aspects of the Denmark trip that I find really unique:
 * Vikings and the aloof demeanors
 * Denmark has Greenland!?
 
-![bike]({{site.baseurl}}/assets/img/denmark/bike.jpeg){:width="50%"}
+{% include image.html src="denmark/bike.jpeg" alt="bike" width="50%" loading="eager" %}
 
 I took the train from Copenhagen station, accidentally boarded the wrong one, but still managed to find my way.
 
 I enjoyed some Danishes and the quality sweets that seem to be at every shop. I was a sucker for the chilli pepper hotdogs that seem to be at every 7 Eleven. 
 
-![danish]({{site.baseurl}}/assets/img/denmark/danish.jpeg){:width="50%"}
+{% include image.html src="denmark/danish.jpeg" alt="danish" width="50%" loading="eager" %}
 
 ### Copenhagen 
 
 Dealing with jetleg, I wandered the streets, and made my way to the Little Mermaid statue. Hats off to HC Anderson for the billions of children who went to sleep with his stories. 
 
-![mermaid]({{site.baseurl}}/assets/img/denmark/mermaid.jpeg){:width="28%"}![mermaid2]({{site.baseurl}}/assets/img/denmark/mermaid2.jpeg){:width="50%"}
+{% include image.html src="denmark/mermaid.jpeg" alt="mermaid" width="28%" %}{% include image.html src="denmark/mermaid2.jpeg" alt="mermaid2" width="50%" %}
 
 Copenhagen streets are lively. Bustling with the holiday spirits. 
 
-![cop_street]({{site.baseurl}}/assets/img/denmark/cop_street.jpeg){:width="50%"}![holiday]({{site.baseurl}}/assets/img/denmark/holiday.jpeg){:width="50%"}
-![tivoli 2]({{site.baseurl}}/assets/img/denmark/tivoli2.jpeg){:width="50%"}
+{% include image.html src="denmark/cop_street.jpeg" alt="cop_street" width="50%" %}{% include image.html src="denmark/holiday.jpeg" alt="holiday" width="50%" %}
+{% include image.html src="denmark/tivoli2.jpeg" alt="tivoli 2" width="50%" %}
 
 This is Europe, and I was not used to seeing such a high number of smokers, as well as all the Shwarma places everywhere (like taco places in California). 
 
 One popular dish in Denmark is Smørrebrød, an open-faced sandwich.
 
-![smorrebrod]({{site.baseurl}}/assets/img/denmark/smorrebrod.jpeg){:width="28%"}![smorrebrod2]({{site.baseurl}}/assets/img/denmark/smorrebrod2.jpeg){:width="50%"}
+{% include image.html src="denmark/smorrebrod.jpeg" alt="smorrebrod" width="28%" %}{% include image.html src="denmark/smorrebrod2.jpeg" alt="smorrebrod2" width="50%" %}
 *technically it's spelt smorrebrod*
 
 I walked passed Copenhagen Business School, which is right beside the high end mall of Frederizberg mall. 
 
-![cbs]({{site.baseurl}}/assets/img/denmark/cbs.jpeg){:width="50%"}![royalty]({{site.baseurl}}/assets/img/denmark/royalty.jpeg){:width="28%"}
+{% include image.html src="denmark/cbs.jpeg" alt="cbs" width="50%" %}{% include image.html src="denmark/royalty.jpeg" alt="royalty" width="28%" %}
 
 Speaking of monarchs, Denmark's royalty has predominantly been named Frederik and Christian for centuries.
 
@@ -59,11 +59,11 @@ But first, our walking tour guide shared that the Bluetooth in embedded devices 
 
 I took the train for an hour to see this big castle (I should try to sound more cultured :)). 
 
-![castle_ticket]({{site.baseurl}}/assets/img/denmark/castle_ticket.jpeg){:width="28%"}![castle3]({{site.baseurl}}/assets/img/denmark/castle3.jpeg){:width="50%"}
+{% include image.html src="denmark/castle_ticket.jpeg" alt="castle_ticket" width="28%" %}{% include image.html src="denmark/castle3.jpeg" alt="castle3" width="50%" %}
 
 I learned about the history of king Christian IV, his successes and how he is remembered for his contributions. 
 
-![castle]({{site.baseurl}}/assets/img/denmark/castle.jpeg){:width="50%"}![castle2]({{site.baseurl}}/assets/img/denmark/castle2.jpeg){:width="50%"}
+{% include image.html src="denmark/castle.jpeg" alt="castle" width="50%" %}{% include image.html src="denmark/castle2.jpeg" alt="castle2" width="50%" %}
 
 The castle is beautiful with such amazing veneers. The backyard garden is equally expansive. 
 
@@ -73,8 +73,8 @@ Close to the castle, there is a big mall, and the people of Denmark (or to be mo
 
 Walt Disney was inspired by Tivoli Gardens, a century-old amusement park. He must have had some glogg and thought, let's move this to Los Angeles. 
 
-![tivoli]({{site.baseurl}}/assets/img/denmark/tivoli.jpeg){:width="50%"}![tivoli 3]({{site.baseurl}}/assets/img/denmark/tivoli3.jpeg){:width="50%"}
-![tivoli 4]({{site.baseurl}}/assets/img/denmark/tivoli4.jpeg){:width="50%"}![glogg]({{site.baseurl}}/assets/img/denmark/glogg.jpeg){:width="28%"}
+{% include image.html src="denmark/tivoli.jpeg" alt="tivoli" width="50%" %}{% include image.html src="denmark/tivoli3.jpeg" alt="tivoli 3" width="50%" %}
+{% include image.html src="denmark/tivoli4.jpeg" alt="tivoli 4" width="50%" %}{% include image.html src="denmark/glogg.jpeg" alt="glogg" width="28%" %}
 
 It was quite an experience for me, seeing the kids on the rides and the parents watching and living vicariously through them. 
 
@@ -84,16 +84,16 @@ Glögg booths are everywhere, offering a sweet and spiced wine that I found quit
 
 Some pictures that I took of Nyhavn, aka the new harbor. 
 
-![Nyhavn]({{site.baseurl}}/assets/img/denmark/Nyhavn.jpeg){:width="50%"}![Nyhavn2]({{site.baseurl}}/assets/img/denmark/Nyhavn2.jpeg){:width="50%"}
+{% include image.html src="denmark/Nyhavn.jpeg" alt="Nyhavn" width="50%" %}{% include image.html src="denmark/Nyhavn2.jpeg" alt="Nyhavn2" width="50%" %}
 
 
 ### Aarhus 
 
-![cop_station]({{site.baseurl}}/assets/img/denmark/cop_station.jpeg){:width="50%"}
+{% include image.html src="denmark/cop_station.jpeg" alt="cop_station" width="50%" %}
 
 I took the 3 hour train from CPH to Aarhus, the second biggest city on the northern part of Denmark. 
 
-![train]({{site.baseurl}}/assets/img/denmark/train.jpeg){:width="50%"}![train2]({{site.baseurl}}/assets/img/denmark/train2.jpeg){:width="50%"}
+{% include image.html src="denmark/train.jpeg" alt="train" width="50%" %}{% include image.html src="denmark/train2.jpeg" alt="train2" width="50%" %}
 
 I saw some much missing sunshine and saw the Danish country side. A lot of beautiful farms and people who are visiting family, a short train ride away. 
 
@@ -101,11 +101,11 @@ I visited the Viking museum, with no employee working there and only an automati
 
 I also learned about how Denmark doesn't have military and its time during WWII. 
 
-![aarhus]({{site.baseurl}}/assets/img/denmark/aarhus.jpeg){:width="50%"}![aarhus2]({{site.baseurl}}/assets/img/denmark/aarhus2.jpeg){:width="50%"}
+{% include image.html src="denmark/aarhus.jpeg" alt="aarhus" width="50%" %}{% include image.html src="denmark/aarhus2.jpeg" alt="aarhus2" width="50%" %}
 
 I had a very uncomfortable and aggressive encounter with an individual that I won't go into much details of, who pestered me aggressively and continuously. 
 
-![sweets]({{site.baseurl}}/assets/img/denmark/sweets.jpeg){:width="50%"}![aarhus3]({{site.baseurl}}/assets/img/denmark/aarhus3.jpeg){:width="50%"}
+{% include image.html src="denmark/sweets.jpeg" alt="sweets" width="50%" %}{% include image.html src="denmark/aarhus3.jpeg" alt="aarhus3" width="50%" %}
 
 <!-- ![protest]({{site.baseurl}}/assets/img/denmark/protest.jpeg){:width="50%"} -->
 

@@ -12,11 +12,11 @@ tags: [North America]
 
 I arrived at San Salvador late in the evening. After a good night sleep, I went and checked out their town square and museums. 
 
-![museum2]({{site.baseurl}}/assets/img/el_salvador/museum2.jpeg){:width="28%"}![monument]({{site.baseurl}}/assets/img/el_salvador/monument.jpeg){:width="28%"}
+{% include image.html src="el_salvador/museum2.jpeg" alt="museum2" width="28%" loading="eager" %}{% include image.html src="el_salvador/monument.jpeg" alt="monument" width="28%" loading="eager" %}
 
 Central America was once united as the Federal Republic of Central America, and of course there has been a lot of conflict in the region. 
 
-![museum]({{site.baseurl}}/assets/img/el_salvador/museum.jpeg){:width="50%"}
+{% include image.html src="el_salvador/museum.jpeg" alt="museum" width="50%" %}
 
 ### Bitcoin Only? 
 
@@ -26,7 +26,7 @@ El Salvador's currency is the US dollar.
 
 President Nayib Bukele and the government has also introduced Bitcoin as an official currency. 
 
-![president]({{site.baseurl}}/assets/img/el_salvador/president.jpeg){:width="50%"}![bitcoin]({{site.baseurl}}/assets/img/el_salvador/bitcoin.jpeg){:width="28%"}
+{% include image.html src="el_salvador/president.jpeg" alt="president" width="50%" %}{% include image.html src="el_salvador/bitcoin.jpeg" alt="bitcoin" width="28%" %}
 
 *Campaign poster from Downtown San Salvador \| McDonalds accept Bitcoin payment!*
 
@@ -38,15 +38,14 @@ I visited the beautiful beaches of El Salvador facing the Pacific - El Tunco and
 
 El Tunco is much bigger and more popular with the locals . There is a large pier and a busy market. It's a blend of industrials, vacations and surfers!  
 
-![hand fishing]({{site.baseurl}}/assets/img/el_salvador/hand_fishing.jpeg){:width="50%"}![bitcoin_beach2]({{site.baseurl}}/assets/img/el_salvador/bitcoin_beach2
-.jpeg){:width="50%"}
+{% include image.html src="el_salvador/hand_fishing.jpeg" alt="hand fishing" width="50%" %}{% include image.html src="el_salvador/bitcoin_beach2.jpeg" alt="bitcoin_beach2" width="50%" %}
 *Watching hand fishing in person*
 
 About 20 mins by car, there is El Zonte, better known to tourists as Bitcoin beach. 
 
 All the shops do accept Bitcoin through the government payment app. Of course, the shops and resorts are higher end and there are mostly tourists there. 
 
-![bitoin_beach]({{site.baseurl}}/assets/img/el_salvador/bitoin_beach.jpeg){:width="50%"}![bitcoin_beach3]({{site.baseurl}}/assets/img/el_salvador/bitcoin_beach3.jpeg){:width="28%"}
+{% include image.html src="el_salvador/bitoin_beach.jpeg" alt="bitoin_beach" width="50%" %}{% include image.html src="el_salvador/bitcoin_beach3.jpeg" alt="bitcoin_beach3" width="28%" %}
 
 ### Pupusas
 
@@ -54,6 +53,5 @@ It's their national dish.
 
 Fresh pupusas are made everywhere on the streets. The cheese and fillings are blended in front of your eyes into a steamy bun of goodness. 
 
-![pupusa_streetfood]({{site.baseurl}}/assets/img/el_salvador/pupusa_streetfood.jpeg){:width="50%"}![downtown_market]({{site.baseurl}}/assets/img/el_salvador/downtown_market.jpeg){:width="50%"}
-
+{% include image.html src="el_salvador/pupusa_streetfood.jpeg" alt="pupusa_streetfood" width="50%" %}{% include image.html src="el_salvador/downtown_market.jpeg" alt="downtown_market" width="50%" %}
 

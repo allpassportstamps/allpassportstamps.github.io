@@ -27,76 +27,76 @@ We rented a car and began our adventure driving on the left side of the road. We
 
 Heading to the Hilton hotel, we took this crazy sandy road that really scared us, making us worry we would get stuck. Fortunately, we were pleasantly surprised to see a few furry companions right by the back road of the hotel. 
 
-![hilton_monkey]({{site.baseurl}}/assets/img/barbados/hilton_monkey.jpeg){:width="50%"}![hilton]({{site.baseurl}}/assets/img/barbados/hilton.jpeg){:width="50%"}
+{% include image.html src="barbados/hilton_monkey.jpeg" alt="hilton_monkey" width="50%" loading="eager" %}{% include image.html src="barbados/hilton.jpeg" alt="hilton" width="50%" loading="eager" %}
 *Thank you Amex Hilton credit cards for the points!!*
 
 For our first day's exploration, we drove to the adjacent Brownes Beach. As the sun set over the Caribbean sea, the pink sand glowed in the turquoise water. 
 
 A bit futher down the road, we reached Bridgetown, where we were welcomed by the Independence Arch, a symbol of Barbados's struggle for independence from the British. 
 
-![independence_arch]({{site.baseurl}}/assets/img/barbados/independence_arch.jpeg){:width="50%"}![gov]({{site.baseurl}}/assets/img/barbados/gov.jpeg){:width="50%"}
+{% include image.html src="barbados/independence_arch.jpeg" alt="independence_arch" width="50%" %}{% include image.html src="barbados/gov.jpeg" alt="gov" width="50%" %}
 *Right: the government building right across from Brownes Beach*
 
-![bridgetown]({{site.baseurl}}/assets/img/barbados/bridgetown.jpeg){:width="50%"}![bridgetown_statue]({{site.baseurl}}/assets/img/barbados/bridgetown_statue.jpeg){:width="50%"}
+{% include image.html src="barbados/bridgetown.jpeg" alt="bridgetown" width="50%" %}{% include image.html src="barbados/bridgetown_statue.jpeg" alt="bridgetown_statue" width="50%" %}
 
 After meandering around downtown and getting a SIM card, we had a questionable dinner at a tourist trap restaurant but enjoyed visiting Massy, a very popular local supermarket chain. 
 
 We had a blast picking out local snacks and water to last us for the next few days, since most stores would be closed during Christmas Eve, Christmas Day, and Boxing Day (the 26th, when the locals party!). 
 
-![massy_snack]({{site.baseurl}}/assets/img/barbados/massy_snack.jpeg){:width="38%"}![massy_snack2]({{site.baseurl}}/assets/img/barbados/massy_snack2.jpeg){:width="50%"}
+{% include image.html src="barbados/massy_snack.jpeg" alt="massy_snack" width="38%" %}{% include image.html src="barbados/massy_snack2.jpeg" alt="massy_snack2" width="50%" %}
 *Tamarind is popular in the neighboring Carribean islands!*
 
 ### Day 2: Snorkeling and Northern parts of the Island
 
 We started Christmas Eve with a snorkeling trip with Hilton's affiliated tour; on our ship, we were with a Brits family of 6. 
 
-![barbados_blue]({{site.baseurl}}/assets/img/barbados/barbados_blue.jpeg){:width="50%"}
+{% include image.html src="barbados/barbados_blue.jpeg" alt="barbados_blue" width="50%" %}
 
 We had 2 big stops: the turtles and the 5 ship wrecks. Unfortunately, this is high season for tourism, and the snorkelers were in the sea like dumplings in a pan. Nonetheless, the water was amazing, and the wildlife was plentiful. Note: the tour operators do feed the fish, and the gov sinks ship here to create more fish habitats.
 
-![snorkel_fish_shipwreck]({{site.baseurl}}/assets/img/barbados/snorkel_fish_shipwreck.png){:width="50%"}![snorkel_stingray]({{site.baseurl}}/assets/img/barbados/snorkel_stingray.png){:width="50%"}
+{% include image.html src="barbados/snorkel_fish_shipwreck.png" alt="snorkel_fish_shipwreck" width="50%" %}{% include image.html src="barbados/snorkel_stingray.png" alt="snorkel_stingray" width="50%" %}
 
-![snorkel_pic]({{site.baseurl}}/assets/img/barbados/snorkel_pic.jpeg){:width="50%"}![snorkel_stingray]({{site.baseurl}}/assets/img/barbados/snorkel_turtle.jpeg){:width="50%"}
+{% include image.html src="barbados/snorkel_pic.jpeg" alt="snorkel_pic" width="50%" %}{% include image.html src="barbados/snorkel_turtle.jpeg" alt="snorkel_stingray" width="50%" %}
 
 The afternoon was spent exploring the northern parts of the island. Our first stop was the Wildlife Reserve, where monkeys, tortoises, chickens, pheasants, and other animals roamed freely. 
 
-![wild_life_reserve]({{site.baseurl}}/assets/img/barbados/wild_life_reserve.jpeg){:width="50%"}![wild_life_reserve_monkey]({{site.baseurl}}/assets/img/barbados/wild_life_reserve_monkey.jpeg){:width="28%"}
+{% include image.html src="barbados/wild_life_reserve.jpeg" alt="wild_life_reserve" width="50%" %}{% include image.html src="barbados/wild_life_reserve_monkey.jpeg" alt="wild_life_reserve_monkey" width="28%" %}
 
 *The poor tortoises are a bit late, and are often bullied by the monkeys. This was like a circle of life. We particularly enjoyed seeing the mom and baby monkeys.*
 
 Our next stop was to the Farley Hill National Park, where we were greeted by the burnt down remains of the once great estate, and the now national park. 
 
-![farley_hill]({{site.baseurl}}/assets/img/barbados/farley_hill.jpeg){:width="50%"}![farley_hill2]({{site.baseurl}}/assets/img/barbados/farley_hill2.jpeg){:width="50%"}
+{% include image.html src="barbados/farley_hill.jpeg" alt="farley_hill" width="50%" %}{% include image.html src="barbados/farley_hill2.jpeg" alt="farley_hill2" width="50%" %}
 
 We didn't visit the touristy St Nicolas Abbey rail way, but went to the nearby Cherry Tree Hill, where we were greeted by a view of the east coast. 
 
-![cherry_tree_hill_view]({{site.baseurl}}/assets/img/barbados/cherry_tree_hill_view.jpeg){:width="50%"}
+{% include image.html src="barbados/cherry_tree_hill_view.jpeg" alt="cherry_tree_hill_view" width="50%" %}
 
 We barely made it to our next stop, the Animal Flower Cave, before it closed down. This underground cave has been transformed into a tourist attraction.
 
 The cave was naturally formed and features many patterns in the minerals, resembling hands and lizards, created by the water. 
 
-![animal_flower_cave]({{site.baseurl}}/assets/img/barbados/animal_flower_cave.jpeg){:width="50%"}![animal_flower_cave2]({{site.baseurl}}/assets/img/barbados/animal_flower_cave2.jpeg){:width="50%"}
+{% include image.html src="barbados/animal_flower_cave.jpeg" alt="animal_flower_cave" width="50%" %}{% include image.html src="barbados/animal_flower_cave2.jpeg" alt="animal_flower_cave2" width="50%" %}
 *The cave has many lairs, and even an indoor swimming pool from the sea water*
 
 The cave bears its name after these little green flowers in the water. When they are touched, they close up into a tiny dot instantly. 
 
-![animal_flower_inthecave]({{site.baseurl}}/assets/img/barbados/animal_flower_inthecave.png){:width="40%"}
+{% include image.html src="barbados/animal_flower_inthecave.png" alt="animal_flower_inthecave" width="40%" %}
 
 As Christmas Eve drew to a close, we explored Speightstown on the Northwestern coast. At the docks, we met many visitors like ourselves, including two young people who caught and released a big fish back into the sea. 
 
-![speights_town]({{site.baseurl}}/assets/img/barbados/speights_town.jpeg){:width="50%"}![speights_town_pier]({{site.baseurl}}/assets/img/barbados/speights_town_pier.jpeg){:width="50%"}
+{% include image.html src="barbados/speights_town.jpeg" alt="speights_town" width="50%" %}{% include image.html src="barbados/speights_town_pier.jpeg" alt="speights_town_pier" width="50%" %}
 
 We had dinner at a bar there, and got into the holiday spirits feeling the tropical breeze.
 
-![speights_town_christmas_eve_dinner]({{site.baseurl}}/assets/img/barbados/speights_town_christmas_eve_dinner.jpeg){:width="50%"}![speights_town_restaurant]({{site.baseurl}}/assets/img/barbados/speights_town_restaurant.jpeg){:width="50%"}
+{% include image.html src="barbados/speights_town_christmas_eve_dinner.jpeg" alt="speights_town_christmas_eve_dinner" width="50%" %}{% include image.html src="barbados/speights_town_restaurant.jpeg" alt="speights_town_restaurant" width="50%" %}
 *Ms. Q had the Mahi Mahi cutter (burger basically), and I had the Roti (the British had Indians work on the island a century ago)* 
 
 ### Day 3: Christmas in Queens Park, Rhianna's Drive and Bathsheba
 
 The Christmas tradition in Barbados involves visiting the parade in Queens Park, hosted by the Police Band - a tradition that has continued for over 100 years. Of course, we had to experience this festivity. 
 
-![queens_park]({{site.baseurl}}/assets/img/barbados/queens_park.jpeg){:width="50%"}![queens_park2]({{site.baseurl}}/assets/img/barbados/queens_park2.jpeg){:width="50%"}
+{% include image.html src="barbados/queens_park.jpeg" alt="queens_park" width="50%" %}{% include image.html src="barbados/queens_park2.jpeg" alt="queens_park2" width="50%" %}
 
 Although we couldn't catch the full parade, we were so happy to be part of this festivity. So many folks had dressed up and shown their holiday spirit. We had a blast walking around the park and looking at all the decorated Christmas trees as well, each with memorabilia from the countries that are allies with Barbados. 
 
@@ -104,21 +104,21 @@ For a better experience, [this is a good stream of the parade](https://www.youtu
 
 Of course, we also visited the famous Rhianna's Drive, where we saw Rhianna's childhood home. It was a really crowded street, and cars really couldn't squeeze through. 
 
-![rhianna]({{site.baseurl}}/assets/img/barbados/rhiana.jpeg){:width="50%"}![rhianna_house]({{site.baseurl}}/assets/img/barbados/rhiana_house.jpeg){:width="50%"}
+{% include image.html src="barbados/rhiana.jpeg" alt="rhianna" width="50%" %}{% include image.html src="barbados/rhiana_house.jpeg" alt="rhianna_house" width="50%" %}
 
 We also passed by Mount Gay Rum Distillery, the most famous and oldest on the island. Barbados, being the birthplace of rum, made this very special. We learned about how rum was made from molasses, which came from the sugar cane plantations. 
 
-![rum]({{site.baseurl}}/assets/img/barbados/rum.jpeg){:width="50%"}
+{% include image.html src="barbados/rum.jpeg" alt="rum" width="50%" %}
 
 In the afternoon, we arrived at Bathsheba, where we were greeted by the Atlantic Ocean. The Eastern side of the island is suited for surfing, while the Western side is calmer and better for swimming. 
 
-![bathsheba]({{site.baseurl}}/assets/img/barbados/bathsheba.jpeg){:width="50%"}![bathsheba2]({{site.baseurl}}/assets/img/barbados/bathsheba2.jpeg){:width="50%"}
+{% include image.html src="barbados/bathsheba.jpeg" alt="bathsheba" width="50%" %}{% include image.html src="barbados/bathsheba2.jpeg" alt="bathsheba2" width="50%" %}
 
 It was rugged and windy, where natural beauty and the waves were a sight to behold. 
 
 Our afternoon was spent visiting the animal sanctuary. There were an enclosure for the cats, where tabbies, black cats and more were just happily roaming around. There were also a dozen dogs and puppies, each with their own enclosure. There was a big sign that said that if you are visiting Boston or JFK, please consider helping the sanctuary transport a stray cat to the US for adoption. 
 
-![animal_sanctuary]({{site.baseurl}}/assets/img/barbados/animal_sanctuary.jpeg){:width="28%"}![bathsheba2]({{site.baseurl}}/assets/img/barbados/st_john_parish_church.jpeg){:width="50%"}
+{% include image.html src="barbados/animal_sanctuary.jpeg" alt="animal_sanctuary" width="28%" %}{% include image.html src="barbados/st_john_parish_church.jpeg" alt="bathsheba2" width="50%" %}
 
 We alos visited the beautiful St. John Parish Church. (Note: absolutely nothing was open on Christmas day, except a few gas stations)
 
@@ -134,28 +134,28 @@ Our next stop was to get us some lunch at the Oistin Fish Market. Along the way,
 
 We realized that they were bottling the coconut water and selling it. So they literally didn't know how much to charge us. The coconut was so fresh, and we were so thirsty. 
 
-![coconut]({{site.baseurl}}/assets/img/barbados/coconut.jpeg){:width="28%"}![oistin_beach]({{site.baseurl}}/assets/img/barbados/oistin_beach.jpeg){:width="50%"}
+{% include image.html src="barbados/coconut.jpeg" alt="coconut" width="28%" %}{% include image.html src="barbados/oistin_beach.jpeg" alt="oistin_beach" width="50%" %}
 
 *There were so many pot holes and a lot of coconut water actually spilled into the car LOL!*
 
 The Fish Market was a bit sparse during the day. There were only 1-2 vendors, and only locals were around. We ordered a fantastic blue marlin, and had a great time soaking in the beach vibes. 
 
-![oistin_fish_market_dj]({{site.baseurl}}/assets/img/barbados/oistin_fish_market_dj.png){:width="57%"}![oistin_lunch_marlin]({{site.baseurl}}/assets/img/barbados/oistin_lunch_marlin.jpeg){:width="43%"}
+{% include image.html src="barbados/oistin_fish_market_dj.png" alt="oistin_fish_market_dj" width="57%" %}{% include image.html src="barbados/oistin_lunch_marlin.jpeg" alt="oistin_lunch_marlin" width="43%" %}
 *We had the macroni pie, which is a local version of Mac n Cheese.*
 
 We continued our journey to the Sunbury Plantation, full of history of the island's slavery past under English rule and recent independence. 
 
-![sunbury_plantation]({{site.baseurl}}/assets/img/barbados/sunbury_plantation.jpeg){:width="50%"}![sunbury_banana]({{site.baseurl}}/assets/img/barbados/sunbury_banana.jpeg){:width="28%"}
+{% include image.html src="barbados/sunbury_plantation.jpeg" alt="sunbury_plantation" width="50%" %}{% include image.html src="barbados/sunbury_banana.jpeg" alt="sunbury_banana" width="28%" %}
 *The banana (figs as the local call it) tree would become plantain one day!*
 
-![sunbury_table]({{site.baseurl}}/assets/img/barbados/sunbury_table.jpeg){:width="50%"}![sunbury_toilet]({{site.baseurl}}/assets/img/barbados/sunbury_toilet.jpeg){:width="28%"}
+{% include image.html src="barbados/sunbury_table.jpeg" alt="sunbury_table" width="50%" %}{% include image.html src="barbados/sunbury_toilet.jpeg" alt="sunbury_toilet" width="28%" %}
 *Right: In-room toilet chairs in the good o' days*
 
 The tour guide in the plantation house was excellent, and I had a really hard time imagining life in the past. There'd be farmers working on the plantation, ladies and children playing, nannies and servants cooking in the basement, and even a train that used to run to the plantation (even on this tiny island). And don't get me started on how tea parties and guests would work, given that people needed to travel for many hours to get to the plantation. 
 
 That night, we walked from our hotel to the Oistin Fish Market again, which was around 20 minutes of walking by the beach and sidewalk. The fish market was much busier at night. 
 
-![oistin_fish]({{site.baseurl}}/assets/img/barbados/oistin_fish.jpeg){:width="50%"}![chefette]({{site.baseurl}}/assets/img/barbados/chefette.jpeg){:width="28%"}
+{% include image.html src="barbados/oistin_fish.jpeg" alt="oistin_fish" width="50%" %}{% include image.html src="barbados/chefette.jpeg" alt="chefette" width="28%" %}
 
 Before getting fish at the market, we first visited Chefette, the most popular local fast food chain (McDonald's was present in the 90s but has since left). Their menu features burgers, rotis, ice cream and more. Ms. Q particularly praised the roti, and I had to agree.
 
@@ -163,7 +163,7 @@ The menu had burgers, rotis, ice creams and more. Ms. Q had high praises for the
 
 Next we had some fly fish again at the market (Fly fish and Cou Cou is Barbados's favorite dish). It was excellent and we tried the local hot sauce.
 
-![oistin_evening_grill]({{site.baseurl}}/assets/img/barbados/oistin_evening_grill.jpeg){:width="50%"}![oistin_evening_meal]({{site.baseurl}}/assets/img/barbados/oistin_evening_meal.jpeg){:width="50%"}
+{% include image.html src="barbados/oistin_evening_grill.jpeg" alt="oistin_evening_grill" width="50%" %}{% include image.html src="barbados/oistin_evening_meal.jpeg" alt="oistin_evening_meal" width="50%" %}
 *The grill was on fire and bringing the heat!*
 
 After about 30-60 minutes of waiting, the live karaoke finally started. Folks would line up, make song requests and the music started to flow in. 
@@ -172,7 +172,7 @@ The music were varied - from church music to American pop - but our favorite by 
 
 One particular local had such a powerful voice and we fell in love with this song by Bob Marley, called [A Lalala Long](https://www.youtube.com/watch?v=OOUc1ookLWI). 
 
-![oistin_fish_market_singing]({{site.baseurl}}/assets/img/barbados/oistin_fish_market_singing.png){:width="28%"}![oistin_evening_karaoke]({{site.baseurl}}/assets/img/barbados/oistin_evening_karaoke.jpeg){:width="66%"}
+{% include image.html src="barbados/oistin_fish_market_singing.png" alt="oistin_fish_market_singing" width="28%" %}{% include image.html src="barbados/oistin_evening_karaoke.jpeg" alt="oistin_evening_karaoke" width="66%" %}
 
 Oh man, the Raggae sing along was special and you had to be there!!! 
 

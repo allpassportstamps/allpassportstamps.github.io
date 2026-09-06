@@ -20,7 +20,7 @@ I will be back one day!
 
 ## Frankfurt to Wurzburg
 
-![Frankfurt Train]({{site.baseurl}}/assets/img/germany/frankfurt_train.JPEG){:width="50%"}
+{% include image.html src="germany/frankfurt_train.JPEG" alt="Frankfurt Train" width="50%" loading="eager" %}
 
 The conference took place in Wurzburg about an hour away from Frankfurt. 
 
@@ -30,7 +30,7 @@ Finding the Airbnb and the host (Arman?) was quite the experience.
 
 Wurzburg is a college town; it has a beautiful town square, modern retail and coffee shops everywhere! 
 
-![Wurzburg town square]({{site.baseurl}}/assets/img/germany/town_square.JPEG){:width="50%"}
+{% include image.html src="germany/town_square.JPEG" alt="Wurzburg town square" width="50%" loading="eager" %}
 
 *Wurzburg town square* 
 
@@ -42,17 +42,17 @@ Waking up after some jetlag, I walked through the town towards the bus for Wurzb
 
 The university buildings were historical, yet their facilities were modern.
 
-![Work presentation]({{site.baseurl}}/assets/img/germany/work_presentation.JPEG){:width="50%"}![Wurzburg University]({{site.baseurl}}/assets/img/germany/wurzburg_uni.JPEG){:width="50%"}
+{% include image.html src="germany/work_presentation.JPEG" alt="Work presentation" width="50%" %}{% include image.html src="germany/wurzburg_uni.JPEG" alt="Wurzburg University" width="50%" %}
 
 The work conference was fantastic. Our work presentation went well and many months of hard work paid off. 
 
 ## Exploring Wurzburg
 
-![Castle]({{site.baseurl}}/assets/img/germany/castle.JPEG){:width="50%"}
+{% include image.html src="germany/castle.JPEG" alt="Castle" width="50%" %}
 
 *Marienberg Fortress* 
 
-![River]({{site.baseurl}}/assets/img/germany/river.JPEG){:width="50%"}
+{% include image.html src="germany/river.JPEG" alt="River" width="50%" %}
 
 The trip is now a blur in my memories, but I do remember
 * The beautiful river
@@ -63,6 +63,6 @@ The trip is now a blur in my memories, but I do remember
 
 The trip was short and I wish I had stayed to visit Berlin or Cologne. 
 
-![Group dinner]({{site.baseurl}}/assets/img/germany/group_dinner.JPEG){:width="50%"}![Exploring cuisine]({{site.baseurl}}/assets/img/germany/dinner.JPEG){:width="50%"}
+{% include image.html src="germany/group_dinner.JPEG" alt="Group dinner" width="50%" %}{% include image.html src="germany/dinner.JPEG" alt="Exploring cuisine" width="50%" %}
 
 There will be more adventures ahead.

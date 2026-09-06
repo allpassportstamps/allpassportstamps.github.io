@@ -791,6 +791,10 @@ img {
   display: inline-block;
 }
 
+.optimized-image {
+  height: auto;
+}
+
 img + em {
   text-align: center;
   display: block;
@@ -1148,12 +1152,23 @@ footer .copyright {
 }
 
 .post .post-thumbnail {
+  position: relative;
+  overflow: hidden;
   width: 30%;
   max-width: 100%;
   min-height: 11rem;
   -webkit-background-size: cover;
           background-size: cover;
   background-position: 50% 50%;
+}
+
+.post .post-thumbnail img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 50%;
 }
 
 .post .post-content {
@@ -1323,7 +1338,7 @@ a.newer-posts:hover {
 
 .page-cover-image .page-image {
   width: 100%;
-  height: 100%;
+  height: auto;
 }
 
 .page-footer {

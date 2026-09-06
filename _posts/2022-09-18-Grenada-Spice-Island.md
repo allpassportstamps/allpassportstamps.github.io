@@ -32,7 +32,7 @@ The next morning, I drove around the island.
 
 I visited the Annandale Waterfall, a really cozy spot tucked in between the green mountains. 
 
-![waterfall dogs]({{site.baseurl}}/assets/img/grenada/waterfall_dogs.jpg){:width="50%"}
+{% include image.html src="grenada/waterfall_dogs.jpg" alt="waterfall dogs" width="50%" loading="eager" %}
 
 *The cutest dogs were in the entrance booth*
 
@@ -44,7 +44,7 @@ I visited the River Sallée Boiling Springs, a relatively hidden mud bath place 
 
 These holes in the ground with mud supposedly have healing properties. 
 
-![mud bath]({{site.baseurl}}/assets/img/grenada/mud_bath.png){:width="45%"}
+{% include image.html src="grenada/mud_bath.png" alt="mud bath" width="45%" loading="eager" %}
 
 I drove back towards the east side of the island. The road conditions definitely gave me trouble. 
 
@@ -57,26 +57,26 @@ I made two stops: True Blue Beach, a beautiful beach with no one there and sadly
 
 ### Spice Island
 
-![mural]({{site.baseurl}}/assets/img/grenada/mural.jpg){:width="50%"}
+{% include image.html src="grenada/mural.jpg" alt="mural" width="50%" %}
 
 Grenada is known for the spices that it grow. I visited The Tower Estate, a farm and factory that produces jars of spice products. The tour was fantastic where I tasted all sorts of jams made from various fruits, especially the nutmeg. 
 
 I also stopped by the fort (Fort Frederick) along the way, where I could oversee the whole western side of the island. Hundreds of years ago, there were probably guards who watched for pirate ships 24 hours a day in these walls. 
 
-![overview]({{site.baseurl}}/assets/img/grenada/overview.jpg){:width="50%"}
+{% include image.html src="grenada/overview.jpg" alt="overview" width="50%" %}
 
 ### St George
 
 The main town of St George was crowded. There were quite a few small malls and many many tourist traps along the docks. According to the locals, the cruise ships usually stop for a few hours during the summer travel season. 
 
-![st_george]({{site.baseurl}}/assets/img/grenada/st_george.jpg){:width="50%"}![st_george2]({{site.baseurl}}/assets/img/grenada/st_george2.jpg){:width="50%"}
+{% include image.html src="grenada/st_george.jpg" alt="st_george" width="50%" %}{% include image.html src="grenada/st_george2.jpg" alt="st_george2" width="50%" %}
 
 I walked for a few hours, as I parked far away, and visited a bunch of the local shops. 
 
-![market]({{site.baseurl}}/assets/img/grenada/market.jpg){:width="50%"}
+{% include image.html src="grenada/market.jpg" alt="market" width="50%" %}
 
 As my time was running low, I visited Grand Anse beach again, and spent time at Spiceland Mall, where the locals visit regularly. 
 
-![spiceland_mall]({{site.baseurl}}/assets/img/grenada/spiceland_mall.jpg){:width="50%"}
+{% include image.html src="grenada/spiceland_mall.jpg" alt="spiceland_mall" width="50%" %}
 
 I hope to be back to more Caribbean adventures throughout the next few decades!

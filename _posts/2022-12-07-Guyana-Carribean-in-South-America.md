@@ -21,7 +21,7 @@ Some aspects of the Guyana trip that I find really unique:
 * A British past like Belize, but with a Dutch connection like Suriname
 * A connection to "Drinking the cool-aid"
 
-![airbnb]({{site.baseurl}}/assets/img/guyana/airbnb.jpeg){:width="50%"}
+{% include image.html src="guyana/airbnb.jpeg" alt="airbnb" width="50%" loading="eager" %}
 
 I arrived at Georgetown at 11:30pm in the evening. Every single taxi driver at the airport were from the same company and had the exact same charge to Georgetown. 
 
@@ -35,42 +35,42 @@ Buying a sim card was pretty darn difficult for foreigners. Guyana doesn't exact
 
 The population of Guyana is around 40% Indian and 60% others. I was glad to find many Chinese grocery stores as well (very common in many Carribean / Eastern Europe countries). My only complaint is that the only Asian food they have is chowmein or fried rice.
 
-![food_menu]({{site.baseurl}}/assets/img/guyana/food_menu.jpeg){:width="50%"}![doubles]({{site.baseurl}}/assets/img/guyana/doubles.jpeg){:width="50%"}
+{% include image.html src="guyana/food_menu.jpeg" alt="food_menu" width="50%" loading="eager" %}{% include image.html src="guyana/doubles.jpeg" alt="doubles" width="50%" %}
 * The doubles are vegetarian and delicious!
 
 Georgetown is surrounded by a giant seawall. The immediate soil off the coast are thick marsh lands with all kinds of birds wondering around. 
 
-![seawall]({{site.baseurl}}/assets/img/guyana/seawall.jpeg){:width="50%"}![seawall2]({{site.baseurl}}/assets/img/guyana/seawall2.jpeg){:width="50%"}
+{% include image.html src="guyana/seawall.jpeg" alt="seawall" width="50%" %}{% include image.html src="guyana/seawall2.jpeg" alt="seawall2" width="50%" %}
 
-![horse]({{site.baseurl}}/assets/img/guyana/horse.jpeg){:width="50%"}![street]({{site.baseurl}}/assets/img/guyana/street.jpeg){:width="50%"}
+{% include image.html src="guyana/horse.jpeg" alt="horse" width="50%" %}{% include image.html src="guyana/street.jpeg" alt="street" width="50%" %}
 
 When I visited, the rain came and went all day long. 
 
-![statue]({{site.baseurl}}/assets/img/guyana/statue.jpeg){:width="50%"}![statue2]({{site.baseurl}}/assets/img/guyana/statue2.jpeg){:width="50%"}
+{% include image.html src="guyana/statue.jpeg" alt="statue" width="50%" %}{% include image.html src="guyana/statue2.jpeg" alt="statue2" width="50%" %}
 *The 1783 monument is dedicated to the Berbice uprising*
 
 On a heavier note, Jonestown, the origin of the phrase "drinking the cool-aid" connects both Guyana and San Francisco Bay Area where I came from for an event in the 1980s. 
 
 ### Local life
 
-![breakfast1]({{site.baseurl}}/assets/img/guyana/breakfast1.jpeg){:width="50%"}![breakfast3]({{site.baseurl}}/assets/img/guyana/breakfast3.jpeg){:width="50%"}
+{% include image.html src="guyana/breakfast1.jpeg" alt="breakfast1" width="50%" %}{% include image.html src="guyana/breakfast3.jpeg" alt="breakfast3" width="50%" %}
 
-![pepper_pot]({{site.baseurl}}/assets/img/guyana/pepper_pot.jpeg){:width="50%"}![breakfast2]({{site.baseurl}}/assets/img/guyana/breakfast2.jpeg){:width="28%"}
+{% include image.html src="guyana/pepper_pot.jpeg" alt="pepper_pot" width="50%" %}{% include image.html src="guyana/breakfast2.jpeg" alt="breakfast2" width="28%" %}
 *Pepper pot beef - the national dish that's full of spices \| Unfortunately, I don't know the names of these breakfast / street food dishes*
 
 Taking the bus is quite typical of the Caribbeans, where a van picks up and drops off passengers. 
 
-![bus]({{site.baseurl}}/assets/img/guyana/bus.jpeg){:width="50%"}![house]({{site.baseurl}}/assets/img/guyana/house.jpeg){:width="50%"}
+{% include image.html src="guyana/bus.jpeg" alt="bus" width="50%" %}{% include image.html src="guyana/house.jpeg" alt="house" width="50%" %}
 
 I enjoyed visiting the malls and cooling off from the humidity. I also tried to visit the university but unfortunately it was not open to the public.
 
-![giftland_mall]({{site.baseurl}}/assets/img/guyana/giftland_mall.jpeg){:width="50%"}![uni]({{site.baseurl}}/assets/img/guyana/uni.jpeg){:width="50%"}
+{% include image.html src="guyana/giftland_mall.jpeg" alt="giftland_mall" width="50%" %}{% include image.html src="guyana/uni.jpeg" alt="uni" width="50%" %}
 
 The Indian culture is very strong in Guyana, much like countries like Fiji. 
 
-![indian_school]({{site.baseurl}}/assets/img/guyana/indian_school.jpeg){:width="50%"}![cricket]({{site.baseurl}}/assets/img/guyana/cricket.jpeg){:width="50%"}
+{% include image.html src="guyana/indian_school.jpeg" alt="indian_school" width="50%" %}{% include image.html src="guyana/cricket.jpeg" alt="cricket" width="50%" %}
 
 Guyana was a fantastic experience. I will be back to visit the waterfall one day, perhaps when I travel to Suriname. 
 
-![church]({{site.baseurl}}/assets/img/guyana/church.jpeg){:width="50%"}
+{% include image.html src="guyana/church.jpeg" alt="church" width="50%" %}
 

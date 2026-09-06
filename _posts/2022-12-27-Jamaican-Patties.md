@@ -26,7 +26,7 @@ Interestingly enough, Tastee Patties were started and are operated by the Chang 
 
 I just can't get enough of the beef patties. All the memories of my childhood snacks are rushing back. 
 
-![jamaican_patty]({{site.baseurl}}/assets/img/jamaica/jamaican_patty.jpeg){:width="50%"}
+{% include image.html src="jamaica/jamaican_patty.jpeg" alt="jamaican_patty" width="50%" loading="eager" %}
 
 *Beef, Chicken, Vegetable, Shrimp, Fish patties, oh my!*
 
@@ -34,25 +34,25 @@ I just can't get enough of the beef patties. All the memories of my childhood sn
 
 I checked into my hotel within walking distance of downtown. It's almost a resort with a pool and large venue. A wedding was hosted at the hotel a few days later with 50+ people and it was quite an experience for me to watch from afar. 
 
-![rainbow]({{site.baseurl}}/assets/img/jamaica/rainbow.jpeg){:width="50%"}![cornwall]({{site.baseurl}}/assets/img/jamaica/cornwall.jpeg){:width="50%"}
+{% include image.html src="jamaica/rainbow.jpeg" alt="rainbow" width="50%" loading="eager" %}{% include image.html src="jamaica/cornwall.jpeg" alt="cornwall" width="50%" %}
 
 Montego Bay is crowded and touristy, just like Hawaii.
 
-![montego]({{site.baseurl}}/assets/img/jamaica/montego.jpeg){:width="50%"}![montego2]({{site.baseurl}}/assets/img/jamaica/montego2.jpeg){:width="50%"}
+{% include image.html src="jamaica/montego.jpeg" alt="montego" width="50%" %}{% include image.html src="jamaica/montego2.jpeg" alt="montego2" width="50%" %}
 
 The downtown is mostly shops, along with a museum and Sam Sharpe square. 
 
-![sam_sharpe]({{site.baseurl}}/assets/img/jamaica/sam_sharpe.jpeg){:width="50%"}
+{% include image.html src="jamaica/sam_sharpe.jpeg" alt="sam_sharpe" width="50%" %}
 
 *Sam Sharpe is a national hero of Jamaica who led the slave uprising in Jamaica*
 
 There are a few structures from the old days as well. 
 
-![cannon]({{site.baseurl}}/assets/img/jamaica/canon.jpeg){:width="50%"}![tower]({{site.baseurl}}/assets/img/jamaica/tower.jpeg){:width="50%"}
+{% include image.html src="jamaica/canon.jpeg" alt="cannon" width="50%" %}{% include image.html src="jamaica/tower.jpeg" alt="tower" width="50%" %}
 
 I strolled through the main beach called Harmony Beach. It was a Christmas paradise. I am sure that the beaches are much busier during cruise ship season. 
 
-![harmony]({{site.baseurl}}/assets/img/jamaica/harmony.jpeg){:width="50%"}![harmony2]({{site.baseurl}}/assets/img/jamaica/harmony2.jpeg){:width="50%"}
+{% include image.html src="jamaica/harmony.jpeg" alt="harmony" width="50%" %}{% include image.html src="jamaica/harmony2.jpeg" alt="harmony2" width="50%" %}
 
 The beach has tight security with bag checks. There are many bathrooms and towel places, along with gigantic floating playgrounds in the water. 
 
@@ -60,11 +60,11 @@ The beach has tight security with bag checks. There are many bathrooms and towel
 
 Quite a few nuggets of goodness all around the island. 
 
-![jerk]({{site.baseurl}}/assets/img/jamaica/jerk.jpeg){:width="50%"}![porridge]({{site.baseurl}}/assets/img/jamaica/porridge.jpeg){:width="50%"}
+{% include image.html src="jamaica/jerk.jpeg" alt="jerk" width="50%" %}{% include image.html src="jamaica/porridge.jpeg" alt="porridge" width="50%" %}
 
 Jerk chicken is of course famous for its smoky and fragrant taste. This peanut porridge holds its own. 
 
-![holiday_food]({{site.baseurl}}/assets/img/jamaica/holiday_food.jpeg){:width="28%"}![sugar_cane]({{site.baseurl}}/assets/img/jamaica/sugar_cane.jpeg){:width="28%"}
+{% include image.html src="jamaica/holiday_food.jpeg" alt="holiday_food" width="28%" %}{% include image.html src="jamaica/sugar_cane.jpeg" alt="sugar_cane" width="28%" %}
 
 This fried dough is called a "festival," and it's sweet with some cinnamon flavors. Sugar canes are also very popular in the island heat.
 
@@ -74,11 +74,11 @@ The Hip Strip are where all the resorts and night life are happening. There are 
 
 Alongside Starbucks and many mom and pop shops, there is a beach called Doctor's Cave that supposedly is famous for healing properties. 
 
-![bolt]({{site.baseurl}}/assets/img/jamaica/bolt.jpeg){:width="50%"}![athletes]({{site.baseurl}}/assets/img/jamaica/athletes.jpeg){:width="50%"}
+{% include image.html src="jamaica/bolt.jpeg" alt="bolt" width="50%" %}{% include image.html src="jamaica/athletes.jpeg" alt="athletes" width="50%" %}
 
 I visited Bolt's restaurant and museum. Funnily enough, I saw on the news a few days prior that Mr Bolt was close to being broke because of a recent scandal involving the largest Jamaican financial institution. 
 
-![marley]({{site.baseurl}}/assets/img/jamaica/marley.jpeg){:width="28%"}![goat]({{site.baseurl}}/assets/img/jamaica/goat.jpeg){:width="50%"}
+{% include image.html src="jamaica/marley.jpeg" alt="marley" width="28%" %}{% include image.html src="jamaica/goat.jpeg" alt="goat" width="50%" %}
 
 *Bob Marley towels \| goats tied to the side of the road*
 
@@ -86,20 +86,20 @@ I visited Bolt's restaurant and museum. Funnily enough, I saw on the news a few 
 
 I spent two days touring the local side of Jamaica. 
 
-![bookstore]({{site.baseurl}}/assets/img/jamaica/bookstore.jpeg){:width="50%"}![cutting]({{site.baseurl}}/assets/img/jamaica/cutting.jpeg){:width="50%"}
+{% include image.html src="jamaica/bookstore.jpeg" alt="bookstore" width="50%" %}{% include image.html src="jamaica/cutting.jpeg" alt="cutting" width="50%" %}
 
 A lot of books and jobs are dedicated to the hospitality and hotel industry. 
 
-![breakfast2]({{site.baseurl}}/assets/img/jamaica/breakfast2.jpeg){:width="50%"}![breakfast]({{site.baseurl}}/assets/img/jamaica/breakfast.jpeg){:width="50%"}
+{% include image.html src="jamaica/breakfast2.jpeg" alt="breakfast2" width="50%" %}{% include image.html src="jamaica/breakfast.jpeg" alt="breakfast" width="50%" %}
 
 Look at these porridges, and Callaloo n' Saltfish! 
 
-![drink]({{site.baseurl}}/assets/img/jamaica/drink.jpeg){:width="50%"}![bulla_cake]({{site.baseurl}}/assets/img/jamaica/bulla_cake.jpeg){:width="50%"}
+{% include image.html src="jamaica/drink.jpeg" alt="drink" width="50%" %}{% include image.html src="jamaica/bulla_cake.jpeg" alt="bulla_cake" width="50%" %}
 
 *Some local drinks \| Bulla cake is a Jamaican pastry made with molasses, cinnamon and nutmeg* 
 
 I had one final meal and walked about 30 minutes to the airport. 
 
-![lunch]({{site.baseurl}}/assets/img/jamaica/lunch.jpeg){:width="50%"}
+{% include image.html src="jamaica/lunch.jpeg" alt="lunch" width="50%" %}
 
 *Festival, Plantain and Chicken lunch*

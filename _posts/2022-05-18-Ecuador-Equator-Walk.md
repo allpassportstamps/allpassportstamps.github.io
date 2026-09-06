@@ -13,7 +13,7 @@ tags: [South America]
 
 I landed in Quito later in the day, checked into my hostel and had a filling arepa (extremely soft buns with juicy stuffings). 
 
-![arepa]({{site.baseurl}}/assets/img/ecuador/arepa.jpeg){:width="50%"}![half dollar]({{site.baseurl}}/assets/img/ecuador/half_dollar.jpeg){:width="28%"}
+{% include image.html src="ecuador/arepa.jpeg" alt="arepa" width="50%" loading="eager" %}{% include image.html src="ecuador/half_dollar.jpeg" alt="half dollar" width="28%" loading="eager" %}
 
 Ecuador uses the US dollar, with its own twists, like this half dollar coin. 
 
@@ -23,13 +23,13 @@ Quito is dense and busy, with meandering hills just like San Francisco where I w
 
 A beautiful monument overlooks the city. 
 
-![quito]({{site.baseurl}}/assets/img/ecuador/quito2.jpeg){:width="50%"}![quito monument]({{site.baseurl}}/assets/img/ecuador/quito_monument.jpeg){:width="50%"}
+{% include image.html src="ecuador/quito2.jpeg" alt="quito" width="50%" %}{% include image.html src="ecuador/quito_monument.jpeg" alt="quito monument" width="50%" %}
 
 ### Middle Earth
 
 Named after the equator, Quito has a monument dedicated to its namesake, although the monument is actually a few kilometers off the true equator.
 
-![equator]({{site.baseurl}}/assets/img/ecuador/equator.jpeg){:width="50%"}
+{% include image.html src="ecuador/equator.jpeg" alt="equator" width="50%" %}
 
 The city is at 2850m above sea level, which gives it the temperate climate even situated right on the equator.  
 
@@ -39,23 +39,23 @@ It's something seeing that yellow line which splits the Earth in half.
 
 I tried the local Andean delicacy - the guinea pig (cuy). It tasted horrible - like extra dry chicken. 
 
-![guinea pig]({{site.baseurl}}/assets/img/ecuador/guinea pig.jpeg){:width="50%"}![guinea pig]({{site.baseurl}}/assets/img/ecuador/guinea pig2.jpeg){:width="50%"}
+{% include image.html src="ecuador/guinea pig.jpeg" alt="guinea pig" width="50%" %}{% include image.html src="ecuador/guinea pig2.jpeg" alt="guinea pig" width="50%" %}
 
 I only have good things to say about Ecuadorian food.  
 
-![quito food]({{site.baseurl}}/assets/img/ecuador/quito_food.jpeg){:width="50%"}![food]({{site.baseurl}}/assets/img/ecuador/food.jpeg){:width="50%"}
+{% include image.html src="ecuador/quito_food.jpeg" alt="quito food" width="50%" %}{% include image.html src="ecuador/food.jpeg" alt="food" width="50%" %}
 *Something like a mix of Peruvian and traditional spanish.*
 
 ### City Life
 
 Everyone is busy. My uber driver was kind enough to converse with me while practicing English. 
 
-![bus]({{site.baseurl}}/assets/img/ecuador/bus.jpeg){:width="50%"}![quimbolitos]({{site.baseurl}}/assets/img/ecuador/quimbolitos.jpeg){:width="50%"}
+{% include image.html src="ecuador/bus.jpeg" alt="bus" width="50%" %}{% include image.html src="ecuador/quimbolitos.jpeg" alt="quimbolitos" width="50%" %}
 *Quimbolitos - cornflour in plantain leaves*
 
 Chifa, like Chaulafan, seems like the perfect fusion between Chinese and Ecuadorian food.
 
-![chaulafan copy]({{site.baseurl}}/assets/img/ecuador/chaulafan copy.jpeg){:width="50%"}![chaulafan]({{site.baseurl}}/assets/img/ecuador/chaulafan.jpeg){:width="50%"}
+{% include image.html src="ecuador/chaulafan copy.jpeg" alt="chaulafan copy" width="50%" %}{% include image.html src="ecuador/chaulafan.jpeg" alt="chaulafan" width="50%" %}
 
 ### Did I climb Cotopaxi? 
 
@@ -63,7 +63,7 @@ No, I did not. Given its popularity as a clothing brand, I was naturally curious
 
 However, I did take the cable car with a couple of folks from the hostel to the other mountain near Quito. 
 
-![climb]({{site.baseurl}}/assets/img/ecuador/climb.jpeg){:width="50%"}![overlook]({{site.baseurl}}/assets/img/ecuador/overlook.jpeg){:width="50%"}
+{% include image.html src="ecuador/climb.jpeg" alt="climb" width="50%" %}{% include image.html src="ecuador/overlook.jpeg" alt="overlook" width="50%" %}
 
 ### Nightlife 
 
@@ -75,6 +75,6 @@ Otavalo is in the Andean highlands, and I visited with a tour group. A crafts pe
 
 The market had quite a few crafts and I was glad to see the indigenous groups in Ecuador thriving. 
 
-![otavo daytrip]({{site.baseurl}}/assets/img/ecuador/otavo_daytrip.jpeg){:width="50%"}![otavo_market]({{site.baseurl}}/assets/img/ecuador/otavo_market.jpeg){:width="50%"}
+{% include image.html src="ecuador/otavo_daytrip.jpeg" alt="otavo daytrip" width="50%" %}{% include image.html src="ecuador/otavo_market.jpeg" alt="otavo_market" width="50%" %}
 
 I said my goodbyes to the city after passing the COVID test at the airport. I certainly hope to return for Galapagos and beyond. 

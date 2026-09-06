@@ -25,9 +25,9 @@ Some aspects of the Tunisia trip that I find really unique:
 
 We arrived in the late afternoons, and are staying for 2 nights in the Medina (old town center) of Tunisia. The streets are narrow, and vendors start closing down around 7 p.m. My friend Abe and I bought a chapati (flatbread with fillings grilled) for dinner. 
 
-![medina]({{site.baseurl}}/assets/img/tunisia/medina.jpeg){:width="50%"}![medina2]({{site.baseurl}}/assets/img/tunisia/medina2.jpeg){:width="50%"}
+{% include image.html src="tunisia/medina.jpeg" alt="medina" width="50%" loading="eager" %}{% include image.html src="tunisia/medina2.jpeg" alt="medina2" width="50%" loading="eager" %}
 
-![french_gate]({{site.baseurl}}/assets/img/tunisia/french_gate.jpeg){:width="50%"}
+{% include image.html src="tunisia/french_gate.jpeg" alt="french_gate" width="50%" %}
 
 *French Gate, a relic of French rule*
 
@@ -37,28 +37,28 @@ After dark, we enjoyed some Turkish tea, a popular evening gathering choice sinc
 
 The next day, we visited the 3000-year-old ruins. The original Punic buildings were dismantled by the Romans to construct churches and temples, which were later modified or replaced by the Muslims/Ottomans. The cycle continues, but a few relics remain. 
 
-![bath]({{site.baseurl}}/assets/img/tunisia/bath.jpeg){:width="50%"}![bath2]({{site.baseurl}}/assets/img/tunisia/bath2.jpeg){:width="50%"}
+{% include image.html src="tunisia/bath.jpeg" alt="bath" width="50%" %}{% include image.html src="tunisia/bath2.jpeg" alt="bath2" width="50%" %}
 *The Roman bath house is huge and the heating / sauna was very extensive*
 
 We visited Sidi Bou Said, the Greek Santorini but in Africa. All the houses are blue and white, and there are many tourists here. 
 
-![sidibousaid]({{site.baseurl}}/assets/img/tunisia/sidibousaid.jpeg){:width="50%"}![sidibousaid1]({{site.baseurl}}/assets/img/tunisia/sidibousaid1.jpeg){:width="50%"}
+{% include image.html src="tunisia/sidibousaid.jpeg" alt="sidibousaid" width="50%" %}{% include image.html src="tunisia/sidibousaid1.jpeg" alt="sidibousaid1" width="50%" %}
 
-![sidibousaid2]({{site.baseurl}}/assets/img/tunisia/sidibousaid2.jpeg){:width="50%"}
+{% include image.html src="tunisia/sidibousaid2.jpeg" alt="sidibousaid2" width="50%" %}
 
 *Palermo, Italy in the distance from Africa*
 
 Sidi Bou Said is so close to Italy that we can clearly see Palermo. I wanted to buy a souvenir at arguably the most popular tourist destination in the country. My friend Abe put in a master class in negotiations, getting our souvenir from $220 dinars to $50 (still overpriced, but okay).
 
-![food1]({{site.baseurl}}/assets/img/tunisia/food1.jpeg){:width="50%"}![food2]({{site.baseurl}}/assets/img/tunisia/food2.jpeg){:width="50%"}
+{% include image.html src="tunisia/food1.jpeg" alt="food1" width="50%" %}{% include image.html src="tunisia/food2.jpeg" alt="food2" width="50%" %}
 *Porridge-like breakfast, but a bit sour and sweet*
 
-![food3]({{site.baseurl}}/assets/img/tunisia/food3.jpeg){:width="50%"}![tea]({{site.baseurl}}/assets/img/tunisia/tea.jpeg){:width="50%"}
+{% include image.html src="tunisia/food3.jpeg" alt="food3" width="50%" %}{% include image.html src="tunisia/tea.jpeg" alt="tea" width="50%" %}
 *Egg, pork(?), olive and bread dip \| Tea with mint*
 
 We had a wonderful meal (bread is dipped with all the dishes here), and had a fantastic afternoon tea. 
 
-![door]({{site.baseurl}}/assets/img/tunisia/door.jpeg){:width="28%"}![flag]({{site.baseurl}}/assets/img/tunisia/flag.jpeg){:width="28%"}
+{% include image.html src="tunisia/door.jpeg" alt="door" width="28%" %}{% include image.html src="tunisia/flag.jpeg" alt="flag" width="28%" %}
 
 ### Almost getting into trouble
 
@@ -66,7 +66,7 @@ I took some pictures of the city's main corridor and the Avenue Habib Bourguiba 
 
 A soldiers walked towards me and said to not take photos of the police there. I showed him my photos and apologized. 
 
-![clock]({{site.baseurl}}/assets/img/tunisia/clock.jpeg){:width="50%"}![clock2]({{site.baseurl}}/assets/img/tunisia/clock2.jpeg){:width="50%"}
+{% include image.html src="tunisia/clock.jpeg" alt="clock" width="50%" %}{% include image.html src="tunisia/clock2.jpeg" alt="clock2" width="50%" %}
 
 It was later explained by my hotel manager that the Arab Spring protest took place here. Because of corruption and poverty, a Tunisian vendor who lost his merchandise set himself on fire, and kicked off the Arab Spring. It was a clash between the former government forces and angry citizens back in 2010, which resulted in the end of the former regime.
 
@@ -76,7 +76,7 @@ We woke up early in the morning to take the louage (Tunisian van / bus) from Tun
 
 Fortunately, we were welcomed by our hostel manager in Sousse. Toutou is a great entrepreneur and a wonderful guide, running the 5-room hostel and a few guest houses by himself. 
 
-![toutou]({{site.baseurl}}/assets/img/tunisia/toutou.jpeg){:width="28%"}![hostel]({{site.baseurl}}/assets/img/tunisia/hostel.jpeg){:width="28%"}
+{% include image.html src="tunisia/toutou.jpeg" alt="toutou" width="28%" %}{% include image.html src="tunisia/hostel.jpeg" alt="hostel" width="28%" %}
 
 *Thank you Toutou for the cookies with our names :)*
 
@@ -86,22 +86,22 @@ We went on a tour together with an Italian couple and an older Swiss gentleman t
 
 We took taxis and a louage to Kairouan, and arrived at the fourth most holy Islam site (a bit contested, because the first three sites are Mecca, Jerusalem and Medina, two of which are in Saudi). 
 
-![kairouan]({{site.baseurl}}/assets/img/tunisia/kairouan.jpeg){:width="50%"}![kairouan2]({{site.baseurl}}/assets/img/tunisia/kairouan2.jpeg){:width="50%"}
+{% include image.html src="tunisia/kairouan.jpeg" alt="kairouan" width="50%" %}{% include image.html src="tunisia/kairouan2.jpeg" alt="kairouan2" width="50%" %}
 
-![kairouan3]({{site.baseurl}}/assets/img/tunisia/kairouan3.jpeg){:width="50%"}
+{% include image.html src="tunisia/kairouan3.jpeg" alt="kairouan3" width="50%" %}
 
 We heard that Kairouan gets to 40 degrees and higher in the summer. Despite the heat, the followers would arrive and pray, especially during Ramadan. 
 
-![food5]({{site.baseurl}}/assets/img/tunisia/food5.jpeg){:width="50%"}![water]({{site.baseurl}}/assets/img/tunisia/water.jpeg){:width="50%"}
+{% include image.html src="tunisia/food5.jpeg" alt="food5" width="50%" %}{% include image.html src="tunisia/water.jpeg" alt="water" width="50%" %}
 
 For lunch, the group enjoyed a traditional dish served with bread, followed by a visit to the historic water tank facility. (Not shown in the pictures, but harissa is a Tunisian chili paste that is very popular here)
 
-![door2]({{site.baseurl}}/assets/img/tunisia/door2.jpeg){:width="28%"}![bread]({{site.baseurl}}/assets/img/tunisia/bread.jpeg){:width="50%"}
+{% include image.html src="tunisia/door2.jpeg" alt="door2" width="28%" %}{% include image.html src="tunisia/bread.jpeg" alt="bread" width="50%" %}
 *Look at the bread!*
 
 We walked around the town center of Kairouan, and learned more about how camels worked the wells in the past. 
 
-![camel]({{site.baseurl}}/assets/img/tunisia/camel.jpeg){:width="50%"}![camel2]({{site.baseurl}}/assets/img/tunisia/camel2.jpeg){:width="50%"}
+{% include image.html src="tunisia/camel.jpeg" alt="camel" width="50%" %}{% include image.html src="tunisia/camel2.jpeg" alt="camel2" width="50%" %}
 *Camel working in the well \| A butcher shop*
 
 After an exhausting day, we relaxed by going to the Hammam. It was a memorable and amusing experience, especially since it involved my friend and I stripping down to nearly nothing in the steam room for an hour.
@@ -122,7 +122,7 @@ On the train there, an off duty intelligence officer of Tunisia was sitting acro
 
 We also got to talking about what I do for work, and how I think about Tunisia. Afterwards, Abe wondered if he had been testing to see if I was an American operative.
 
-![train]({{site.baseurl}}/assets/img/tunisia/train.jpeg){:width="50%"}![train2]({{site.baseurl}}/assets/img/tunisia/train2.jpeg){:width="50%"}
+{% include image.html src="tunisia/train.jpeg" alt="train" width="50%" %}{% include image.html src="tunisia/train2.jpeg" alt="train2" width="50%" %}
 
 About three quarters of the trip there, we suddenly hear gun shots. Abe and I got down instantly, but the locals were less shaken. We learned that the gunshots were from juveniles targeting the train. We were definitely concerned about our safety, but thankfully no one was hit by the projectile. 
 
@@ -130,23 +130,23 @@ About three quarters of the trip there, we suddenly hear gun shots. Abe and I go
 
 El Jem is very touristy, but the 'wow' is overwhelming. 
 
-![eljem]({{site.baseurl}}/assets/img/tunisia/eljem.jpeg){:width="50%"}![eljem2]({{site.baseurl}}/assets/img/tunisia/eljem2.jpeg){:width="50%"}
+{% include image.html src="tunisia/eljem.jpeg" alt="eljem" width="50%" %}{% include image.html src="tunisia/eljem2.jpeg" alt="eljem2" width="50%" %}
 
 Abe and I got some local dates (fruit) and went to the museum. We went separate ways because he wanted to get ready for his date (not the fruit kind) that night with a local pharmacist whom he met. 
 
-![dates]({{site.baseurl}}/assets/img/tunisia/dates.jpeg){:width="50%"}
+{% include image.html src="tunisia/dates.jpeg" alt="dates" width="50%" %}
 
 Our other hostel friend, Abdul, (Syrian living in Germany) said that he wanted to visit Sfax, the second largest city of Tunisia located further south. I decided to go check it out. 
 
 Taking the louage to Sfax, we had a much easier time navigating the city, because Abdul speaks arabic! 
 
-![sfax]({{site.baseurl}}/assets/img/tunisia/sfax.jpeg){:width="50%"}![sfax2]({{site.baseurl}}/assets/img/tunisia/sfax2.jpeg){:width="50%"}
+{% include image.html src="tunisia/sfax.jpeg" alt="sfax" width="50%" %}{% include image.html src="tunisia/sfax2.jpeg" alt="sfax2" width="50%" %}
 
 The medina in Sfax is expansive, surrounded by majestic walls and filled with numerous shops. The city is much less toursity and quite industrial. There is a big port, and many refineries all around. 
 
 Abdul and I had a $25 USD (quite expensive for Tunisian standards) dinner at a great fish place. 
 
-![abdul]({{site.baseurl}}/assets/img/tunisia/abdul.jpeg){:width="50%"}
+{% include image.html src="tunisia/abdul.jpeg" alt="abdul" width="50%" %}
 
 I hope Abdul and I will have the opportunity to meet again soon.
 
@@ -154,7 +154,7 @@ I hope Abdul and I will have the opportunity to meet again soon.
 
 I spent the last day of my trip traveling back to Tunis. I had some fantastic chicken couscous and drank some mint tea. 
 
-![couscous]({{site.baseurl}}/assets/img/tunisia/couscous.jpeg){:width="28%"}
+{% include image.html src="tunisia/couscous.jpeg" alt="couscous" width="28%" %}
 <!-- ![wall]({{site.baseurl}}/assets/img/tunisia/wall.jpeg){:width="50%"} -->
 
 *The global conflict is happening and of course Tunisians support their own.*

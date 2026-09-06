@@ -23,7 +23,7 @@ Some aspects of my Czech Republic trip that I found really unique:
 
 ### Arriving in Prague
 
-![clarion_hotel]({{site.baseurl}}/assets/img/czech_republic/clarion_hotel.jpeg){:width="28%"}![hotel_surroundings]({{site.baseurl}}/assets/img/czech_republic/hotel_surroundings.jpeg){:width="50%"}
+{% include image.html src="czech_republic/clarion_hotel.jpeg" alt="clarion_hotel" width="28%" loading="eager" %}{% include image.html src="czech_republic/hotel_surroundings.jpeg" alt="hotel_surroundings" width="50%" loading="eager" %}
 
 Arriving at the airport on Friday evening, I was pleasantly surprised by an Uber machine at the airport, and many black Uber cars painted with the word "Airport."
 
@@ -39,21 +39,21 @@ Waking up extra early from jet lag, I meandered through the streets of Prague fo
 
 I made my way across town, across Charles Bridge, then to the Saturday Farmer's Market, before going back to the Metronome and more.
 
-![charles_bridge]({{site.baseurl}}/assets/img/czech_republic/charles_bridge.jpeg){:width="50%"}![charles_bridge2]({{site.baseurl}}/assets/img/czech_republic/charles_bridge2.jpeg){:width="50%"}
+{% include image.html src="czech_republic/charles_bridge.jpeg" alt="charles_bridge" width="50%" %}{% include image.html src="czech_republic/charles_bridge2.jpeg" alt="charles_bridge2" width="50%" %}
 *Walking across Charles Bridge with the magnificent statues, so much history from Charles IV to the Reformation to the Habsburgs to today.*
 
 Built by Charles IV, the Charles Bridge is magnificent and full of statues. The Prague Castle is serene, and the mix of architectural styles is amazing. On the bridge, despite the tourists and vendors, you can see such beauty from all sides.
 
-![dancing_house]({{site.baseurl}}/assets/img/czech_republic/dancing_house.jpeg){:width="50%"}![lennon_wall]({{site.baseurl}}/assets/img/czech_republic/lennon_wall.jpeg){:width="28%"}
+{% include image.html src="czech_republic/dancing_house.jpeg" alt="dancing_house" width="50%" %}{% include image.html src="czech_republic/lennon_wall.jpeg" alt="lennon_wall" width="28%" %}
 
 The Lennon Wall is super special, despite John Lennon never visiting. During the Communist era, Western music was not easily accessible, and the Beatles' songs about peace, like "Let It Be," became an instrument for the youth and rock and roll artists to defy the authorities and express their discontent. The walls have been painted over and over; unfortunately, today, you can no longer write on the wall as it has become such a tourist attraction.
 
-![view]({{site.baseurl}}/assets/img/czech_republic/view.jpeg){:width="50%"}![view2]({{site.baseurl}}/assets/img/czech_republic/view2.jpeg){:width="50%"}
+{% include image.html src="czech_republic/view.jpeg" alt="view" width="50%" %}{% include image.html src="czech_republic/view2.jpeg" alt="view2" width="50%" %}
 *There are many vantage points for soaking up the city's views.*
 
 In the afternoon, I tried the amazing goulash at a fairly local restaurant away from the city center. The dumplings, like Chinese mantou, were amazing for soaking up the goulash's sauce.
 
-![goulash]({{site.baseurl}}/assets/img/czech_republic/goulash.jpeg){:width="50%"}![military_museum]({{site.baseurl}}/assets/img/czech_republic/military_museum.jpeg){:width="28%"}
+{% include image.html src="czech_republic/goulash.jpeg" alt="goulash" width="50%" %}{% include image.html src="czech_republic/military_museum.jpeg" alt="military_museum" width="28%" %}
 
 I then visited the military museum. I learned about the Czechoslovak Legion's story on the Trans-Siberian line as the country fought for independence and battled the Bolsheviks in Russia.
 
@@ -65,9 +65,9 @@ Czechs are famous for their marionettes. Just watch this [marionette show](https
 
 The puppets are so life-like, telling unique stories. 
 
-![marionettes1]({{site.baseurl}}/assets/img/czech_republic/marionettes1.jpeg){:width="50%"}![marionettes2]({{site.baseurl}}/assets/img/czech_republic/marionettes2.jpeg){:width="50%"}
+{% include image.html src="czech_republic/marionettes1.jpeg" alt="marionettes1" width="50%" %}{% include image.html src="czech_republic/marionettes2.jpeg" alt="marionettes2" width="50%" %}
 
-![marionettes3]({{site.baseurl}}/assets/img/czech_republic/marionettes3.jpeg){:width="50%"}![marionettes4]({{site.baseurl}}/assets/img/czech_republic/marionettes4.jpeg){:width="50%"}
+{% include image.html src="czech_republic/marionettes3.jpeg" alt="marionettes3" width="50%" %}{% include image.html src="czech_republic/marionettes4.jpeg" alt="marionettes4" width="50%" %}
 
 I am so happy to visit the Czech Marionettes store, which I had watched prior to visiting Prague by watching [Youtube](https://www.youtube.com/@czechmarionettes).
 
@@ -75,36 +75,36 @@ I got a marionette for myself themed after a man drinking Pilsen beer, and got M
 
 ### Day 2: Trip to Cesky Krumlov
 
-![ck]({{site.baseurl}}/assets/img/czech_republic/ck.jpeg){:width="50%"}![ck3]({{site.baseurl}}/assets/img/czech_republic/ck3.jpeg){:width="50%"}
+{% include image.html src="czech_republic/ck.jpeg" alt="ck" width="50%" %}{% include image.html src="czech_republic/ck3.jpeg" alt="ck3" width="50%" %}
 *The beauty and wow-factor when seeing that beautiful little town for the first time*
 
 On my second day, I visited the Southern famous town of Cesky Krumlov by 3-hour tour bus. 
 
 We started the tour on top of the CK castle, with an amazing view of the town. 
 
-![ck4]({{site.baseurl}}/assets/img/czech_republic/ck4.jpeg){:width="50%"}![ck2]({{site.baseurl}}/assets/img/czech_republic/ck2.jpeg){:width="50%"}
+{% include image.html src="czech_republic/ck4.jpeg" alt="ck4" width="50%" %}{% include image.html src="czech_republic/ck2.jpeg" alt="ck2" width="50%" %}
 
 We toured the historic Krumlov Castle, learning about the families that built and ruled including the Rosenberg and Schwarzenberg. 
 
 We saw the amazing Baroque and renaissance decorations, and the painted decorations on the stuccos. 
 
-![castle_tour]({{site.baseurl}}/assets/img/czech_republic/castle_tour.jpeg){:width="50%"}![castle_tour2]({{site.baseurl}}/assets/img/czech_republic/castle_tour2.jpeg){:width="50%"}
+{% include image.html src="czech_republic/castle_tour.jpeg" alt="castle_tour" width="50%" %}{% include image.html src="czech_republic/castle_tour2.jpeg" alt="castle_tour2" width="50%" %}
 *As a tradition, the Rosenbergs have kept 3 bears at the castle by the gates.*
 
 CK is such a beautiful town with little shops and kayaks on the river, about 3 rings of roads with a main center square. 
 
 CK used to be 80%+ ethnically German speaking. So in 1938, the Nazis were actually welcomed. However, after WWII, they were expelled as part of the greater de-Germanization of Czechoslovakia. 
 
-![ck_history]({{site.baseurl}}/assets/img/czech_republic/ck_history.jpeg){:width="50%"}![snack_bohemia]({{site.baseurl}}/assets/img/czech_republic/snack_bohemia.jpeg){:width="28%"}
+{% include image.html src="czech_republic/ck_history.jpeg" alt="ck_history" width="50%" %}{% include image.html src="czech_republic/snack_bohemia.jpeg" alt="snack_bohemia" width="28%" %}
 
 After walking across the rivers and the towns, and visiting the many Bohemian styled shops, I sat down and ate lunch serving historical Bohemian food.
 
-![ck_lunch]({{site.baseurl}}/assets/img/czech_republic/ck_lunch.jpeg){:width="50%"}![ck_lunch2]({{site.baseurl}}/assets/img/czech_republic/ck_lunch2.jpeg){:width="50%"}
+{% include image.html src="czech_republic/ck_lunch.jpeg" alt="ck_lunch" width="50%" %}{% include image.html src="czech_republic/ck_lunch2.jpeg" alt="ck_lunch2" width="50%" %}
 *You can see the layers and layers of walls and building materials, and the history hidden in these crammed quarters*
 
 With sadness, I said goodbye along with the tour bus from Cesky Krumlov.
 
-![ck_goodbye2]({{site.baseurl}}/assets/img/czech_republic/ck_goodbye2.jpeg){:width="50%"}![ck_goodbye]({{site.baseurl}}/assets/img/czech_republic/ck_goodbye.jpeg){:width="50%"}
+{% include image.html src="czech_republic/ck_goodbye2.jpeg" alt="ck_goodbye2" width="50%" %}{% include image.html src="czech_republic/ck_goodbye.jpeg" alt="ck_goodbye" width="50%" %}
 
 ### Day 3: Walking Tour of Prague 
 
@@ -112,11 +112,11 @@ I spent the third day learning about Prague's main attractions. The name "Bohemi
 
 We attended the Astronomical Clock show and learned about the history of Charles University. Our guide enthusiastically explained how education is free and excellent (if you take classes in Czech rather than German). We also learned about how Mozart premiered many operas in Prague, including Don Giovanni ([statue](https://www.google.com/search?q=mozart+don+giovanni+statue+prague+theatre)).
 
-![astronomical]({{site.baseurl}}/assets/img/czech_republic/astronomical.jpeg){:width="28%"}![square]({{site.baseurl}}/assets/img/czech_republic/square.jpeg){:width="50%"}
+{% include image.html src="czech_republic/astronomical.jpeg" alt="astronomical" width="28%" %}{% include image.html src="czech_republic/square.jpeg" alt="square" width="50%" %}
 
 We learned about the religious conflicts between Jan Hus and the Hussites, including several instances of people being thrown out of windows (defenestration), before Austria ultimately converted the country back to Catholicism. 
 
-![kafka_statue]({{site.baseurl}}/assets/img/czech_republic/kafka_statue.jpeg){:width="50%"}![golem_of_prague]({{site.baseurl}}/assets/img/czech_republic/golem_of_prague.jpeg){:width="50%"}
+{% include image.html src="czech_republic/kafka_statue.jpeg" alt="kafka_statue" width="50%" %}{% include image.html src="czech_republic/golem_of_prague.jpeg" alt="golem_of_prague" width="50%" %}
 *Left: Statue dedicated to Kafka and the cockroach from Metamorphosis.*
 
 We learned about Kafka's life, how his relationship with his father, his German studies, and his illness ultimately shaped his posthumous fame as a writer. 
@@ -129,32 +129,32 @@ The Golem is related to the Jewish word for humans without souls, and there's a 
 
 During my walking tour the previous day, our guide mentioned that the Powder Tower used to be called the Horská Gate, named for its location on the road leading to Kutná Hora. 
 
-![hutna_hora_train]({{site.baseurl}}/assets/img/czech_republic/hutna_hora_train.jpeg){:width="50%"}![sedlec_ossuary1]({{site.baseurl}}/assets/img/czech_republic/sedlec_ossuary1.jpeg){:width="50%"}
+{% include image.html src="czech_republic/hutna_hora_train.jpeg" alt="hutna_hora_train" width="50%" %}{% include image.html src="czech_republic/sedlec_ossuary1.jpeg" alt="sedlec_ossuary1" width="50%" %}
 
 Kutná Hora was once the economic center of Bohemia due to its silver mining industry. I had the opportunity to visit the town by train.
 
 My first stop was the Sedlec Ossuary, also known as the Bone Church. The church is decorated with human remains, a result of large famines and the 14th-century Hussite holy war. 
 
-![sedlec_ossuary4]({{site.baseurl}}/assets/img/czech_republic/sedlec_ossuary4.jpeg){:width="50%"}![sedlec_ossuary2]({{site.baseurl}}/assets/img/czech_republic/sedlec_ossuary2.jpeg){:width="28%"}
+{% include image.html src="czech_republic/sedlec_ossuary4.jpeg" alt="sedlec_ossuary4" width="50%" %}{% include image.html src="czech_republic/sedlec_ossuary2.jpeg" alt="sedlec_ossuary2" width="28%" %}
 
 The theme of the Ossuary is **Memento Mori** - remember that you too will die. At the lower level, there are beautiful decorations with four pyramids of skulls. The Schwarzenberg coat of arms was also recreated using human bones. There are so many intricate details that are both beautiful and haunting at the same time. 
 
-![coat_of_arms]({{site.baseurl}}/assets/img/czech_republic/coat_of_arms.JPG){:width="50%"}
+{% include image.html src="czech_republic/coat_of_arms.JPG" alt="coat_of_arms" width="50%" %}
 
 *Thank you Ms. Q for giving me this picture of the Schwarzenberg coat of arms from 2016. In present day 2025, pictures are not allowed*
 
 I then took the town bus to visit the famous St. Barbara's Church. The church itself is grand, decorated in a beautiful Gothic style. 
 
-![st_barbara]({{site.baseurl}}/assets/img/czech_republic/st_barbara.jpeg){:width="50%"}![st_barbara2]({{site.baseurl}}/assets/img/czech_republic/st_barbara2.jpeg){:width="28%"}
+{% include image.html src="czech_republic/st_barbara.jpeg" alt="st_barbara" width="50%" %}{% include image.html src="czech_republic/st_barbara2.jpeg" alt="st_barbara2" width="28%" %}
 *There were many school field trips here on that day :)*
 
 The Catholic decorations and the beautiful windows and ceilings are a sight to behold.
 
-![st_barbara5]({{site.baseurl}}/assets/img/czech_republic/st_barbara5.jpeg){:width="50%"}![st_barbara7]({{site.baseurl}}/assets/img/czech_republic/st_barbara7.jpeg){:width="50%"}
+{% include image.html src="czech_republic/st_barbara5.jpeg" alt="st_barbara5" width="50%" %}{% include image.html src="czech_republic/st_barbara7.jpeg" alt="st_barbara7" width="50%" %}
 
 In the afternoon, I walked through the small town, visiting attractions like the Plague Column and the Italian Court, before visiting the Mining Museum. There were so many details about how people used to live and work in the mines. 
 
-![lunch_hutna_hora]({{site.baseurl}}/assets/img/czech_republic/lunch_hutna_hora.jpeg){:width="50%"}![hutna_hora1]({{site.baseurl}}/assets/img/czech_republic/hutna_hora1.jpeg){:width="50%"}
+{% include image.html src="czech_republic/lunch_hutna_hora.jpeg" alt="lunch_hutna_hora" width="50%" %}{% include image.html src="czech_republic/hutna_hora1.jpeg" alt="hutna_hora1" width="50%" %}
 *I enjoyed a delicious soup and schnitzel while soaking in the Kutná Hora atmosphere*
 
 On the way back, I had a slightly amusing encounter with the bus driver who got upset with me for not realizing that I needed to specify which town I was traveling to, as different destinations had different fares. 
@@ -165,22 +165,22 @@ I also had a funny coincidence where I met a Chinese-Singaporean couple at the K
 
 I woke up early and walked to Dr. Franz Kafka's gravesite in the New Jewish Cemetery. At the grave, there were signs pointing to famous people buried there. I had an interesting encounter with a weeping elderly woman at the grave. 
 
-![kafka_grave]({{site.baseurl}}/assets/img/czech_republic/kafka_grave.jpeg){:width="50%"}![zizkov_tower]({{site.baseurl}}/assets/img/czech_republic/zizkov_tower.jpeg){:width="50%"}
+{% include image.html src="czech_republic/kafka_grave.jpeg" alt="kafka_grave" width="50%" %}{% include image.html src="czech_republic/zizkov_tower.jpeg" alt="zizkov_tower" width="50%" %}
 *Right: Žižkov Tower*
 
 I had to hurry because I was running late for my walking tour in the Lesser Town across Charles Bridge. 
 
-![wenceslas_square]({{site.baseurl}}/assets/img/czech_republic/wenceslas_square.jpeg){:width="50%"}
+{% include image.html src="czech_republic/wenceslas_square.jpeg" alt="wenceslas_square" width="50%" %}
 
 The tour had an interesting setup. We met at the metro station but immediately took the tram up to see Prague Castle. Our group of about 20 people all tried to board the tram together.
 
 It was fascinating to learn about how Charles IV, Rudolf II, and figures like Maria Theresa (mother of Marie Antoinette) shaped Prague Castle with various renovations and improvements that often spanned hundreds of years. 
 
-![prague_castle]({{site.baseurl}}/assets/img/czech_republic/prague_castle.jpeg){:width="50%"}![st_vidus]({{site.baseurl}}/assets/img/czech_republic/st_vidus.jpeg){:width="50%"}
+{% include image.html src="czech_republic/prague_castle.jpeg" alt="prague_castle" width="50%" %}{% include image.html src="czech_republic/st_vidus.jpeg" alt="st_vidus" width="50%" %}
 
 We stopped at noon to watch the changing of the guard. It reminded me of my time in the Canadian reserves when I had to practice rifle drills. 
 
-![st_vidus2]({{site.baseurl}}/assets/img/czech_republic/st_vidus2.jpeg){:width="50%"}![st_vidus3]({{site.baseurl}}/assets/img/czech_republic/st_vidus3.jpeg){:width="50%"}
+{% include image.html src="czech_republic/st_vidus2.jpeg" alt="st_vidus2" width="50%" %}{% include image.html src="czech_republic/st_vidus3.jpeg" alt="st_vidus3" width="50%" %}
 
 St. Vitus Cathedral is grand and full of life. The details on the twin towers are unmatched, and there is so much history and tradition as all the kings lived here throughout history. 
 
@@ -188,13 +188,13 @@ There were three historically famous incidents of defenestration (throwing peopl
 
 I enjoyed exploring the surrounding Lesser Town, which is serene but more colorful. (And as a frequent shopper, the shops are more unique!)
 
-![day5_view]({{site.baseurl}}/assets/img/czech_republic/day5_view.jpeg){:width="50%"}![day5_lunch]({{site.baseurl}}/assets/img/czech_republic/day5_lunch.jpeg){:width="50%"}
+{% include image.html src="czech_republic/day5_view.jpeg" alt="day5_view" width="50%" %}{% include image.html src="czech_republic/day5_lunch.jpeg" alt="day5_lunch" width="50%" %}
 
 ### Day 6: Communist History
 
 Going on the Communist History walking tour, I learned a great deal about the ethnic and geopolitical history of Czechoslovakia. 
 
-![day6]({{site.baseurl}}/assets/img/czech_republic/day6.jpeg){:width="50%"}
+{% include image.html src="czech_republic/day6.jpeg" alt="day6" width="50%" %}
 
 The tour began with the complex history of German-Czech relations. Germans were once an integral part of Czech and Bohemia during the Austro-Hungarian Empire. However, Czech nationalism grew, leading to tensions with the German minority.
 
@@ -212,7 +212,7 @@ In the main square, we discussed the WWII liberation efforts. According to the a
 
 After WWII, the Czechs took revenge on the German population. Over 90% of Germans were expelled, with many ethnic Germans being marked with swastikas. In 1997, Germany and Czechoslovakia signed a peace agreement, renouncing any territorial claims and committing to move forward. The formerly German areas were repopulated primarily by poorer Czechs and Slovaks.
 
-![krtek]({{site.baseurl}}/assets/img/czech_republic/krtek.jpeg){:width="50%"}
+{% include image.html src="czech_republic/krtek.jpeg" alt="krtek" width="50%" %}
 
 *Krtek, the beloved little mole cartoon*
 
@@ -220,30 +220,30 @@ Communism took hold in 1948, followed by severe persecutions in the 1950s. Despi
 
 The 1960s also saw the Prague Spring, when Czechoslovakia attempted to liberalize with Western-style policies, including freedom of speech. However, in 1968, Warsaw Pact armies invaded, with five armies occupying the country. The president was demoted to a factory line worker as punishment.
 
-![velvet_rev]({{site.baseurl}}/assets/img/czech_republic/velvet_rev.jpeg){:width="50%"}
+{% include image.html src="czech_republic/velvet_rev.jpeg" alt="velvet_rev" width="50%" %}
 
 Finally, in 1989, the Velvet Revolution brought an end to Communism. After a brutal crackdown on student protests, the people took to the streets in peaceful demonstrations, ultimately leading to the fall of the Communist regime.
 
-![vysehrad]({{site.baseurl}}/assets/img/czech_republic/vysehrad.jpeg){:width="28%"}![vysehrad2]({{site.baseurl}}/assets/img/czech_republic/vysehrad2.jpeg){:width="50%"}
+{% include image.html src="czech_republic/vysehrad.jpeg" alt="vysehrad" width="28%" %}{% include image.html src="czech_republic/vysehrad2.jpeg" alt="vysehrad2" width="50%" %}
 
 I spent that afternoon visiting Vysehrad, another historical castle. The scenery of the Vltava river and Prague skyline was fantastic.
 
-![vysehrad3]({{site.baseurl}}/assets/img/czech_republic/vysehrad3.jpeg){:width="50%"}![day6_dinner]({{site.baseurl}}/assets/img/czech_republic/day6_dinner.jpeg){:width="50%"}
+{% include image.html src="czech_republic/vysehrad3.jpeg" alt="vysehrad3" width="50%" %}{% include image.html src="czech_republic/day6_dinner.jpeg" alt="day6_dinner" width="50%" %}
 
 ### Day 7: Last day
 
 On my last day, I walked up to the Grotta Umělá jeskyně and enjoyed the amazing garden and decorations.
 
-![day7]({{site.baseurl}}/assets/img/czech_republic/day7.jpeg){:width="50%"}![day7_walk]({{site.baseurl}}/assets/img/czech_republic/day7_walk.jpeg){:width="50%"}
+{% include image.html src="czech_republic/day7.jpeg" alt="day7" width="50%" %}{% include image.html src="czech_republic/day7_walk.jpeg" alt="day7_walk" width="50%" %}
 
 I spent the early afternoon at the Airport mall, before taking a country road to my hotel. 
 
 My last night was spent at this pilot-themed airport restaurant-inn. My room was literally in the attic, and I could open the roof window to peer at the surroundings. 
 
-![lodge]({{site.baseurl}}/assets/img/czech_republic/lodge.jpeg){:width="50%"}![lodge2]({{site.baseurl}}/assets/img/czech_republic/lodge2.jpeg){:width="50%"}
+{% include image.html src="czech_republic/lodge.jpeg" alt="lodge" width="50%" %}{% include image.html src="czech_republic/lodge2.jpeg" alt="lodge2" width="50%" %}
 
 I really enjoyed dinner later that evening, people-watching the small town locals drinking some Pilsner Urquell. 
 
-![lodge3]({{site.baseurl}}/assets/img/czech_republic/lodge3.jpeg){:width="50%"}![day7_view]({{site.baseurl}}/assets/img/czech_republic/day7_view.jpeg){:width="50%"}
+{% include image.html src="czech_republic/lodge3.jpeg" alt="lodge3" width="50%" %}{% include image.html src="czech_republic/day7_view.jpeg" alt="day7_view" width="50%" %}
 
 What a wonderful week in the Czech Republic!

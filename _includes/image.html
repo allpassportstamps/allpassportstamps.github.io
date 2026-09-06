@@ -1,0 +1,9 @@
+{%- assign image_key = include.src | replace: '&#x27;', "'" | replace: '&amp;', '&' -%}
+{%- assign image_data = site.data.images[image_key] -%}
+{%- assign image_variant = include.variant | default: 'article' -%}
+{%- assign image_file = image_data[image_variant] -%}
+{%- assign image_path = image_file.path -%}
+{%- unless image_path -%}
+  {%- assign image_path = image_key | prepend: '/assets/img/' -%}
+{%- endunless -%}
+<img src="{{ image_path | relative_url | escape }}" alt="{{ include.alt | escape_once }}"{% if image_file %} width="{{ image_file.width }}" height="{{ image_file.height }}"{% endif %} class="optimized-image{% if include.class %} {{ include.class | escape }}{% endif %}"{% if include.width %} style="width: {{ include.width | escape }}; height: auto;"{% endif %} loading="{{ include.loading | default: 'lazy' }}" decoding="async"{% if include.priority %} fetchpriority="{{ include.priority }}"{% endif %}>{%- comment -%}Avoid whitespace between adjacent 50%-width photos.{%- endcomment -%}

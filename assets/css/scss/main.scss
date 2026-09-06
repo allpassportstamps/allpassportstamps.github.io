@@ -29,6 +29,10 @@ img {
   display: inline-block;
 }
 
+.optimized-image {
+  height: auto;
+}
+
 img + em {
   text-align: center;
   display: block;
