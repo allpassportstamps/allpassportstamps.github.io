@@ -48,3 +48,51 @@
     }
   }
 }
+/* Tag controls reuse the home page pagination layout and page colors. */
+.tag-pagination ul {
+  justify-content: flex-start;
+}
+.tag-pagination button {
+  appearance: none;
+  border: 0;
+  background: transparent;
+  font-family: inherit;
+  cursor: pointer;
+}
+.tag-pagination button:focus-visible {
+  outline: 2px solid #263959;
+  outline-offset: 3px;
+}
+.tag-pagination button.page-number:not(.current):hover {
+  background-color: rgba(38, 57, 89, 0.1);
+  color: #263959;
+  transform: translateY(-2px);
+}
+.tag-pagination button.older-posts,
+.tag-pagination button.newer-posts {
+  padding: 8px;
+  font-size: 18px;
+  color: #515151;
+  transition: transform .2s;
+}
+.tag-pagination button.older-posts:not(:disabled):hover {
+  transform: translateX(5px);
+}
+.tag-pagination button.newer-posts:not(:disabled):hover {
+  transform: translateX(-5px);
+}
+.tag-pagination button:disabled {
+  color: #ccc;
+  cursor: default;
+}
+.tag-pagination-status {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
