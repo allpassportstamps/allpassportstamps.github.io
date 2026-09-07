@@ -1,0 +1,13 @@
+---
+layout: main
+title: Search posts
+permalink: /search/
+---
+<section class="blog-search" data-search-index="{{ '/search.json' | relative_url }}" aria-labelledby="search-heading">
+  <h1 id="search-heading">Search posts</h1>
+  {% include search-form.html id="page-search" %}
+  <p class="search-status" role="status" aria-atomic="true"></p>
+  <noscript><p>JavaScript is required to search posts. You can also browse <a href="{{ '/tags/' | relative_url }}">My journey</a>.</p></noscript>
+  <div class="search-results"></div>
+</section>
+<script src="{{ '/assets/js/search.js' | relative_url }}" defer></script>

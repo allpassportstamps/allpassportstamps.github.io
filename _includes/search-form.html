@@ -1,0 +1,5 @@
+<form class="search-form" role="search" action="{{ '/search/' | relative_url }}" method="get">
+  <label class="search-label" for="{{ include.id }}">Search posts</label>
+  <input id="{{ include.id }}" type="search" name="q" placeholder="Search posts…">
+  <button type="submit" aria-label="Search posts"><i class="fa fa-search" aria-hidden="true"></i></button>
+</form>

@@ -2,6 +2,12 @@
 
 A static Jekyll travel blog hosted on GitHub Pages.
 
+## Blog search
+
+The sidebar search opens `/search/` and searches published post titles, tags, and full text. Every word must match; title matches rank before tag and body matches, with newest posts first when scores tie. Search requires JavaScript.
+
+Jekyll generates `/search.json` automatically during the normal build, so publishing or editing a post updates search without an extra command. The index loads only on the search page. Search styling lives in `assets/css/scss/parts/_search.scss`; keep the served `assets/css/main.css` in sync when changing it.
+
 ## Set up image optimization once
 
 From the repository directory, with Python 3.11 or newer installed:

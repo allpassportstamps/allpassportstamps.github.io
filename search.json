@@ -1,0 +1,16 @@
+---
+layout: null
+permalink: /search.json
+---
+[
+{% assign searchable_posts = site.posts | where_exp: 'post', 'post.published != false' %}
+{% for post in searchable_posts %}
+  {
+    "title": {{ post.title | jsonify }},
+    "tags": {{ post.tags | jsonify }},
+    "date": {{ post.date | date: '%Y-%m-%d' | jsonify }},
+    "url": {{ post.url | relative_url | jsonify }},
+    "content": {{ post.content | replace: '</', ' </' | strip_html | normalize_whitespace | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]
